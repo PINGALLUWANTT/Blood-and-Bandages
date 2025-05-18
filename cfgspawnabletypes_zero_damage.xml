@@ -3103,46 +3103,64 @@
 	</type>
 	<type name="OffroadHatchback">
 		<attachments chance="1.00">
-			<item name="HatchbackWheel" chance="1" />
+			<item name="HatchbackWheel" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HatchbackWheel" chance="1" />
+			<item name="HatchbackWheel" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HatchbackWheel" chance="1" />
+			<item name="HatchbackWheel" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HatchbackWheel" chance="1" />
+			<item name="HatchbackWheel" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HatchbackWheel" chance="1" />
+			<item name="HatchbackWheel" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="CarRadiator" chance="1" />
+			<item name="CarRadiator" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="CarBattery" chance="1" />
+			<item name="CarBattery" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="SparkPlug" chance="1" />
+			<item name="SparkPlug" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="1" />
+			<item name="HeadlightH7" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="1" />
+			<item name="HeadlightH7" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HatchbackDoors_Driver" chance="1" />
+			<item name="HatchbackDoors_Driver" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HatchbackDoors_CoDriver" chance="1" />
+			<item name="HatchbackDoors_CoDriver" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HatchbackHood" chance="1" />
+			<item name="HatchbackHood" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HatchbackTrunk" chance="1" />
+			<item name="HatchbackTrunk" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WaterBottle" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WaterBottle" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WaterBottle" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WaterBottle" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Roadflare" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="OffroadHatchback_Blue">
