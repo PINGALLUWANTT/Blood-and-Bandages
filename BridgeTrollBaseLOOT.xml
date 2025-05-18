@@ -1,0 +1,42 @@
+Add to Mapgrouppos for loot:
+
+	
+	<group name="Land_Misc_Table_Market_Spawn" pos="686.698303 189.188141 8707.545898" rpy="-0.000000 -0.000000 159.780991" a="-69.781"/>
+	<group name="StaticObj_Misc_Gunrack_Bridge" pos="698.449951 189.086349 8676.750977" rpy="-0.000000 -0.000000 21.196165" a="68.8038"/>
+	<group name="StaticObj_Furniture_table_Containers" pos="695.940979 189.080994 8675.700195" rpy="0.000000 0.000000 -20.769398" a="110.769"/>
+	
+Add to Mapgroupproto for loot:
+	
+	<group name="StaticObj_Furniture_table_Containers" lootmax="4">
+		<dispatch dechance="1">
+			<proxy type="WaterproofBag_Green" pos="0.433565 0.434674 -0.243841" rpy="0 0 0" dechance="1" /><!---->
+			<proxy type="AmmoBox" pos="-0.401975 0.539222 -0.031109" rpy="0 50 0" dechance="1" /><!---->
+			<proxy type="SmallProtectorCase" pos="0.272707 0.531111 0.299731" rpy="0 -30 0" dechance="1" /><!---->
+			<proxy type="WaterproofBag_Yellow" pos="-0.397061 0.440673 0.324444" rpy="0 0 0" dechance="1" /><!--was 317061-->
+		</dispatch>
+	</group>
+	<group name="Land_Misc_Table_Market_Spawn" lootmax="4">
+		<dispatch dechance="1">
+			<proxy type="Barrel_Red" pos="0.031884 0.472890 -0.504128" rpy="0 0 0" dechance="1" /><!--top-->
+			<proxy type="Barrel_Yellow" pos="0.049234 0.472890 0.560281" rpy="0 0 0" dechance="1" /><!--top-->
+			<proxy type="WoodenCrate" pos="0.003555 -0.269688 -0.583984" rpy="0 90 0" dechance="1" /><!--bottom-->
+			<proxy type="WoodenCrate" pos="0.017677 -0.277166 0.752059" rpy="0 0 0" dechance="1" /><!--bottom-->
+		</dispatch>
+	</group>
+	<group name="StaticObj_Misc_Gunrack_Bridge" lootmax="8">
+			<dispatch dechance="1">
+				<proxy type="AK101_Black" pos="0.4100 0.11000 -0.24222" rpy="0 0 -88" dechance="1" /><!---->
+				<proxy type="M4A1_Black" pos="0.3100 0.11000 -0.24222" rpy="0 0 -90" dechance="1" /><!---->
+				<proxy type="AKM_TESTBED" pos="0.2100 0.11000 -0.24222" rpy="0 0 -90" dechance="1" /><!---->
+				<proxy type="Winchester70_Black" pos="0.1100 0.11000 -0.25222" rpy="0 0 -88" dechance="1" /><!---->
+				<proxy type="Mosin9130_Black" pos="0.3150 0.11000 0.302220" rpy="0 0 -88" dechance="1" /><!---->
+				<proxy type="M4A1" pos="0.2100 0.11000 0.255220" rpy="0 0 -87" dechance="1" /><!---->
+			</dispatch>
+			<dispatch dechance="1">
+				<proxy type="SawedoffFAMAS" pos="-0.100389 0.05 0.0111110" rpy="0 0 -90" dechance="1" /><!---->
+				<proxy type="SVD" pos="-0.301233 0.006 -0.25600000" rpy="0 0 -88" dechance="1" /><!---->
+				<proxy type="VSS" pos="-0.204916 0.005 -0.25630000" rpy="0 0 -90" dechance="1" /><!---->
+				<proxy type="FAL" pos="-0.203063 0.08 0.0111110" rpy="0 0 -88" dechance="1" /><!---->
+			</dispatch>
+	</group>
+	
