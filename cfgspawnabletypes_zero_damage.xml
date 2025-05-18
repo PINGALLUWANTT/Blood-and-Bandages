@@ -4627,46 +4627,343 @@
 	</type>
 	<type name="Truck_01_Covered_Orange">
 		<attachments chance="1.00">
-			<item name="Truck_01_Wheel" chance="1" />
+			<item name="Truck_01_Wheel" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Truck_01_Wheel" chance="1" />
+			<item name="Truck_01_Wheel" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Truck_01_Wheel" chance="1" />
+			<item name="Truck_01_Wheel" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Truck_01_Wheel" chance="1" />
+			<item name="Truck_01_Wheel" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Truck_01_WheelDouble" chance="1" />
+			<item name="Truck_01_WheelDouble" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Truck_01_WheelDouble" chance="1" />
+			<item name="Truck_01_WheelDouble" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Truck_01_WheelDouble" chance="1" />
+			<item name="Truck_01_WheelDouble" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Truck_01_WheelDouble" chance="1" />
+			<item name="Truck_01_WheelDouble" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="TruckBattery" chance="1" />
+			<item name="TruckBattery" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="1" />
+			<item name="HeadlightH7" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="1" />
+			<item name="HeadlightH7" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Truck_01_Hood_Orange" chance="1" />
+			<item name="Truck_01_Hood_Orange" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Truck_01_Door_1_1_Orange" chance="1" />
+			<item name="Truck_01_Door_1_1_Orange" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Truck_01_Door_2_1_Orange" chance="1" />
+			<item name="Truck_01_Door_2_1_Orange" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="Barrel_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Barrel_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Barrel_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Barrel_Yellow" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="CanisterGasoline" chance="1.00" />
+		</attachments>			
+		<attachments chance="1.00">
+			<item name="TruckBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WeaponcleaningKit" chance="1.00" />
+		</attachments>			
+		<attachments chance="1.00">
+			<item name="M4A1_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_CQBBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_MPHndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_Suppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ACOGOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_30Rnd_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_30Rnd_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_30Rnd_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_30Rnd_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FAL" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ACOGOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Fal_FoldingBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BallisticHelmet_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MilitaryBoots_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CargoPants_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BomberJacket_Olive" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PlateCarrierVest" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Balaclava3Holes_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CoyoteBag_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalGloves_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalBaconCan" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanOpener" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Canteen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MilitaryBelt" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PlateCarrierHolster" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PlateCarrierHolster" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PlateCarrierPouches" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NylonKnifeSheath" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CombatKnife" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="CombatKnife" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MilitaryBoots_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CargoPants_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BomberJacket_Olive" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PlateCarrierVest" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Balaclava3Holes_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CoyoteBag_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalGloves_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalBaconCan" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanOpener" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Canteen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MilitaryBelt" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PlateCarrierHolster" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PlateCarrierHolster" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PlateCarrierPouches" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NylonKnifeSheath" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CombatKnife" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="CombatKnife" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="AmmoBox_556x45_20Rnd" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="AmmoBox_556x45_20Rnd" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="AmmoBox_556x45_20Rnd" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="AmmoBox_556x45_20Rnd" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="AmmoBox_556x45_20Rnd" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="AmmoBox_556x45_20Rnd" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="AmmoBox_556x45_20Rnd" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="AmmoBox_556x45_20Rnd" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="AmmoBox_308Win_20Rnd" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="AmmoBox_308Win_20Rnd" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="AmmoBox_308Win_20Rnd" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="AmmoBox_308Win_20Rnd" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="FNP45_MRDSOptic" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="FNP45_MRDSOptic" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="CZ75" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="CZ75" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="Mag_CZ75_15Rnd" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="Mag_CZ75_15Rnd" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="Mag_CZ75_15Rnd" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="Mag_CZ75_15Rnd" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="AmmoBox_9x19_25rnd" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="AmmoBox_9x19_25rnd" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="AmmoBox_9x19_25rnd" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="AmmoBox_9x19_25rnd" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="FirstAidKit" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="FirstAidKit" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="PistolSuppressor" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="PistolSuppressor" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="TLRLight" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="TLRLight" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="NVGHeadstrap" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="NVGoggles" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="UniversalLight" chance="1.00" />
 		</attachments>
 	</type>
 <!--
