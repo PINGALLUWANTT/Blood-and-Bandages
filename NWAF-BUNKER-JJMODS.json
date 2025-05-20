@@ -1,0 +1,8976 @@
+{
+  "Objects": [
+    {
+      "name": "Land_Underground_Corridor_Connector",
+      "pos": [
+        4393.525879,
+        339.638916,
+        10565.948242
+      ],
+      "ypr": [
+        61.150276,
+        0,
+        0
+      ],
+      "scale": 0.999847,
+      "enableCEPersistency": 0,
+      "_comments1": "File created at DayZ BoosterZ",
+      "_comments2": "You can view more tools like this at dayzboosterz.com"
+    },
+    {
+      "name": "Land_Underground_Corridor_Main_Left",
+      "pos": [
+        4373.815918,
+        339.633118,
+        10601.81543
+      ],
+      "ypr": [
+        151.037506,
+        0,
+        0
+      ],
+      "scale": 0.999869,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Corridor_Main_Both",
+      "pos": [
+        4384.830566,
+        339.634705,
+        10581.897461
+      ],
+      "ypr": [
+        151.037537,
+        0,
+        0
+      ],
+      "scale": 0.999866,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Storage_Big",
+      "pos": [
+        4369.731934,
+        339.665894,
+        10573.821289
+      ],
+      "ypr": [
+        -118.824715,
+        0,
+        0
+      ],
+      "scale": 0.999879,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Storage_Ammo",
+      "pos": [
+        4400.457031,
+        339.640991,
+        10588.898438
+      ],
+      "ypr": [
+        60.854092,
+        0,
+        0
+      ],
+      "scale": 0.999847,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Storage_Ammo2",
+      "pos": [
+        4389.690918,
+        339.628235,
+        10608.630859
+      ],
+      "ypr": [
+        61.302128,
+        0,
+        0
+      ],
+      "scale": 0.999854,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Stairs_Start",
+      "pos": [
+        4391.61377,
+        339.765259,
+        10596.226563
+      ],
+      "ypr": [
+        60.12418,
+        0,
+        0
+      ],
+      "scale": 0.999847,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Stairs_Collapsed",
+      "pos": [
+        4371.940918,
+        339.718811,
+        10585.401367
+      ],
+      "ypr": [
+        -118.050003,
+        0,
+        0
+      ],
+      "scale": 0.999851,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Stairs_Block_Corridor_NoDoor",
+      "pos": [
+        4380.674316,
+        339.294189,
+        10616.016602
+      ],
+      "ypr": [
+        61.62962,
+        0,
+        0
+      ],
+      "scale": 0.999869,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Stairs_Block",
+      "pos": [
+        4391.630371,
+        344.310333,
+        10596.238281
+      ],
+      "ypr": [
+        60.200115,
+        0,
+        0
+      ],
+      "scale": 0.999873,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Stairs_Block_Terminator",
+      "pos": [
+        4391.629395,
+        349.31308,
+        10596.267578
+      ],
+      "ypr": [
+        60.067776,
+        0,
+        0
+      ],
+      "scale": 0.999844,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Corridor_Main_Left",
+      "pos": [
+        4373.815918,
+        349.661163,
+        10601.81543
+      ],
+      "ypr": [
+        151.037506,
+        0,
+        0
+      ],
+      "scale": 0.999868,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Corridor_Main_Both",
+      "pos": [
+        4384.830566,
+        349.66272,
+        10581.897461
+      ],
+      "ypr": [
+        151.037521,
+        0,
+        0
+      ],
+      "scale": 0.999866,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Stairs_Collapsed",
+      "pos": [
+        4371.940918,
+        349.746826,
+        10585.401367
+      ],
+      "ypr": [
+        -118.050003,
+        0,
+        0
+      ],
+      "scale": 0.999851,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Stairs_Block_Corridor_NoDoor",
+      "pos": [
+        4380.674316,
+        349.322205,
+        10616.016602
+      ],
+      "ypr": [
+        61.629627,
+        0,
+        0
+      ],
+      "scale": 0.999869,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Corridor_Connector",
+      "pos": [
+        4393.525879,
+        349.666931,
+        10565.948242
+      ],
+      "ypr": [
+        61.150303,
+        0,
+        0
+      ],
+      "scale": 0.999818,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_WaterReservoir",
+      "pos": [
+        4353.186523,
+        349.851105,
+        10612.836914
+      ],
+      "ypr": [
+        -118.563789,
+        0.510488,
+        -0.005603
+      ],
+      "scale": 0.999809,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_WaterMaintenance",
+      "pos": [
+        4346.135254,
+        349.906219,
+        10596.749023
+      ],
+      "ypr": [
+        -29.343506,
+        0,
+        0
+      ],
+      "scale": 0.999867,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Stairs_Collapsed",
+      "pos": [
+        4362.384277,
+        349.735291,
+        10599.205078
+      ],
+      "ypr": [
+        151.34639,
+        0,
+        0
+      ],
+      "scale": 0.999868,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Tunnel_Single_Left",
+      "pos": [
+        4332.600586,
+        350.003937,
+        10623.37793
+      ],
+      "ypr": [
+        151.037506,
+        0,
+        0
+      ],
+      "scale": 0.999868,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Corridor_Connector",
+      "pos": [
+        4328.777344,
+        350.003967,
+        10629.904297
+      ],
+      "ypr": [
+        59.652607,
+        0,
+        0
+      ],
+      "scale": 0.99985,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Corridor_Main_Right",
+      "pos": [
+        4319.781738,
+        350.001404,
+        10645.452148
+      ],
+      "ypr": [
+        149.582474,
+        0,
+        0
+      ],
+      "scale": 0.999881,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Corridor_Main_Right",
+      "pos": [
+        4342.791504,
+        349.896973,
+        10658.578125
+      ],
+      "ypr": [
+        -29.115364,
+        0,
+        0
+      ],
+      "scale": 0.99985,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Tunnel_Single_Right",
+      "pos": [
+        4355.325195,
+        349.900604,
+        10635.801758
+      ],
+      "ypr": [
+        151.411697,
+        0,
+        0
+      ],
+      "scale": 0.99987,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Corridor_Connector",
+      "pos": [
+        4351.625488,
+        349.899445,
+        10642.37207
+      ],
+      "ypr": [
+        61.143543,
+        0,
+        0
+      ],
+      "scale": 0.999848,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Storage_Barracks",
+      "pos": [
+        4400.490723,
+        349.660614,
+        10588.970703
+      ],
+      "ypr": [
+        60.552036,
+        0,
+        0
+      ],
+      "scale": 0.999886,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Storage_Prison",
+      "pos": [
+        4369.815918,
+        349.655304,
+        10573.850586
+      ],
+      "ypr": [
+        -118.917122,
+        0,
+        0
+      ],
+      "scale": 0.999863,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Storage_Ammo",
+      "pos": [
+        4389.630859,
+        349.643646,
+        10608.55957
+      ],
+      "ypr": [
+        60.723499,
+        0,
+        0
+      ],
+      "scale": 0.999853,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_IndCnc4_4",
+      "pos": [
+        4397.157227,
+        352.338684,
+        10559.206055
+      ],
+      "ypr": [
+        151.037506,
+        0,
+        0
+      ],
+      "scale": 1.99974,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Corridor_Connector",
+      "pos": [
+        4365.000488,
+        349.635742,
+        10618.102539
+      ],
+      "ypr": [
+        -118.955513,
+        0,
+        0
+      ],
+      "scale": 0.999785,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_IndCnc4_4",
+      "pos": [
+        4361.238281,
+        352.552429,
+        10624.860352
+      ],
+      "ypr": [
+        151.037506,
+        0,
+        0
+      ],
+      "scale": 1.99974,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Corridor_Connector",
+      "pos": [
+        4364.970703,
+        339.630981,
+        10618.086914
+      ],
+      "ypr": [
+        -118.955521,
+        0,
+        0
+      ],
+      "scale": 0.999785,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_IndCnc4_4",
+      "pos": [
+        4361.205566,
+        342.547516,
+        10624.844727
+      ],
+      "ypr": [
+        151.037506,
+        0,
+        0
+      ],
+      "scale": 1.99974,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Entrance",
+      "pos": [
+        4395.777344,
+        339.682678,
+        10557.058594
+      ],
+      "ypr": [
+        -28.741365,
+        0,
+        0
+      ],
+      "scale": 0.999876,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Corridor_Connector",
+      "pos": [
+        4334.432617,
+        349.89444,
+        10673.803711
+      ],
+      "ypr": [
+        -118.955521,
+        0,
+        0
+      ],
+      "scale": 0.999785,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Tunnel_Single_Left",
+      "pos": [
+        4330.805664,
+        349.894714,
+        10680.358398
+      ],
+      "ypr": [
+        -28.864744,
+        0,
+        0
+      ],
+      "scale": 0.999849,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_IndCnc4_4",
+      "pos": [
+        4321.776367,
+        352.298157,
+        10683.290039
+      ],
+      "ypr": [
+        -118.919868,
+        0,
+        0
+      ],
+      "scale": 1.99972,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Tunnel_Single_Left",
+      "pos": [
+        4309.388184,
+        349.894714,
+        10676.334961
+      ],
+      "ypr": [
+        -118.80294,
+        0,
+        0
+      ],
+      "scale": 0.999853,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Corridor_Connector",
+      "pos": [
+        4310.574707,
+        349.997559,
+        10661.464844
+      ],
+      "ypr": [
+        -120.143471,
+        0,
+        0
+      ],
+      "scale": 0.999776,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_IndCnc4_4",
+      "pos": [
+        4309.01123,
+        352.298096,
+        10676.530273
+      ],
+      "ypr": [
+        -118.919868,
+        0,
+        0
+      ],
+      "scale": 1.99972,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Storage_POX",
+      "pos": [
+        4357.70752,
+        349.892487,
+        10667.00293
+      ],
+      "ypr": [
+        60.748634,
+        0,
+        0
+      ],
+      "scale": 0.999863,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Storage_POX2",
+      "pos": [
+        4305.108887,
+        350.000702,
+        10636.701172
+      ],
+      "ypr": [
+        -120.855408,
+        0,
+        0
+      ],
+      "scale": 0.999856,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Floor_Crew",
+      "pos": [
+        4364.155762,
+        350.01297,
+        10646.628906
+      ],
+      "ypr": [
+        61.027527,
+        0,
+        0
+      ],
+      "scale": 0.999846,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Floor_Comms",
+      "pos": [
+        4298.100586,
+        350.121307,
+        10656.836914
+      ],
+      "ypr": [
+        -120.587151,
+        0,
+        0
+      ],
+      "scale": 0.999839,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Stairs_Block_Corridor_NoDoor",
+      "pos": [
+        4380.554199,
+        349.549774,
+        10642.808594
+      ],
+      "ypr": [
+        61.50732,
+        0,
+        0
+      ],
+      "scale": 0.999842,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Stairs_Block_Corridor_NoDoor",
+      "pos": [
+        4369.669434,
+        349.527618,
+        10662.764648
+      ],
+      "ypr": [
+        61.507313,
+        0,
+        0
+      ],
+      "scale": 0.999841,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Stairs_Block_Corridor_NoDoor",
+      "pos": [
+        4336.039551,
+        349.475952,
+        10644.298828
+      ],
+      "ypr": [
+        -119.409828,
+        0,
+        0
+      ],
+      "scale": 0.999841,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Stairs_Block_Corridor_NoDoor",
+      "pos": [
+        4326.148926,
+        349.649353,
+        10660.004883
+      ],
+      "ypr": [
+        58.455742,
+        0,
+        0
+      ],
+      "scale": 0.999843,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Stairs_Block_Corridor_NoDoor",
+      "pos": [
+        4281.557617,
+        349.649353,
+        10660.09082
+      ],
+      "ypr": [
+        -120.790581,
+        0,
+        0
+      ],
+      "scale": 0.999845,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_Tin7_Blue_4",
+      "pos": [
+        4297.950195,
+        351.058472,
+        10669.355469
+      ],
+      "ypr": [
+        59.180614,
+        0,
+        0
+      ],
+      "scale": 0.999871,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_Tin7_Blue_4",
+      "pos": [
+        4298.228516,
+        351.322021,
+        10644.256836
+      ],
+      "ypr": [
+        59.180614,
+        0,
+        0
+      ],
+      "scale": 0.999871,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_Tin7_Blue_4",
+      "pos": [
+        4364.07666,
+        351.18866,
+        10634.006836
+      ],
+      "ypr": [
+        62.038071,
+        0,
+        0
+      ],
+      "scale": 0.999868,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_IndCnc4_Low_Pole",
+      "pos": [
+        4342.95166,
+        352.235626,
+        10618.876953
+      ],
+      "ypr": [
+        151.037506,
+        0,
+        0
+      ],
+      "scale": 1.99974,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_IndCnc4_Low_Pole",
+      "pos": [
+        4340.755859,
+        352.235626,
+        10622.922852
+      ],
+      "ypr": [
+        151.037506,
+        0,
+        0
+      ],
+      "scale": 1.99974,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Platform2_Wall",
+      "pos": [
+        4341.788086,
+        355.087677,
+        10620.910156
+      ],
+      "ypr": [
+        151.037506,
+        0,
+        0
+      ],
+      "scale": 0.999868,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_IndCnc4_Low_Pole",
+      "pos": [
+        4353.587891,
+        352.235626,
+        10624.623047
+      ],
+      "ypr": [
+        151.037506,
+        0,
+        0
+      ],
+      "scale": 1.99974,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_IndCnc4_Low_Pole",
+      "pos": [
+        4351.392578,
+        352.235626,
+        10628.665039
+      ],
+      "ypr": [
+        151.037506,
+        0,
+        0
+      ],
+      "scale": 1.99974,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Platform2_Wall",
+      "pos": [
+        4352.424316,
+        355.087524,
+        10626.657227
+      ],
+      "ypr": [
+        151.037506,
+        0,
+        0
+      ],
+      "scale": 0.999868,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_IndCnc4_4",
+      "pos": [
+        4364.053223,
+        342.050964,
+        10606.390625
+      ],
+      "ypr": [
+        -118.919861,
+        0,
+        0
+      ],
+      "scale": 1.99972,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_Railing_1_Pole",
+      "pos": [
+        4413.538086,
+        336.00415,
+        10549.029297
+      ],
+      "ypr": [
+        151.037506,
+        0,
+        0
+      ],
+      "scale": 19.999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_Railing_1_Pole",
+      "pos": [
+        4392.875977,
+        336.003784,
+        10537.395508
+      ],
+      "ypr": [
+        151.037521,
+        0,
+        0
+      ],
+      "scale": 19.998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Panel_Concrete_1",
+      "pos": [
+        4399.834961,
+        357.679138,
+        10552.612305
+      ],
+      "ypr": [
+        -118.771912,
+        0,
+        0
+      ],
+      "scale": 10.0884,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_IndCnc_Pole",
+      "pos": [
+        4382.182617,
+        341.509094,
+        10525.842773
+      ],
+      "ypr": [
+        151.037521,
+        0,
+        0
+      ],
+      "scale": 9.999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_IndCnc_Pole",
+      "pos": [
+        4430.91748,
+        341.509094,
+        10553.855469
+      ],
+      "ypr": [
+        151.037521,
+        0,
+        0
+      ],
+      "scale": 9.999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_SilageWall_5",
+      "pos": [
+        4380.151367,
+        340.362976,
+        10529.204102
+      ],
+      "ypr": [
+        59.288342,
+        0,
+        0
+      ],
+      "scale": 0.999915,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_SilageWall_5",
+      "pos": [
+        4377.57959,
+        340.362976,
+        10533.557617
+      ],
+      "ypr": [
+        59.288353,
+        0,
+        0
+      ],
+      "scale": 0.999915,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_SilageWall_5",
+      "pos": [
+        4374.967773,
+        340.362976,
+        10537.87793
+      ],
+      "ypr": [
+        59.288342,
+        0,
+        0
+      ],
+      "scale": 0.999915,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Mil_Fortified_Nest_Big",
+      "pos": [
+        4392.857422,
+        339.724792,
+        10529.220703
+      ],
+      "ypr": [
+        -30.77788,
+        0,
+        0
+      ],
+      "scale": 0.999847,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Mil_Fortified_Nest_Big",
+      "pos": [
+        4424.680664,
+        339.958923,
+        10545.548828
+      ],
+      "ypr": [
+        -31.505217,
+        0,
+        0
+      ],
+      "scale": 0.999904,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_Cnc_5",
+      "pos": [
+        4386.605469,
+        352.16629,
+        10552.235352
+      ],
+      "ypr": [
+        151.037521,
+        0,
+        0
+      ],
+      "scale": 1.99984,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_Cnc_5",
+      "pos": [
+        4401.708984,
+        352.16629,
+        10560.597656
+      ],
+      "ypr": [
+        151.037521,
+        0,
+        0
+      ],
+      "scale": 1.99984,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_Cnc_5",
+      "pos": [
+        4416.697754,
+        352.16629,
+        10568.833984
+      ],
+      "ypr": [
+        151.037521,
+        0,
+        0
+      ],
+      "scale": 1.99984,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_Cnc_5",
+      "pos": [
+        4415.018555,
+        342.407867,
+        10567.97168
+      ],
+      "ypr": [
+        151.037521,
+        0,
+        0
+      ],
+      "scale": 1.99984,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_IndCnc3_2_4",
+      "pos": [
+        4370.275391,
+        347.962769,
+        10544.422852
+      ],
+      "ypr": [
+        59.042015,
+        0,
+        0
+      ],
+      "scale": 6.99999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_IndCnc3_2_4",
+      "pos": [
+        4348.671387,
+        347.962769,
+        10580.283203
+      ],
+      "ypr": [
+        59.042015,
+        0,
+        0
+      ],
+      "scale": 6.99999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_IndCnc3_2_4",
+      "pos": [
+        4326.905273,
+        347.962769,
+        10616.195313
+      ],
+      "ypr": [
+        59.042015,
+        0,
+        0
+      ],
+      "scale": 6.99999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_IndCnc3_2_4",
+      "pos": [
+        4298.803711,
+        347.407166,
+        10623.328125
+      ],
+      "ypr": [
+        -30.044809,
+        0,
+        0
+      ],
+      "scale": 7,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_IndCnc3_2_4",
+      "pos": [
+        4271.008789,
+        347.962769,
+        10630.658203
+      ],
+      "ypr": [
+        59.816395,
+        0,
+        0
+      ],
+      "scale": 7,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_IndCnc3_2_4",
+      "pos": [
+        4261.013672,
+        347.962769,
+        10647.542969
+      ],
+      "ypr": [
+        59.816395,
+        0,
+        0
+      ],
+      "scale": 7,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_IndCnc3_2_4",
+      "pos": [
+        4269.64502,
+        347.962769,
+        10675.226563
+      ],
+      "ypr": [
+        151.525818,
+        0,
+        0
+      ],
+      "scale": 7,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_IndCnc3_2_4",
+      "pos": [
+        4306.254883,
+        347.962769,
+        10695.135742
+      ],
+      "ypr": [
+        151.525803,
+        0,
+        0
+      ],
+      "scale": 7,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_IndCnc3_2_4",
+      "pos": [
+        4324.892578,
+        347.962769,
+        10705.444336
+      ],
+      "ypr": [
+        151.525803,
+        0,
+        0
+      ],
+      "scale": 7,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_IndCnc3_2_4",
+      "pos": [
+        4353.842285,
+        347.433807,
+        10696.024414
+      ],
+      "ypr": [
+        -120.208115,
+        0,
+        0
+      ],
+      "scale": 7,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_IndCnc3_2_4",
+      "pos": [
+        4374.974121,
+        347.433807,
+        10659.874023
+      ],
+      "ypr": [
+        -120.20813,
+        0,
+        0
+      ],
+      "scale": 7,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_IndCnc3_2_4",
+      "pos": [
+        4395.487793,
+        347.433807,
+        10623.922852
+      ],
+      "ypr": [
+        -118.38604,
+        0,
+        0
+      ],
+      "scale": 7,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_IndCnc3_2_4",
+      "pos": [
+        4415.459961,
+        347.433807,
+        10587.121094
+      ],
+      "ypr": [
+        -118.38604,
+        0,
+        0
+      ],
+      "scale": 7,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_IndCnc3_2_4",
+      "pos": [
+        4423.537598,
+        347.433807,
+        10572.354492
+      ],
+      "ypr": [
+        -118.38604,
+        0,
+        0
+      ],
+      "scale": 7,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Panel_Concrete_1",
+      "pos": [
+        4385.559082,
+        357.679138,
+        10578.064453
+      ],
+      "ypr": [
+        -118.771912,
+        0,
+        0
+      ],
+      "scale": 10.0884,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Panel_Concrete_1",
+      "pos": [
+        4372.818359,
+        357.679138,
+        10600.513672
+      ],
+      "ypr": [
+        -120.511192,
+        0,
+        0
+      ],
+      "scale": 10.3584,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Panel_Concrete_1",
+      "pos": [
+        4358.176758,
+        357.679138,
+        10626.237305
+      ],
+      "ypr": [
+        -120.511185,
+        0,
+        0
+      ],
+      "scale": 10.5884,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Panel_Concrete_1",
+      "pos": [
+        4342.835449,
+        357.679138,
+        10652.484375
+      ],
+      "ypr": [
+        -120.511185,
+        0,
+        0
+      ],
+      "scale": 10.5884,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Panel_Concrete_1",
+      "pos": [
+        4327.175781,
+        357.679138,
+        10678.040039
+      ],
+      "ypr": [
+        -120.511185,
+        0,
+        0
+      ],
+      "scale": 10.5884,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Panel_Concrete_1",
+      "pos": [
+        4322.694824,
+        357.632996,
+        10686.086914
+      ],
+      "ypr": [
+        -118.399208,
+        0,
+        0
+      ],
+      "scale": 10.5884,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Panel_Concrete_1",
+      "pos": [
+        4287.199219,
+        357.712524,
+        10666.685547
+      ],
+      "ypr": [
+        -119.227417,
+        0,
+        0
+      ],
+      "scale": 10.5884,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Panel_Concrete_1",
+      "pos": [
+        4300.763184,
+        357.647156,
+        10642.564453
+      ],
+      "ypr": [
+        -119.227417,
+        0,
+        0
+      ],
+      "scale": 10.5884,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Mil_Radar_Mobile1",
+      "pos": [
+        4381.998047,
+        358.940155,
+        10544.611328
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Airfield_Radar_Tall",
+      "pos": [
+        4441.922363,
+        361.587036,
+        10558.816406
+      ],
+      "ypr": [
+        60.48645,
+        0,
+        0
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_Cnc_5",
+      "pos": [
+        4377.237793,
+        342.407867,
+        10547.018555
+      ],
+      "ypr": [
+        151.037506,
+        0,
+        0
+      ],
+      "scale": 1.99984,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wall_Cnc_5",
+      "pos": [
+        4377.239746,
+        352.316467,
+        10547.013672
+      ],
+      "ypr": [
+        151.037491,
+        0,
+        0
+      ],
+      "scale": 1.99984,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Tank_Big",
+      "pos": [
+        4305.72998,
+        349.572388,
+        10600.879883
+      ],
+      "ypr": [
+        39.838936,
+        0,
+        0
+      ],
+      "scale": 3,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "staticobj_pipe_med_ground2",
+      "pos": [
+        4357.874023,
+        344.476288,
+        10554.678711
+      ],
+      "ypr": [
+        -29.344509,
+        0,
+        0
+      ],
+      "scale": 2,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Pipe_Big_CornerR",
+      "pos": [
+        4349.15625,
+        343.53421,
+        10574.233398
+      ],
+      "ypr": [
+        -121.62767,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Pipe_Big_18m_Ladder",
+      "pos": [
+        4342.070801,
+        343.098389,
+        10583.996094
+      ],
+      "ypr": [
+        -32.218033,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Pipe_Big_18m_Ladder",
+      "pos": [
+        4332.437988,
+        343.098389,
+        10599.194336
+      ],
+      "ypr": [
+        -32.218033,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Pipe_Big_CornerR",
+      "pos": [
+        4326.910156,
+        343.53421,
+        10610.108398
+      ],
+      "ypr": [
+        -30.976114,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Tank_Big",
+      "pos": [
+        4322.759277,
+        343.542694,
+        10571.598633
+      ],
+      "ypr": [
+        39.838936,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Tank_Big",
+      "pos": [
+        4333.256836,
+        343.616241,
+        10554.532227
+      ],
+      "ypr": [
+        39.838936,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Tank_Big",
+      "pos": [
+        4343.918457,
+        343.625854,
+        10535.769531
+      ],
+      "ypr": [
+        39.838936,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Pipe_Small2_High_24m",
+      "pos": [
+        4422.760742,
+        343.70517,
+        10548.762695
+      ],
+      "ypr": [
+        60.481522,
+        0,
+        0
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Pipe_Small2_High_24m",
+      "pos": [
+        4403.375977,
+        343.701599,
+        10537.78125
+      ],
+      "ypr": [
+        60.481522,
+        0,
+        0
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Pipe_Small2_High_24m",
+      "pos": [
+        4392.294922,
+        343.701599,
+        10531.533203
+      ],
+      "ypr": [
+        60.481522,
+        0,
+        0
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Pipe_Small_Valve",
+      "pos": [
+        4403.425293,
+        340.052643,
+        10616.870117
+      ],
+      "ypr": [
+        60.87188,
+        0,
+        0
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Pipe_Small2_Curve",
+      "pos": [
+        4406.712402,
+        339.099609,
+        10619.661133
+      ],
+      "ypr": [
+        -28.822308,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Tank_Small_White",
+      "pos": [
+        4406.960449,
+        340.794006,
+        10621.822266
+      ],
+      "ypr": [
+        -29.691952,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Pipe_Small_Valve",
+      "pos": [
+        4400.163086,
+        340.052643,
+        10622.116211
+      ],
+      "ypr": [
+        60.87188,
+        0,
+        0
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Pipe_Small2_Curve",
+      "pos": [
+        4403.450195,
+        339.099609,
+        10624.907227
+      ],
+      "ypr": [
+        -28.822311,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Tank_Small_White",
+      "pos": [
+        4403.698242,
+        340.794006,
+        10627.068359
+      ],
+      "ypr": [
+        -29.691954,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Pipe_Small_Valve",
+      "pos": [
+        4396.9375,
+        340.052643,
+        10627.128906
+      ],
+      "ypr": [
+        60.871887,
+        0,
+        0
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Pipe_Small2_Curve",
+      "pos": [
+        4400.224609,
+        339.099609,
+        10629.919922
+      ],
+      "ypr": [
+        -28.822311,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Tank_Small_White",
+      "pos": [
+        4400.472656,
+        340.794006,
+        10632.081055
+      ],
+      "ypr": [
+        -29.691954,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Pipe_Small_Valve",
+      "pos": [
+        4394.117676,
+        340.052643,
+        10633.136719
+      ],
+      "ypr": [
+        60.87188,
+        0,
+        0
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Pipe_Small2_Curve",
+      "pos": [
+        4397.404785,
+        339.099609,
+        10635.927734
+      ],
+      "ypr": [
+        -28.822313,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Tank_Small_White",
+      "pos": [
+        4397.652832,
+        340.794006,
+        10638.088867
+      ],
+      "ypr": [
+        -29.691954,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Tank_Medium",
+      "pos": [
+        4372.119629,
+        342.054596,
+        10671.875977
+      ],
+      "ypr": [
+        -120.848495,
+        0,
+        0
+      ],
+      "scale": 3,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Pipe_Big_CornerR",
+      "pos": [
+        4422.751465,
+        343.543091,
+        10578.15332
+      ],
+      "ypr": [
+        151.72525,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Pipe_Big_18m_Ladder",
+      "pos": [
+        4418.054688,
+        343.133514,
+        10589.612305
+      ],
+      "ypr": [
+        -28.366793,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Pipe_Small_Ground1",
+      "pos": [
+        4418.789551,
+        339.664368,
+        10615.730469
+      ],
+      "ypr": [
+        59.605461,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Pipe_Small_20m",
+      "pos": [
+        4408.198242,
+        339.683441,
+        10609.605469
+      ],
+      "ypr": [
+        60.046486,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ\\plants_bliss\\bush\\b_prunusspinosa_2s_summer.p3d",
+      "pos": [
+        4396.132323999998,
+        338.868408,
+        10539.588867
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ\\plants_bliss\\bush\\b_prunusspinosa_2s_summer.p3d",
+      "pos": [
+        4434.588378999998,
+        339.084656,
+        10547.573242
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2w.p3d",
+      "pos": [
+        4679.906738,
+        336.386444,
+        10132.186523
+      ],
+      "ypr": [
+        0.080877,
+        -0.001151,
+        -0.00041
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2f.p3d",
+      "pos": [
+        4691.138672,
+        331.2547,
+        10147.666992
+      ],
+      "ypr": [
+        0.005679,
+        0.000575,
+        0.000388
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Platform1_Block",
+      "pos": [
+        4381.203125,
+        332.819733,
+        10544.481445
+      ],
+      "ypr": [
+        -28.158701,
+        0,
+        0
+      ],
+      "scale": 2,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Platform1_Block",
+      "pos": [
+        4398.693359,
+        332.819733,
+        10553.807617
+      ],
+      "ypr": [
+        -28.158701,
+        0,
+        0
+      ],
+      "scale": 2,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Platform1_Block",
+      "pos": [
+        4416.244629,
+        332.819733,
+        10563.15625
+      ],
+      "ypr": [
+        -28.158701,
+        0,
+        0
+      ],
+      "scale": 2,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Platform2_Stairs_20",
+      "pos": [
+        4401.512207,
+        338.098999,
+        10538.577148
+      ],
+      "ypr": [
+        -28.001122,
+        0,
+        0
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Platform2_Stairs_20",
+      "pos": [
+        4403.241211,
+        338.098999,
+        10539.484375
+      ],
+      "ypr": [
+        -28.001122,
+        0,
+        0
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Platform2_Stairs_20",
+      "pos": [
+        4404.895508,
+        338.098999,
+        10540.354492
+      ],
+      "ypr": [
+        -28.001122,
+        0,
+        0
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Platform2_Stairs_20",
+      "pos": [
+        4406.624512,
+        338.098999,
+        10541.261719
+      ],
+      "ypr": [
+        -28.001122,
+        0,
+        0
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Platform2_Stairs_20",
+      "pos": [
+        4408.334961,
+        338.098999,
+        10542.169922
+      ],
+      "ypr": [
+        -28.001122,
+        0,
+        0
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Platform2_Stairs_20",
+      "pos": [
+        4410.063965,
+        338.098999,
+        10543.077148
+      ],
+      "ypr": [
+        -28.001122,
+        0,
+        0
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Platform1_Stairs_30_WallR",
+      "pos": [
+        4399.962891,
+        337.610138,
+        10538.979492
+      ],
+      "ypr": [
+        -27.597376,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Platform1_Stairs_30_WallR",
+      "pos": [
+        4410.490723,
+        337.610138,
+        10544.527344
+      ],
+      "ypr": [
+        -27.597374,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Panel",
+      "pos": [
+        4396.877441,
+        341.172363,
+        10549.476563
+      ],
+      "ypr": [
+        -31.196634,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_Underground_Panel_Lever",
+      "pos": [
+        4400.513672,
+        340.918732,
+        10555.720703
+      ],
+      "ypr": [
+        -117.751366,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2s.p3d",
+      "pos": [
+        4482.193848,
+        338.991211,
+        10502.72168
+      ],
+      "ypr": [
+        1.036619,
+        0.028241,
+        -0.040117
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3s.p3d",
+      "pos": [
+        4488.584473,
+        338.996735,
+        10504.689453
+      ],
+      "ypr": [
+        6.119236,
+        -0.026843,
+        0.048916
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fc.p3d",
+      "pos": [
+        4483.173828,
+        339.029724,
+        10493.922852
+      ],
+      "ypr": [
+        0.776793,
+        0.035353,
+        0.000825
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3f.p3d",
+      "pos": [
+        4474.737793,
+        339.001404,
+        10504.682617
+      ],
+      "ypr": [
+        5.868423,
+        0.013787,
+        0.061465
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1fb.p3d",
+      "pos": [
+        4478.805176,
+        338.990265,
+        10506.106445
+      ],
+      "ypr": [
+        4.885686,
+        -0.01801,
+        0.019523
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1f.p3d",
+      "pos": [
+        4493.362793,
+        338.995605,
+        10503.098633
+      ],
+      "ypr": [
+        5.14091,
+        -0.021184,
+        -0.005367
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fc.p3d",
+      "pos": [
+        4474.672852,
+        339.065247,
+        10496.263672
+      ],
+      "ypr": [
+        5.491819,
+        0.06568,
+        -0.013689
+      ],
+      "scale": 0.999994,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fb.p3d",
+      "pos": [
+        4466.791016,
+        339.001648,
+        10510.084961
+      ],
+      "ypr": [
+        2.551088,
+        0.052257,
+        -0.001123
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fc.p3d",
+      "pos": [
+        4475.455566,
+        338.995483,
+        10505.828125
+      ],
+      "ypr": [
+        3.964503,
+        0.007502,
+        0.044152
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1fb.p3d",
+      "pos": [
+        4480.824219,
+        338.990417,
+        10504.49707
+      ],
+      "ypr": [
+        4.77562,
+        0.020243,
+        0.022028
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fb.p3d",
+      "pos": [
+        4490.289063,
+        338.9841,
+        10490.930664
+      ],
+      "ypr": [
+        2.274196,
+        0.046977,
+        0.037368
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3f.p3d",
+      "pos": [
+        4486.109863,
+        338.991058,
+        10500.816406
+      ],
+      "ypr": [
+        5.348388,
+        -0.013387,
+        0.036192
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fc.p3d",
+      "pos": [
+        4422.618164,
+        339.353333,
+        10464.600586
+      ],
+      "ypr": [
+        2.633925,
+        0.068326,
+        0.012406
+      ],
+      "scale": 0.999994,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2w.p3d",
+      "pos": [
+        4441.252441,
+        339.212036,
+        10473.772461
+      ],
+      "ypr": [
+        0.60479,
+        -0.020592,
+        0.033772
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fc.p3d",
+      "pos": [
+        4424.633301,
+        339.160126,
+        10484.123047
+      ],
+      "ypr": [
+        0.023777,
+        0.042554,
+        -0.012343
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fc.p3d",
+      "pos": [
+        4431.973633,
+        339.255066,
+        10465.630859
+      ],
+      "ypr": [
+        4.077446,
+        -0.039231,
+        0.041246
+      ],
+      "scale": 0.999994,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3s.p3d",
+      "pos": [
+        4430.847656,
+        339.236633,
+        10473.758789
+      ],
+      "ypr": [
+        4.969674,
+        0.047084,
+        0.015232
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3s.p3d",
+      "pos": [
+        4428.182617,
+        339.291412,
+        10470.803711
+      ],
+      "ypr": [
+        0.341705,
+        -0.009769,
+        0.014921
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1s.p3d",
+      "pos": [
+        4418.182617,
+        339.278442,
+        10456.586914
+      ],
+      "ypr": [
+        4.194223,
+        -0.058312,
+        -0.038314
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3s.p3d",
+      "pos": [
+        4439.624023,
+        339.220642,
+        10473.489258
+      ],
+      "ypr": [
+        2.044859,
+        0.014422,
+        -0.020324
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fc.p3d",
+      "pos": [
+        4441.759766,
+        339.208405,
+        10478.100586
+      ],
+      "ypr": [
+        1.121949,
+        0.008554,
+        -0.037795
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3s.p3d",
+      "pos": [
+        4435.874512,
+        339.245544,
+        10472.807617
+      ],
+      "ypr": [
+        5.942056,
+        0.062045,
+        -0.006624
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2w.p3d",
+      "pos": [
+        4438.638184,
+        339.242371,
+        10464.783203
+      ],
+      "ypr": [
+        0.957617,
+        -0.007638,
+        -0.050646
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3s.p3d",
+      "pos": [
+        4446.229492,
+        339.217041,
+        10471.082031
+      ],
+      "ypr": [
+        3.106214,
+        -0.017916,
+        -0.045098
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3s.p3d",
+      "pos": [
+        4437.236328,
+        339.53302,
+        10445.266602
+      ],
+      "ypr": [
+        1.432015,
+        -0.002226,
+        0.020626
+      ],
+      "scale": 0.999994,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3s.p3d",
+      "pos": [
+        4430.688477,
+        339.503601,
+        10433.041016
+      ],
+      "ypr": [
+        4.176582,
+        0.016685,
+        -0.001958
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2s.p3d",
+      "pos": [
+        4428.904297,
+        339.407043,
+        10447.976563
+      ],
+      "ypr": [
+        5.113297,
+        0.066694,
+        0.028296
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1f.p3d",
+      "pos": [
+        4425.602051,
+        339.335785,
+        10451.609375
+      ],
+      "ypr": [
+        5.725183,
+        -0.048729,
+        0.016446
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1fb.p3d",
+      "pos": [
+        4414.577148,
+        339.452545,
+        10433.1875
+      ],
+      "ypr": [
+        2.262691,
+        -0.020128,
+        -0.027184
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fc.p3d",
+      "pos": [
+        4410.775879,
+        339.307556,
+        10440.478516
+      ],
+      "ypr": [
+        0.002685,
+        0.017239,
+        -0.067154
+      ],
+      "scale": 0.99999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2s.p3d",
+      "pos": [
+        4443.537109,
+        339.498779,
+        10437.511719
+      ],
+      "ypr": [
+        3.161056,
+        0.016276,
+        0.033989
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fc.p3d",
+      "pos": [
+        4441.137207,
+        339.315735,
+        10429.116211
+      ],
+      "ypr": [
+        5.591147,
+        -0.059927,
+        0.051545
+      ],
+      "scale": 0.999992,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2f.p3d",
+      "pos": [
+        4431.609863,
+        339.463531,
+        10446.661133
+      ],
+      "ypr": [
+        1.116197,
+        0.050421,
+        0.069004
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2f.p3d",
+      "pos": [
+        4413.692383,
+        339.108887,
+        10422.577148
+      ],
+      "ypr": [
+        0.931347,
+        0.026954,
+        0.04878
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3f.p3d",
+      "pos": [
+        4431.969727,
+        339.250488,
+        10419.90332
+      ],
+      "ypr": [
+        1.524248,
+        -0.011264,
+        -0.021048
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fc.p3d",
+      "pos": [
+        4429.818359,
+        339.284485,
+        10421.71875
+      ],
+      "ypr": [
+        3.648301,
+        0.067184,
+        0.037415
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fc.p3d",
+      "pos": [
+        4423.277344,
+        339.052307,
+        10402.584961
+      ],
+      "ypr": [
+        6.175995,
+        -0.025727,
+        0.005086
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1f.p3d",
+      "pos": [
+        4426.018066,
+        339.145203,
+        10406.249023
+      ],
+      "ypr": [
+        3.910812,
+        0.052722,
+        -0.027291
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fb.p3d",
+      "pos": [
+        4422.251465,
+        339.271942,
+        10421.826172
+      ],
+      "ypr": [
+        0.557619,
+        -0.064355,
+        -0.047753
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2f.p3d",
+      "pos": [
+        4426.332031,
+        338.990173,
+        10397.90625
+      ],
+      "ypr": [
+        4.661143,
+        0.046615,
+        0.021824
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2w.p3d",
+      "pos": [
+        4414.075684,
+        339.163666,
+        10423.611328
+      ],
+      "ypr": [
+        0.007862,
+        -0.03612,
+        -0.049402
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fc.p3d",
+      "pos": [
+        4429.792969,
+        339.046204,
+        10401.052734
+      ],
+      "ypr": [
+        5.833332,
+        -0.008269,
+        0.069813
+      ],
+      "scale": 0.999992,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2w.p3d",
+      "pos": [
+        4431.494141,
+        339.388641,
+        10428.637695
+      ],
+      "ypr": [
+        5.863821,
+        0.026566,
+        0.066843
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fb.p3d",
+      "pos": [
+        4423.17041,
+        338.928711,
+        10395.480469
+      ],
+      "ypr": [
+        3.812442,
+        0.046138,
+        0.030798
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1fb.p3d",
+      "pos": [
+        4439.070801,
+        339.260071,
+        10423.723633
+      ],
+      "ypr": [
+        4.257502,
+        -0.012074,
+        -0.020392
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3f.p3d",
+      "pos": [
+        4422.448242,
+        339.184296,
+        10418.582031
+      ],
+      "ypr": [
+        0.592518,
+        -0.005976,
+        -0.036849
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1f.p3d",
+      "pos": [
+        4414.868652,
+        338.865936,
+        10407.80957
+      ],
+      "ypr": [
+        1.459436,
+        0.045171,
+        0.044127
+      ],
+      "scale": 0.999992,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fb.p3d",
+      "pos": [
+        4427.228027,
+        339.027985,
+        10399.860352
+      ],
+      "ypr": [
+        1.419167,
+        -0.038715,
+        0.01717
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3s.p3d",
+      "pos": [
+        4432.206055,
+        338.736908,
+        10386.339844
+      ],
+      "ypr": [
+        4.381374,
+        0.005559,
+        -0.066042
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fc.p3d",
+      "pos": [
+        4415.164063,
+        338.826538,
+        10398.920898
+      ],
+      "ypr": [
+        1.377557,
+        -0.056079,
+        0.036725
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fc.p3d",
+      "pos": [
+        4443.162598,
+        338.852142,
+        10407.345703
+      ],
+      "ypr": [
+        3.078027,
+        0.061291,
+        0.027108
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fb.p3d",
+      "pos": [
+        4435.05127,
+        338.786255,
+        10388.355469
+      ],
+      "ypr": [
+        0.51505,
+        0.030994,
+        0.028254
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3f.p3d",
+      "pos": [
+        4446.704102,
+        338.826508,
+        10395.43457
+      ],
+      "ypr": [
+        5.753371,
+        0.026669,
+        -0.063511
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1s.p3d",
+      "pos": [
+        4420.230469,
+        338.88855,
+        10398.09375
+      ],
+      "ypr": [
+        3.022034,
+        -0.069144,
+        -0.019595
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2s.p3d",
+      "pos": [
+        4439.464844,
+        338.907471,
+        10405.240234
+      ],
+      "ypr": [
+        4.307549,
+        -0.042682,
+        -0.02914
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fb.p3d",
+      "pos": [
+        4440.679688,
+        338.863586,
+        10396.932617
+      ],
+      "ypr": [
+        2.056939,
+        0.034168,
+        0.03462
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3f.p3d",
+      "pos": [
+        4432.120605,
+        339.228058,
+        10416.047852
+      ],
+      "ypr": [
+        1.207663,
+        0.042218,
+        0.038894
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fc.p3d",
+      "pos": [
+        4437.093262,
+        338.968048,
+        10397.769531
+      ],
+      "ypr": [
+        4.878975,
+        -0.068842,
+        -0.059011
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fb.p3d",
+      "pos": [
+        4432.254883,
+        338.738617,
+        10386.885742
+      ],
+      "ypr": [
+        3.989047,
+        -0.007182,
+        -0.054085
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2s.p3d",
+      "pos": [
+        4432.066406,
+        339.209717,
+        10408.720703
+      ],
+      "ypr": [
+        2.216862,
+        0.034842,
+        0.053135
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1fb.p3d",
+      "pos": [
+        4504.578125,
+        339.410431,
+        10431.021484
+      ],
+      "ypr": [
+        4.362775,
+        0.011239,
+        0.030721
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2f.p3d",
+      "pos": [
+        4519.222168,
+        338.905762,
+        10437.119141
+      ],
+      "ypr": [
+        3.848109,
+        -0.028492,
+        0.038758
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fb.p3d",
+      "pos": [
+        4525.964844,
+        338.830719,
+        10416.733398
+      ],
+      "ypr": [
+        2.334215,
+        -0.03471,
+        0.063072
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1f.p3d",
+      "pos": [
+        4519.354492,
+        338.897827,
+        10436.464844
+      ],
+      "ypr": [
+        5.153182,
+        0.067431,
+        -0.015619
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1fb.p3d",
+      "pos": [
+        4504.483398,
+        339.402985,
+        10432.475586
+      ],
+      "ypr": [
+        4.678976,
+        -0.022523,
+        0.058802
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2f.p3d",
+      "pos": [
+        4506.67041,
+        339.130219,
+        10444.121094
+      ],
+      "ypr": [
+        4.208029,
+        -0.059101,
+        -0.030636
+      ],
+      "scale": 0.999992,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3s.p3d",
+      "pos": [
+        4528.516113,
+        338.728668,
+        10420.740234
+      ],
+      "ypr": [
+        4.927297,
+        -0.057601,
+        -0.0106
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2s.p3d",
+      "pos": [
+        4526.387695,
+        338.888,
+        10440.539063
+      ],
+      "ypr": [
+        6.23237,
+        -0.036094,
+        0.068961
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3f.p3d",
+      "pos": [
+        4530.306641,
+        338.887848,
+        10439.669922
+      ],
+      "ypr": [
+        1.590787,
+        -0.061875,
+        0.045094
+      ],
+      "scale": 0.999994,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2s.p3d",
+      "pos": [
+        4526.083984,
+        338.756744,
+        10423.129883
+      ],
+      "ypr": [
+        6.216263,
+        0.000509,
+        -0.031991
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fc.p3d",
+      "pos": [
+        4523.608398,
+        338.941895,
+        10415.068359
+      ],
+      "ypr": [
+        5.868998,
+        -0.041992,
+        0.066106
+      ],
+      "scale": 0.999994,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2w.p3d",
+      "pos": [
+        4466.293945,
+        338.792511,
+        10413.878906
+      ],
+      "ypr": [
+        0.514091,
+        -0.014575,
+        -0.027551
+      ],
+      "scale": 0.999994,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3s.p3d",
+      "pos": [
+        4470.418457,
+        338.498779,
+        10408.055664
+      ],
+      "ypr": [
+        0.797694,
+        -0.01755,
+        -0.015683
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3s.p3d",
+      "pos": [
+        4481.290039,
+        338.710083,
+        10399.514648
+      ],
+      "ypr": [
+        5.197286,
+        0.024312,
+        0.038493
+      ],
+      "scale": 0.99999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3s.p3d",
+      "pos": [
+        4493.869141,
+        339.490204,
+        10403.970703
+      ],
+      "ypr": [
+        3.322704,
+        -0.057579,
+        0.012918
+      ],
+      "scale": 0.99999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2s.p3d",
+      "pos": [
+        4487.879395,
+        339.199982,
+        10401.619141
+      ],
+      "ypr": [
+        0.641032,
+        0.064499,
+        0.05951
+      ],
+      "scale": 0.99999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fc.p3d",
+      "pos": [
+        4479.514648,
+        338.728363,
+        10400.286133
+      ],
+      "ypr": [
+        3.085888,
+        0.006411,
+        0.039606
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2w.p3d",
+      "pos": [
+        4475.751465,
+        339.522736,
+        10427.226563
+      ],
+      "ypr": [
+        2.454061,
+        0.064683,
+        -0.045652
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fc.p3d",
+      "pos": [
+        4485.088867,
+        339.112885,
+        10403.333984
+      ],
+      "ypr": [
+        0.287438,
+        0.043249,
+        -0.026443
+      ],
+      "scale": 0.999992,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fb.p3d",
+      "pos": [
+        4495.452148,
+        339.547424,
+        10402.236328
+      ],
+      "ypr": [
+        1.1231,
+        -0.017273,
+        0.063217
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2s.p3d",
+      "pos": [
+        4484.200195,
+        339.546783,
+        10423.366211
+      ],
+      "ypr": [
+        0.245444,
+        -0.000513,
+        0.049296
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1f.p3d",
+      "pos": [
+        4500.526367,
+        339.541382,
+        10414.583984
+      ],
+      "ypr": [
+        3.641207,
+        -0.067231,
+        -0.021743
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1fb.p3d",
+      "pos": [
+        4496.195313,
+        339.571808,
+        10410.755859
+      ],
+      "ypr": [
+        4.755486,
+        0.05648,
+        -0.063455
+      ],
+      "scale": 0.999992,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3s.p3d",
+      "pos": [
+        4549.938477,
+        339.111176,
+        10373.397461
+      ],
+      "ypr": [
+        5.834674,
+        0.027836,
+        -0.006108
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3f.p3d",
+      "pos": [
+        4535.714355,
+        339.2323,
+        10381.416016
+      ],
+      "ypr": [
+        5.022407,
+        -0.039985,
+        -0.053625
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1s.p3d",
+      "pos": [
+        4563.066895,
+        338.988129,
+        10383.005859
+      ],
+      "ypr": [
+        0.737292,
+        0.056105,
+        0.046321
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3f.p3d",
+      "pos": [
+        4556.956543,
+        339.032654,
+        10378.280273
+      ],
+      "ypr": [
+        0.457524,
+        -0.000816,
+        0.001468
+      ],
+      "scale": 0.99999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2f.p3d",
+      "pos": [
+        4552.022461,
+        339.057739,
+        10379.082031
+      ],
+      "ypr": [
+        5.839085,
+        0.017562,
+        0.065543
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2f.p3d",
+      "pos": [
+        4543.018555,
+        338.807648,
+        10393.466797
+      ],
+      "ypr": [
+        1.842175,
+        -0.065876,
+        -0.019314
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fb.p3d",
+      "pos": [
+        4559.443359,
+        339.046539,
+        10369.310547
+      ],
+      "ypr": [
+        3.194421,
+        -0.021555,
+        0.031744
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1fb.p3d",
+      "pos": [
+        4543.489746,
+        339.142181,
+        10369.424805
+      ],
+      "ypr": [
+        1.104116,
+        0.010664,
+        0.023613
+      ],
+      "scale": 0.99999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3f.p3d",
+      "pos": [
+        4555.589844,
+        338.876495,
+        10391.285156
+      ],
+      "ypr": [
+        5.010709,
+        -0.050365,
+        -0.048443
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1fb.p3d",
+      "pos": [
+        4555.993652,
+        338.938141,
+        10384.729492
+      ],
+      "ypr": [
+        3.436605,
+        0.0091,
+        -0.009155
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fc.p3d",
+      "pos": [
+        4555.941895,
+        339.073914,
+        10372.891602
+      ],
+      "ypr": [
+        1.024539,
+        0.043726,
+        -0.054669
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1s.p3d",
+      "pos": [
+        4546.232422,
+        338.812195,
+        10390.972656
+      ],
+      "ypr": [
+        6.093349,
+        -0.040189,
+        -0.029852
+      ],
+      "scale": 0.99999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1f.p3d",
+      "pos": [
+        4543.696777,
+        339.081238,
+        10315.583008
+      ],
+      "ypr": [
+        6.051739,
+        0.021423,
+        -0.06199
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2s.p3d",
+      "pos": [
+        4542.409668,
+        339.12207,
+        10322.915039
+      ],
+      "ypr": [
+        0.386575,
+        0.051332,
+        0.032553
+      ],
+      "scale": 0.999994,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2s.p3d",
+      "pos": [
+        4528.523926,
+        339.587708,
+        10324.229492
+      ],
+      "ypr": [
+        5.66689,
+        -0.021406,
+        0.037437
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1s.p3d",
+      "pos": [
+        4530.236816,
+        339.433929,
+        10310.697266
+      ],
+      "ypr": [
+        4.037369,
+        0.007966,
+        0.061086
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fb.p3d",
+      "pos": [
+        4524.098145,
+        339.567841,
+        10323.975586
+      ],
+      "ypr": [
+        1.485706,
+        -0.04099,
+        -0.011337
+      ],
+      "scale": 0.999994,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fc.p3d",
+      "pos": [
+        4522.785645,
+        339.409668,
+        10312.376953
+      ],
+      "ypr": [
+        4.499878,
+        -0.015573,
+        -0.019974
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fb.p3d",
+      "pos": [
+        4533.018066,
+        339.472107,
+        10313.703125
+      ],
+      "ypr": [
+        0.654071,
+        0.049176,
+        -0.062037
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3s.p3d",
+      "pos": [
+        4545.402344,
+        339.071075,
+        10328.224609
+      ],
+      "ypr": [
+        5.95567,
+        -0.014452,
+        0.041054
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1fb.p3d",
+      "pos": [
+        4535.234375,
+        339.190308,
+        10341.957031
+      ],
+      "ypr": [
+        3.015898,
+        -0.015389,
+        -0.032468
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3f.p3d",
+      "pos": [
+        4526.084473,
+        339.490601,
+        10315.821289
+      ],
+      "ypr": [
+        2.535748,
+        -0.011938,
+        0.021606
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1s.p3d",
+      "pos": [
+        4528.42041,
+        339.594879,
+        10324.584961
+      ],
+      "ypr": [
+        1.898167,
+        -0.064721,
+        -0.026694
+      ],
+      "scale": 0.999994,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fc.p3d",
+      "pos": [
+        4534.303223,
+        339.330658,
+        10328.179688
+      ],
+      "ypr": [
+        4.239285,
+        0.027887,
+        -0.059531
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fc.p3d",
+      "pos": [
+        4518.002441,
+        339.318573,
+        10303.761719
+      ],
+      "ypr": [
+        2.547253,
+        0.065607,
+        0.002359
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1f.p3d",
+      "pos": [
+        4533.532715,
+        339.484772,
+        10315.164063
+      ],
+      "ypr": [
+        5.619335,
+        0.013646,
+        0.010059
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1f.p3d",
+      "pos": [
+        4527.652832,
+        339.334381,
+        10302.695313
+      ],
+      "ypr": [
+        5.024324,
+        -0.040015,
+        0.010877
+      ],
+      "scale": 0.999994,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fc.p3d",
+      "pos": [
+        4545.375488,
+        339.025818,
+        10321.446289
+      ],
+      "ypr": [
+        3.231812,
+        0.063413,
+        -0.045576
+      ],
+      "scale": 0.999994,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2s.p3d",
+      "pos": [
+        4538.27002,
+        339.253479,
+        10324.643555
+      ],
+      "ypr": [
+        0.807282,
+        -0.0012,
+        0.002857
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2f.p3d",
+      "pos": [
+        4525.10498,
+        339.579956,
+        10323.15332
+      ],
+      "ypr": [
+        0.559537,
+        -0.062757,
+        -0.035852
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fc.p3d",
+      "pos": [
+        4523.647949,
+        339.546204,
+        10325.088867
+      ],
+      "ypr": [
+        3.049263,
+        0.007711,
+        0.069357
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1s.p3d",
+      "pos": [
+        4549.487305,
+        338.971191,
+        10315.921875
+      ],
+      "ypr": [
+        6.02451,
+        0.055436,
+        0.021896
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2w.p3d",
+      "pos": [
+        4541.592773,
+        339.172546,
+        10318.890625
+      ],
+      "ypr": [
+        1.500087,
+        -0.023737,
+        -0.050642
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1s.p3d",
+      "pos": [
+        4540.891602,
+        339.174835,
+        10327.425781
+      ],
+      "ypr": [
+        1.896633,
+        0.068437,
+        0.046223
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1fb.p3d",
+      "pos": [
+        4535.298828,
+        339.248291,
+        10304.801758
+      ],
+      "ypr": [
+        0.991941,
+        0.005563,
+        0.024636
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fc.p3d",
+      "pos": [
+        4520.596191,
+        339.333527,
+        10306.287109
+      ],
+      "ypr": [
+        1.629713,
+        0.061112,
+        0.048699
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1f.p3d",
+      "pos": [
+        4486.108398,
+        339.201782,
+        10349.06543
+      ],
+      "ypr": [
+        1.404978,
+        0.04555,
+        -0.049325
+      ],
+      "scale": 0.999994,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2f.p3d",
+      "pos": [
+        4486.02832,
+        339.208496,
+        10347.061523
+      ],
+      "ypr": [
+        0.554167,
+        0.050224,
+        -0.037552
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fb.p3d",
+      "pos": [
+        4485.478516,
+        339.210663,
+        10348.290039
+      ],
+      "ypr": [
+        3.144948,
+        0.0482,
+        -0.02816
+      ],
+      "scale": 0.999992,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3s.p3d",
+      "pos": [
+        4494.06543,
+        339.217468,
+        10365.186523
+      ],
+      "ypr": [
+        2.195577,
+        0.003714,
+        0.05397
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fb.p3d",
+      "pos": [
+        4475.868164,
+        339.297913,
+        10350.104492
+      ],
+      "ypr": [
+        4.668429,
+        0.016003,
+        0.036005
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3f.p3d",
+      "pos": [
+        4477.822266,
+        339.273071,
+        10353.706055
+      ],
+      "ypr": [
+        0.079194,
+        0.03843,
+        0.060588
+      ],
+      "scale": 0.999994,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3s.p3d",
+      "pos": [
+        4485.505371,
+        339.204987,
+        10360.027344
+      ],
+      "ypr": [
+        2.14783,
+        0.033917,
+        -0.020123
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2s.p3d",
+      "pos": [
+        4491.948242,
+        339.161499,
+        10375.353516
+      ],
+      "ypr": [
+        0.1279,
+        0.008226,
+        -0.046125
+      ],
+      "scale": 0.99999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fc.p3d",
+      "pos": [
+        4477.483398,
+        339.286804,
+        10345.745117
+      ],
+      "ypr": [
+        2.028368,
+        0.06066,
+        0.018981
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fc.p3d",
+      "pos": [
+        4469.359863,
+        339.293365,
+        10354.283203
+      ],
+      "ypr": [
+        0.079578,
+        0.033384,
+        0.023115
+      ],
+      "scale": 0.999994,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fb.p3d",
+      "pos": [
+        4494.159668,
+        339.260315,
+        10372.900391
+      ],
+      "ypr": [
+        2.961249,
+        0.01593,
+        0.066937
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fc.p3d",
+      "pos": [
+        4474.768066,
+        339.231995,
+        10359.293945
+      ],
+      "ypr": [
+        2.838143,
+        0.029392,
+        0.054984
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1s.p3d",
+      "pos": [
+        4603.125,
+        339.421967,
+        10263.667969
+      ],
+      "ypr": [
+        1.093953,
+        -0.056071,
+        -0.016757
+      ],
+      "scale": 0.999992,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3s.p3d",
+      "pos": [
+        4595.432129,
+        339.593658,
+        10282.165039
+      ],
+      "ypr": [
+        6.199772,
+        0.048605,
+        -0.027457
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3s.p3d",
+      "pos": [
+        4611.388184,
+        339.248566,
+        10271.290039
+      ],
+      "ypr": [
+        2.815132,
+        0.068134,
+        0.060315
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2w.p3d",
+      "pos": [
+        4620.620605,
+        339.057556,
+        10278.697266
+      ],
+      "ypr": [
+        1.650422,
+        -0.035881,
+        0.02773
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2f.p3d",
+      "pos": [
+        4612.808105,
+        339.18396,
+        10262.722656
+      ],
+      "ypr": [
+        4.125767,
+        0.05455,
+        -0.028599
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1f.p3d",
+      "pos": [
+        4621.591309,
+        339.050293,
+        10283.036133
+      ],
+      "ypr": [
+        4.289333,
+        -0.048298,
+        -0.02623
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3s.p3d",
+      "pos": [
+        4601.777344,
+        339.477386,
+        10274.491211
+      ],
+      "ypr": [
+        5.176384,
+        0.00901,
+        0.005064
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fc.p3d",
+      "pos": [
+        4599.406738,
+        339.519043,
+        10274.114258
+      ],
+      "ypr": [
+        1.613605,
+        -0.049922,
+        -0.034415
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2s.p3d",
+      "pos": [
+        4603.27002,
+        339.205139,
+        10289.647461
+      ],
+      "ypr": [
+        0.916581,
+        -0.059872,
+        0.054017
+      ],
+      "scale": 0.999994,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3s.p3d",
+      "pos": [
+        4519.070313,
+        339.23468,
+        10268.59668
+      ],
+      "ypr": [
+        5.898144,
+        -0.002648,
+        0.040138
+      ],
+      "scale": 0.99999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2w.p3d",
+      "pos": [
+        4496.52002,
+        339.071899,
+        10253.050781
+      ],
+      "ypr": [
+        3.082628,
+        0.053706,
+        0.027853
+      ],
+      "scale": 0.999992,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fc.p3d",
+      "pos": [
+        4505.972168,
+        339.149597,
+        10268.87793
+      ],
+      "ypr": [
+        1.898743,
+        -0.049555,
+        -0.033738
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2f.p3d",
+      "pos": [
+        4500.650879,
+        339.087128,
+        10247.214844
+      ],
+      "ypr": [
+        1.641985,
+        0.051413,
+        0.047208
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1f.p3d",
+      "pos": [
+        4516.212891,
+        339.225189,
+        10269.575195
+      ],
+      "ypr": [
+        0.909487,
+        -0.053275,
+        -0.061214
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1s.p3d",
+      "pos": [
+        4505.607422,
+        339.120056,
+        10254.495117
+      ],
+      "ypr": [
+        0.667302,
+        0.063404,
+        -0.042499
+      ],
+      "scale": 0.999994,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fb.p3d",
+      "pos": [
+        4495.395508,
+        339.062256,
+        10266.110352
+      ],
+      "ypr": [
+        1.820891,
+        0.012181,
+        0.023754
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fc.p3d",
+      "pos": [
+        4499.869629,
+        339.104919,
+        10272.138672
+      ],
+      "ypr": [
+        3.570833,
+        -0.046193,
+        0.031096
+      ],
+      "scale": 0.999992,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fc.p3d",
+      "pos": [
+        4523.430664,
+        339.265625,
+        10266.099609
+      ],
+      "ypr": [
+        2.553581,
+        -0.041838,
+        -0.046313
+      ],
+      "scale": 0.99999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1fb.p3d",
+      "pos": [
+        4513.724609,
+        339.206146,
+        10255.126953
+      ],
+      "ypr": [
+        5.334581,
+        0.009176,
+        -0.028803
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2w.p3d",
+      "pos": [
+        4512.327637,
+        339.194214,
+        10250.09668
+      ],
+      "ypr": [
+        3.986171,
+        -0.042631,
+        0.052636
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1fb.p3d",
+      "pos": [
+        4523.048828,
+        339.269348,
+        10262.063477
+      ],
+      "ypr": [
+        2.719447,
+        -0.021444,
+        -0.023464
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fb.p3d",
+      "pos": [
+        4591.126953,
+        339.095581,
+        10221.643555
+      ],
+      "ypr": [
+        0.548223,
+        0.064755,
+        -0.050276
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1s.p3d",
+      "pos": [
+        4591.781738,
+        339.111053,
+        10214.882813
+      ],
+      "ypr": [
+        3.856929,
+        -0.017754,
+        0.069417
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1fb.p3d",
+      "pos": [
+        4605.057617,
+        339.071198,
+        10219.681641
+      ],
+      "ypr": [
+        3.583105,
+        -0.031186,
+        -0.049939
+      ],
+      "scale": 0.999992,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fb.p3d",
+      "pos": [
+        4590.700195,
+        339.106903,
+        10217.334961
+      ],
+      "ypr": [
+        1.389446,
+        0.055977,
+        0.047442
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2w.p3d",
+      "pos": [
+        4578.709961,
+        339.152069,
+        10204.139648
+      ],
+      "ypr": [
+        5.848672,
+        -0.028339,
+        0.000177
+      ],
+      "scale": 0.999994,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2s.p3d",
+      "pos": [
+        4602.788574,
+        339.187897,
+        10202.518555
+      ],
+      "ypr": [
+        2.523859,
+        0.017822,
+        0.046198
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fc.p3d",
+      "pos": [
+        4591.496094,
+        339.170654,
+        10204.725586
+      ],
+      "ypr": [
+        0.234514,
+        -0.059169,
+        -0.056676
+      ],
+      "scale": 0.999994,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fc.p3d",
+      "pos": [
+        4598.576172,
+        339.213226,
+        10197.69043
+      ],
+      "ypr": [
+        2.708326,
+        -0.016374,
+        0.001788
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2w.p3d",
+      "pos": [
+        4586.343262,
+        339.112366,
+        10216.345703
+      ],
+      "ypr": [
+        6.150108,
+        -0.06934,
+        0.039721
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fb.p3d",
+      "pos": [
+        4592.882324,
+        339.109192,
+        10215.608398
+      ],
+      "ypr": [
+        3.882432,
+        0.055317,
+        0.031671
+      ],
+      "scale": 0.999992,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fb.p3d",
+      "pos": [
+        4590.553223,
+        339.10849,
+        10215.168945
+      ],
+      "ypr": [
+        4.335162,
+        0.060127,
+        -0.063196
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1f.p3d",
+      "pos": [
+        4598.264648,
+        339.190887,
+        10202.852539
+      ],
+      "ypr": [
+        5.838893,
+        0.059113,
+        -0.036584
+      ],
+      "scale": 0.999992,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2s.p3d",
+      "pos": [
+        4546.333496,
+        339.092377,
+        10177.963867
+      ],
+      "ypr": [
+        0.871136,
+        -0.033781,
+        0.069485
+      ],
+      "scale": 0.99999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1s.p3d",
+      "pos": [
+        4557.306641,
+        339.125549,
+        10175.489258
+      ],
+      "ypr": [
+        5.241964,
+        -0.011516,
+        0.011311
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1fb.p3d",
+      "pos": [
+        4557.413086,
+        339.153076,
+        10152.788086
+      ],
+      "ypr": [
+        3.764887,
+        0.04215,
+        -0.025612
+      ],
+      "scale": 0.999994,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fc.p3d",
+      "pos": [
+        4572.830078,
+        339.202606,
+        10157.927734
+      ],
+      "ypr": [
+        1.745532,
+        0.020567,
+        -0.043692
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fc.p3d",
+      "pos": [
+        4555.352051,
+        339.118256,
+        10177.02832
+      ],
+      "ypr": [
+        3.300652,
+        0.053476,
+        0.030913
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fb.p3d",
+      "pos": [
+        4561.381836,
+        339.163727,
+        10153.201172
+      ],
+      "ypr": [
+        4.999588,
+        -0.046594,
+        0.054285
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2w.p3d",
+      "pos": [
+        4562.259766,
+        339.145874,
+        10173.035156
+      ],
+      "ypr": [
+        2.860578,
+        0.005993,
+        -0.053241
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3f.p3d",
+      "pos": [
+        4562.723633,
+        339.166931,
+        10154.105469
+      ],
+      "ypr": [
+        0.130776,
+        0.032387,
+        -0.007647
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fb.p3d",
+      "pos": [
+        4548.350586,
+        339.115479,
+        10169.254883
+      ],
+      "ypr": [
+        3.286079,
+        -0.064772,
+        0.038613
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3s.p3d",
+      "pos": [
+        4558.686523,
+        339.112,
+        10180.867188
+      ],
+      "ypr": [
+        6.248286,
+        0.052632,
+        -0.029396
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2w.p3d",
+      "pos": [
+        4560.952637,
+        339.1633,
+        10148.368164
+      ],
+      "ypr": [
+        0.522336,
+        0.063515,
+        0.062714
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fc.p3d",
+      "pos": [
+        4545.228027,
+        339.123108,
+        10151.589844
+      ],
+      "ypr": [
+        4.969099,
+        -0.065007,
+        -0.048405
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fc.p3d",
+      "pos": [
+        4571.704102,
+        339.190735,
+        10164.59082
+      ],
+      "ypr": [
+        1.539205,
+        -0.032737,
+        -0.018368
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fc.p3d",
+      "pos": [
+        4580.09668,
+        339.326843,
+        10159.498047
+      ],
+      "ypr": [
+        5.922497,
+        -0.005951,
+        0.031305
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3s.p3d",
+      "pos": [
+        4566.12207,
+        339.173737,
+        10153.641602
+      ],
+      "ypr": [
+        2.790588,
+        -0.015317,
+        -0.066639
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fc.p3d",
+      "pos": [
+        4553.628418,
+        339.128448,
+        10165.947266
+      ],
+      "ypr": [
+        0.479767,
+        -0.005154,
+        0.060213
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1f.p3d",
+      "pos": [
+        4578.405762,
+        339.357849,
+        10147.360352
+      ],
+      "ypr": [
+        0.868835,
+        0.039452,
+        -0.053433
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2w.p3d",
+      "pos": [
+        4564.617676,
+        339.169586,
+        10162.024414
+      ],
+      "ypr": [
+        0.778135,
+        -0.000594,
+        -0.034458
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fc.p3d",
+      "pos": [
+        4580.925293,
+        339.29483,
+        10163.081055
+      ],
+      "ypr": [
+        3.579078,
+        -0.035344,
+        0.020192
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3f.p3d",
+      "pos": [
+        4570.030762,
+        339.204742,
+        10144.355469
+      ],
+      "ypr": [
+        3.314075,
+        0.036214,
+        -0.002175
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fc.p3d",
+      "pos": [
+        4572.310059,
+        339.217224,
+        10149.527344
+      ],
+      "ypr": [
+        4.159899,
+        0.005989,
+        0.03237
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1f.p3d",
+      "pos": [
+        4570.006836,
+        339.20697,
+        10143.117188
+      ],
+      "ypr": [
+        6.118278,
+        0.031488,
+        0.016233
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2w.p3d",
+      "pos": [
+        4561.967285,
+        339.159637,
+        10142.507813
+      ],
+      "ypr": [
+        0.91754,
+        -0.068356,
+        0.037147
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2s.p3d",
+      "pos": [
+        4569.572754,
+        339.195099,
+        10150.81543
+      ],
+      "ypr": [
+        3.257124,
+        0.036077,
+        0.06458
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1s.p3d",
+      "pos": [
+        4606.487793,
+        339.013672,
+        10109.766602
+      ],
+      "ypr": [
+        4.359323,
+        0.05789,
+        -0.01928
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3f.p3d",
+      "pos": [
+        4599.48291,
+        339.005798,
+        10097.071289
+      ],
+      "ypr": [
+        4.18291,
+        0.061666,
+        0.06588
+      ],
+      "scale": 0.99999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fc.p3d",
+      "pos": [
+        4601.475586,
+        339.246582,
+        10126.797852
+      ],
+      "ypr": [
+        2.592315,
+        0.053655,
+        -0.036452
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fb.p3d",
+      "pos": [
+        4600.780273,
+        339.002258,
+        10104.700195
+      ],
+      "ypr": [
+        4.356447,
+        -0.041353,
+        0.008972
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1f.p3d",
+      "pos": [
+        4590.82666,
+        339.038727,
+        10115.228516
+      ],
+      "ypr": [
+        0.505846,
+        -0.063392,
+        0.058798
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3f.p3d",
+      "pos": [
+        4591.363281,
+        339.128387,
+        10122.249023
+      ],
+      "ypr": [
+        1.051576,
+        0.016676,
+        0.030504
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fc.p3d",
+      "pos": [
+        4591.024902,
+        338.950134,
+        10102.558594
+      ],
+      "ypr": [
+        5.652892,
+        -0.041902,
+        0.040402
+      ],
+      "scale": 0.999992,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fc.p3d",
+      "pos": [
+        4583.309082,
+        338.968567,
+        10107.40918
+      ],
+      "ypr": [
+        0.207477,
+        0.036167,
+        0.000552
+      ],
+      "scale": 0.999994,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1f.p3d",
+      "pos": [
+        4601.080078,
+        338.996582,
+        10104.90332
+      ],
+      "ypr": [
+        4.490674,
+        -0.039333,
+        -0.068701
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1fb.p3d",
+      "pos": [
+        4604.140137,
+        339.00885,
+        10106.506836
+      ],
+      "ypr": [
+        1.197884,
+        -0.024027,
+        0.011997
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2w.p3d",
+      "pos": [
+        4587.766113,
+        338.992218,
+        10096.797852
+      ],
+      "ypr": [
+        4.007264,
+        -0.045968,
+        -0.048959
+      ],
+      "scale": 0.99999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1fb.p3d",
+      "pos": [
+        4592.616699,
+        338.993469,
+        10110.608398
+      ],
+      "ypr": [
+        0.75781,
+        -0.02914,
+        0.048904
+      ],
+      "scale": 0.999992,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3f.p3d",
+      "pos": [
+        4615.388184,
+        339.12851,
+        10119.862305
+      ],
+      "ypr": [
+        1.444479,
+        0.051575,
+        -0.02643
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1f.p3d",
+      "pos": [
+        4616.304199,
+        339.089874,
+        10116.782227
+      ],
+      "ypr": [
+        5.11138,
+        -0.025672,
+        0.057677
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3f.p3d",
+      "pos": [
+        4596.355469,
+        339.113617,
+        10117.251953
+      ],
+      "ypr": [
+        0.366249,
+        -0.045473,
+        0.030832
+      ],
+      "scale": 0.999992,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3f.p3d",
+      "pos": [
+        4617.262695,
+        339.113251,
+        10111.988281
+      ],
+      "ypr": [
+        5.12231,
+        -0.067001,
+        0.01654
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fb.p3d",
+      "pos": [
+        4610.11084,
+        339.472839,
+        10139.21582
+      ],
+      "ypr": [
+        2.904106,
+        -0.003641,
+        -0.002307
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1f.p3d",
+      "pos": [
+        4620.346191,
+        339.262756,
+        10130.6875
+      ],
+      "ypr": [
+        5.50831,
+        -0.03044,
+        0.061436
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fb.p3d",
+      "pos": [
+        4601.539063,
+        339.005402,
+        10107.821289
+      ],
+      "ypr": [
+        0.210162,
+        0.003334,
+        0.033188
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3f.p3d",
+      "pos": [
+        4609.664551,
+        339.119781,
+        10116.15918
+      ],
+      "ypr": [
+        1.42818,
+        0.062036,
+        0.035724
+      ],
+      "scale": 0.999992,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3f.p3d",
+      "pos": [
+        4599.331055,
+        339.194824,
+        10122.737305
+      ],
+      "ypr": [
+        5.784051,
+        -0.012556,
+        0.018449
+      ],
+      "scale": 0.99999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2s.p3d",
+      "pos": [
+        4605.092285,
+        339.39389,
+        10135.390625
+      ],
+      "ypr": [
+        1.355697,
+        -0.001072,
+        -0.067504
+      ],
+      "scale": 0.99999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3f.p3d",
+      "pos": [
+        4620.408203,
+        339.223083,
+        10128.286133
+      ],
+      "ypr": [
+        5.991336,
+        -0.045601,
+        -0.006939
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1fb.p3d",
+      "pos": [
+        4605.668457,
+        339.014008,
+        10109.695313
+      ],
+      "ypr": [
+        2.732678,
+        0.024985,
+        0.051635
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1f.p3d",
+      "pos": [
+        4628.479004,
+        339.21286,
+        10128.175781
+      ],
+      "ypr": [
+        1.452149,
+        -0.007945,
+        -0.020656
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1f.p3d",
+      "pos": [
+        4629.316406,
+        339.191833,
+        10124.322266
+      ],
+      "ypr": [
+        2.277647,
+        0.046078,
+        -0.048997
+      ],
+      "scale": 0.999994,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2w.p3d",
+      "pos": [
+        4625.758789,
+        339.341492,
+        10140.09668
+      ],
+      "ypr": [
+        2.971795,
+        -0.051081,
+        0.03569
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3f.p3d",
+      "pos": [
+        4608.94043,
+        339.156647,
+        10119.038086
+      ],
+      "ypr": [
+        5.057881,
+        0.055559,
+        0.032933
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1s.p3d",
+      "pos": [
+        4625.947266,
+        339.291595,
+        10134.523438
+      ],
+      "ypr": [
+        6.022017,
+        0.030159,
+        -0.05276
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1s.p3d",
+      "pos": [
+        4623.502441,
+        339.332245,
+        10135.273438
+      ],
+      "ypr": [
+        2.381961,
+        0.03779,
+        0.043151
+      ],
+      "scale": 0.99999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1s.p3d",
+      "pos": [
+        4619.658203,
+        339.165222,
+        10124.568359
+      ],
+      "ypr": [
+        6.106197,
+        0.068671,
+        -0.059599
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1f.p3d",
+      "pos": [
+        4603.976563,
+        339.283508,
+        10128.527344
+      ],
+      "ypr": [
+        5.270919,
+        0.047791,
+        -0.039427
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1f.p3d",
+      "pos": [
+        4599.737305,
+        339.296265,
+        10130.385742
+      ],
+      "ypr": [
+        0.387726,
+        -0.056322,
+        -0.065309
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fc.p3d",
+      "pos": [
+        4618.087891,
+        339.481934,
+        10148.958984
+      ],
+      "ypr": [
+        5.683764,
+        -0.059582,
+        0.038809
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1s.p3d",
+      "pos": [
+        4605.871094,
+        339.536346,
+        10147.082031
+      ],
+      "ypr": [
+        0.124256,
+        0.048563,
+        0.057315
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fb.p3d",
+      "pos": [
+        4663.565918,
+        339.087952,
+        10185.570313
+      ],
+      "ypr": [
+        2.037572,
+        -0.050382,
+        -0.054166
+      ],
+      "scale": 0.99999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1fb.p3d",
+      "pos": [
+        4660.023438,
+        339.106079,
+        10177.717773
+      ],
+      "ypr": [
+        3.498158,
+        -0.044076,
+        -0.012688
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1f.p3d",
+      "pos": [
+        4664.740723,
+        339.091736,
+        10183.682617
+      ],
+      "ypr": [
+        3.394228,
+        0.05025,
+        0.040466
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fc.p3d",
+      "pos": [
+        4651.75293,
+        339.165344,
+        10162.157227
+      ],
+      "ypr": [
+        0.354169,
+        -0.059386,
+        0.037104
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1fb.p3d",
+      "pos": [
+        4652.495117,
+        339.134644,
+        10169
+      ],
+      "ypr": [
+        2.330571,
+        0.057328,
+        -0.006326
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1fb.p3d",
+      "pos": [
+        4648.352539,
+        339.103149,
+        10182.603516
+      ],
+      "ypr": [
+        2.080909,
+        -0.023826,
+        -0.005657
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fc.p3d",
+      "pos": [
+        4664.33252,
+        339.085968,
+        10188.054688
+      ],
+      "ypr": [
+        0.558578,
+        -0.069123,
+        -0.017912
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3s.p3d",
+      "pos": [
+        4655.378418,
+        339.080536,
+        10191.719727
+      ],
+      "ypr": [
+        2.812831,
+        -0.030674,
+        0.055973
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1fb.p3d",
+      "pos": [
+        4660.03418,
+        339.124847,
+        10171.267578
+      ],
+      "ypr": [
+        5.251552,
+        -0.034986,
+        0.017878
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1fb.p3d",
+      "pos": [
+        4675.517578,
+        339.061279,
+        10182.551758
+      ],
+      "ypr": [
+        5.679162,
+        0.064866,
+        -0.016054
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fc.p3d",
+      "pos": [
+        4643.524902,
+        339.128845,
+        10167.09375
+      ],
+      "ypr": [
+        4.696042,
+        0.037415,
+        -0.033776
+      ],
+      "scale": 0.999992,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3s.p3d",
+      "pos": [
+        4668.90625,
+        339.102448,
+        10166.425781
+      ],
+      "ypr": [
+        4.740529,
+        0.034795,
+        -0.03952
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2f.p3d",
+      "pos": [
+        4657.34082,
+        339.107422,
+        10178.380859
+      ],
+      "ypr": [
+        6.036015,
+        -0.033009,
+        0.017324
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3s.p3d",
+      "pos": [
+        4664.247559,
+        339.08667,
+        10187.116211
+      ],
+      "ypr": [
+        3.06863,
+        0.061823,
+        0.00962
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fb.p3d",
+      "pos": [
+        4642.961426,
+        339.099091,
+        10185.705078
+      ],
+      "ypr": [
+        2.843512,
+        0.016813,
+        0.03347
+      ],
+      "scale": 0.999994,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2f.p3d",
+      "pos": [
+        4659.572754,
+        339.081604,
+        10191.196289
+      ],
+      "ypr": [
+        4.247723,
+        -0.019663,
+        -0.008363
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1fb.p3d",
+      "pos": [
+        4645.45459,
+        339.067474,
+        10201.763672
+      ],
+      "ypr": [
+        4.940336,
+        -0.00512,
+        -0.056838
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1fb.p3d",
+      "pos": [
+        4664.959961,
+        339.087128,
+        10187.141602
+      ],
+      "ypr": [
+        4.956635,
+        -0.030845,
+        0.009696
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1fb.p3d",
+      "pos": [
+        4654.933105,
+        339.118744,
+        10175.306641
+      ],
+      "ypr": [
+        1.334221,
+        -0.025152,
+        -0.007412
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fb.p3d",
+      "pos": [
+        4643.763184,
+        339.069092,
+        10202.832031
+      ],
+      "ypr": [
+        5.791338,
+        0.028399,
+        0.021815
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fc.p3d",
+      "pos": [
+        4651.695313,
+        339.105133,
+        10181.179688
+      ],
+      "ypr": [
+        6.000349,
+        -0.042533,
+        -0.01054
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2s.p3d",
+      "pos": [
+        4646.476563,
+        339.058838,
+        10207.56543
+      ],
+      "ypr": [
+        1.104883,
+        0.013992,
+        0.02274
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fc.p3d",
+      "pos": [
+        4651.851074,
+        339.064941,
+        10198.204102
+      ],
+      "ypr": [
+        2.352623,
+        0.049044,
+        -0.054818
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fb.p3d",
+      "pos": [
+        4656.324707,
+        339.081512,
+        10190.410156
+      ],
+      "ypr": [
+        2.134216,
+        0.067661,
+        -0.003918
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3s.p3d",
+      "pos": [
+        4643.4375,
+        339.031433,
+        10218.114258
+      ],
+      "ypr": [
+        4.941295,
+        -0.018768,
+        -0.030938
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3f.p3d",
+      "pos": [
+        4649.859375,
+        339.042572,
+        10214.186523
+      ],
+      "ypr": [
+        1.808427,
+        0.063502,
+        -0.004357
+      ],
+      "scale": 0.99999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1f.p3d",
+      "pos": [
+        4361.814453,
+        338.468842,
+        10519.990234
+      ],
+      "ypr": [
+        5.083767,
+        0.012811,
+        0.053757
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_3f.p3d",
+      "pos": [
+        4356.112793,
+        338.220703,
+        10505.750977
+      ],
+      "ypr": [
+        1.234317,
+        0.054345,
+        0.00336
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1f.p3d",
+      "pos": [
+        4364.878906,
+        338.309326,
+        10515.106445
+      ],
+      "ypr": [
+        1.512743,
+        0.054226,
+        0.023132
+      ],
+      "scale": 0.999992,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1f.p3d",
+      "pos": [
+        4359.415039,
+        338.741302,
+        10527.110352
+      ],
+      "ypr": [
+        0.842373,
+        0.00235,
+        -0.067717
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1fb.p3d",
+      "pos": [
+        4359.655762,
+        338.247314,
+        10509.514648
+      ],
+      "ypr": [
+        4.895082,
+        -0.042503,
+        0.05902
+      ],
+      "scale": 0.999994,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_2f.p3d",
+      "pos": [
+        4350.645508,
+        338.178436,
+        10504.791016
+      ],
+      "ypr": [
+        0.858288,
+        0.041319,
+        0.001817
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1fd.p3d",
+      "pos": [
+        4340.455566,
+        338.124298,
+        10508.462891
+      ],
+      "ypr": [
+        1.246973,
+        0.030913,
+        -0.008584
+      ],
+      "scale": 0.999992,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1fc.p3d",
+      "pos": [
+        4373.02832,
+        338.422455,
+        10518.337891
+      ],
+      "ypr": [
+        3.675338,
+        -0.053748,
+        -0.033721
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_2s.p3d",
+      "pos": [
+        4358.986816,
+        338.253143,
+        10512.318359
+      ],
+      "ypr": [
+        4.822599,
+        -0.043108,
+        -0.007958
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_2d.p3d",
+      "pos": [
+        4359.82373,
+        338.924774,
+        10531.411133
+      ],
+      "ypr": [
+        5.759315,
+        0.026937,
+        -0.069566
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_2fb.p3d",
+      "pos": [
+        4343.449219,
+        338.141327,
+        10511.970703
+      ],
+      "ypr": [
+        2.349938,
+        -0.003731,
+        0.033252
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_3d.p3d",
+      "pos": [
+        4355.131348,
+        338.217255,
+        10511.132813
+      ],
+      "ypr": [
+        4.717134,
+        -0.041438,
+        -0.051959
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_3d.p3d",
+      "pos": [
+        4473.796387,
+        339.112854,
+        10308.241211
+      ],
+      "ypr": [
+        2.569113,
+        -0.067052,
+        0.069549
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1fc.p3d",
+      "pos": [
+        4458.09668,
+        338.889343,
+        10306.880859
+      ],
+      "ypr": [
+        4.659034,
+        0.068778,
+        -0.043654
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1fc.p3d",
+      "pos": [
+        4457.727539,
+        338.894745,
+        10304.673828
+      ],
+      "ypr": [
+        0.857713,
+        0.013506,
+        -0.048592
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1fc.p3d",
+      "pos": [
+        4470.862305,
+        339.246979,
+        10326.938477
+      ],
+      "ypr": [
+        0.109108,
+        0.041894,
+        -0.031578
+      ],
+      "scale": 0.999994,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1s.p3d",
+      "pos": [
+        4481.477539,
+        339.257629,
+        10327.069336
+      ],
+      "ypr": [
+        5.360851,
+        0.065825,
+        -0.017013
+      ],
+      "scale": 0.999994,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_2sb.p3d",
+      "pos": [
+        4483.547363,
+        339.230469,
+        10316.577148
+      ],
+      "ypr": [
+        0.800762,
+        -0.044915,
+        -0.00653
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1fc.p3d",
+      "pos": [
+        4464.915527,
+        338.94043,
+        10318.393555
+      ],
+      "ypr": [
+        3.737275,
+        0.059727,
+        -0.047361
+      ],
+      "scale": 0.99999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_2d.p3d",
+      "pos": [
+        4454.762695,
+        338.858551,
+        10320.182617
+      ],
+      "ypr": [
+        0.140555,
+        -0.028339,
+        -0.051409
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1fb.p3d",
+      "pos": [
+        4479.111328,
+        339.279266,
+        10329.146484
+      ],
+      "ypr": [
+        2.314847,
+        -0.011784,
+        0.065147
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1fb.p3d",
+      "pos": [
+        4470.013184,
+        339.267914,
+        10329.907227
+      ],
+      "ypr": [
+        0.029722,
+        0.041412,
+        -0.036486
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_2s.p3d",
+      "pos": [
+        4475.633789,
+        339.195099,
+        10319.745117
+      ],
+      "ypr": [
+        3.547822,
+        0.041084,
+        -0.052513
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1s.p3d",
+      "pos": [
+        4472.933105,
+        339.1138,
+        10366.426758
+      ],
+      "ypr": [
+        6.002458,
+        -0.063012,
+        -0.059433
+      ],
+      "scale": 0.99999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_3f.p3d",
+      "pos": [
+        4464.018066,
+        338.353882,
+        10394.770508
+      ],
+      "ypr": [
+        0.663659,
+        0.003948,
+        0.004941
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_3d.p3d",
+      "pos": [
+        4473.32959,
+        339.048004,
+        10368.186523
+      ],
+      "ypr": [
+        3.406308,
+        0.025978,
+        0.066553
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1f.p3d",
+      "pos": [
+        4450.692871,
+        338.762512,
+        10367.202148
+      ],
+      "ypr": [
+        1.637574,
+        0.009735,
+        -0.048938
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_2fb.p3d",
+      "pos": [
+        4459.54834,
+        338.975403,
+        10364.959961
+      ],
+      "ypr": [
+        4.784632,
+        -0.022565,
+        0.013429
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_2d.p3d",
+      "pos": [
+        4472.595215,
+        338.82431,
+        10374.402344
+      ],
+      "ypr": [
+        4.262871,
+        -0.017324,
+        -0.0266
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_3f.p3d",
+      "pos": [
+        4463.021484,
+        339.130859,
+        10362.384766
+      ],
+      "ypr": [
+        0.204984,
+        0.004089,
+        -0.067244
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1fd.p3d",
+      "pos": [
+        4456.033203,
+        338.836853,
+        10369.794922
+      ],
+      "ypr": [
+        0.699325,
+        -0.003969,
+        -0.056143
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_3fb.p3d",
+      "pos": [
+        4453.017578,
+        338.70517,
+        10372.179688
+      ],
+      "ypr": [
+        6.107347,
+        -0.043206,
+        -0.055257
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1fb.p3d",
+      "pos": [
+        4456.442871,
+        338.628143,
+        10380.177734
+      ],
+      "ypr": [
+        3.588857,
+        0.014222,
+        0.060762
+      ],
+      "scale": 0.999994,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_2f.p3d",
+      "pos": [
+        4463.171875,
+        338.914429,
+        10367.250977
+      ],
+      "ypr": [
+        3.256932,
+        -0.029711,
+        0.016054
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1fd.p3d",
+      "pos": [
+        4450.841797,
+        338.724426,
+        10376.369141
+      ],
+      "ypr": [
+        2.857702,
+        -0.019859,
+        0.028573
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1s.p3d",
+      "pos": [
+        4470.618652,
+        339.278992,
+        10470.516602
+      ],
+      "ypr": [
+        3.445618,
+        0.008742,
+        -0.040786
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_3d.p3d",
+      "pos": [
+        4474.361328,
+        339.275848,
+        10471.68457
+      ],
+      "ypr": [
+        4.739761,
+        -0.0574,
+        0.019258
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_3f.p3d",
+      "pos": [
+        4469.42627,
+        339.269043,
+        10474.03125
+      ],
+      "ypr": [
+        4.05827,
+        -0.005256,
+        -0.008426
+      ],
+      "scale": 0.999994,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_2f.p3d",
+      "pos": [
+        4479.811523,
+        339.129028,
+        10479.660156
+      ],
+      "ypr": [
+        0.078811,
+        -0.055913,
+        -0.068718
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_3f.p3d",
+      "pos": [
+        4472.949219,
+        339.329254,
+        10467.138672
+      ],
+      "ypr": [
+        5.202846,
+        -0.001464,
+        0.020273
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_2d.p3d",
+      "pos": [
+        4484.503418,
+        339.046997,
+        10476.054688
+      ],
+      "ypr": [
+        3.953573,
+        -0.061883,
+        0.065935
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_3f.p3d",
+      "pos": [
+        4456.714355,
+        339.216797,
+        10480.204102
+      ],
+      "ypr": [
+        3.266903,
+        -0.048865,
+        0.06461
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_2d.p3d",
+      "pos": [
+        4485.52832,
+        339.144806,
+        10468.577148
+      ],
+      "ypr": [
+        5.026433,
+        -0.048162,
+        0.01449
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_3f.p3d",
+      "pos": [
+        4455.15332,
+        339.261963,
+        10467.052734
+      ],
+      "ypr": [
+        1.375448,
+        0.032562,
+        -0.044557
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_3fb.p3d",
+      "pos": [
+        4456.311523,
+        339.229645,
+        10472.28125
+      ],
+      "ypr": [
+        5.372931,
+        -0.044042,
+        -0.043534
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1fc.p3d",
+      "pos": [
+        4451.581055,
+        339.220703,
+        10471.855469
+      ],
+      "ypr": [
+        3.892787,
+        0.060933,
+        0.050783
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1fd.p3d",
+      "pos": [
+        4479.401855,
+        339.139465,
+        10476.69043
+      ],
+      "ypr": [
+        2.417628,
+        -0.048004,
+        -0.021069
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1s.p3d",
+      "pos": [
+        4553.905762,
+        339.229553,
+        10292.293945
+      ],
+      "ypr": [
+        3.509088,
+        -0.03113,
+        0.045094
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1s.p3d",
+      "pos": [
+        4571.765625,
+        339.006897,
+        10304.508789
+      ],
+      "ypr": [
+        0.731156,
+        0.008623,
+        -0.00163
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1fb.p3d",
+      "pos": [
+        4570.853027,
+        338.986969,
+        10304.405273
+      ],
+      "ypr": [
+        3.277833,
+        -0.035788,
+        -0.032345
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_2sb.p3d",
+      "pos": [
+        4582.367676,
+        339.208374,
+        10312.245117
+      ],
+      "ypr": [
+        4.657883,
+        -0.064845,
+        -0.043999
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_2s.p3d",
+      "pos": [
+        4565.794434,
+        339.001495,
+        10299.769531
+      ],
+      "ypr": [
+        5.755863,
+        -0.028876,
+        -0.067278
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_2d.p3d",
+      "pos": [
+        4568.870605,
+        339.032623,
+        10298.126953
+      ],
+      "ypr": [
+        3.872844,
+        0.032481,
+        0.033359
+      ],
+      "scale": 0.999994,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_2d.p3d",
+      "pos": [
+        4564.912109,
+        339.410309,
+        10283.728516
+      ],
+      "ypr": [
+        6.275323,
+        -0.057034,
+        0.064717
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_2s.p3d",
+      "pos": [
+        4572.131348,
+        339.587677,
+        10285.313477
+      ],
+      "ypr": [
+        6.170434,
+        0.035234,
+        -0.030998
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_2sb.p3d",
+      "pos": [
+        4295.616699,
+        339.12915,
+        10730.297852
+      ],
+      "ypr": [
+        6.190568,
+        0.030751,
+        -0.045286
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_2fb.p3d",
+      "pos": [
+        4306.541016,
+        339.299835,
+        10742.700195
+      ],
+      "ypr": [
+        1.105267,
+        0.023618,
+        0.044233
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_2s.p3d",
+      "pos": [
+        4309.984863,
+        339.261017,
+        10743.041992
+      ],
+      "ypr": [
+        4.506973,
+        0.035826,
+        0.013357
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_2f.p3d",
+      "pos": [
+        4296.599121,
+        339.173737,
+        10738.941406
+      ],
+      "ypr": [
+        3.877446,
+        0.066852,
+        -0.00489
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1fb.p3d",
+      "pos": [
+        4316.844727,
+        338.573853,
+        10717.828125
+      ],
+      "ypr": [
+        0.87382,
+        0.026392,
+        0.06023
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1fd.p3d",
+      "pos": [
+        4312.299316,
+        338.864105,
+        10729.47168
+      ],
+      "ypr": [
+        0.259442,
+        0.053446,
+        -0.041928
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_2d.p3d",
+      "pos": [
+        4299.753418,
+        338.978027,
+        10723.021484
+      ],
+      "ypr": [
+        5.901788,
+        -0.054746,
+        -0.007966
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1s.p3d",
+      "pos": [
+        4309.41748,
+        338.857849,
+        10725.485352
+      ],
+      "ypr": [
+        0.864808,
+        0.003795,
+        -0.008167
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_2f.p3d",
+      "pos": [
+        4320.179688,
+        338.698914,
+        10725.873047
+      ],
+      "ypr": [
+        1.590211,
+        0.035668,
+        -0.021095
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1fc.p3d",
+      "pos": [
+        4316.893066,
+        339.065948,
+        10743.658203
+      ],
+      "ypr": [
+        1.447355,
+        0.022032,
+        -0.058512
+      ],
+      "scale": 0.999992,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1fd.p3d",
+      "pos": [
+        4302.720703,
+        339.264496,
+        10741.90918
+      ],
+      "ypr": [
+        2.38944,
+        0.06447,
+        -0.003543
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_2d.p3d",
+      "pos": [
+        4186.307617,
+        339.019531,
+        10791.689453
+      ],
+      "ypr": [
+        5.393449,
+        0.061039,
+        -0.063396
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1s.p3d",
+      "pos": [
+        4188.524902,
+        338.998444,
+        10772.916992
+      ],
+      "ypr": [
+        0.738059,
+        0.050778,
+        0.041881
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1s.p3d",
+      "pos": [
+        4190.589355,
+        339.035095,
+        10775.205078
+      ],
+      "ypr": [
+        1.35167,
+        0.039682,
+        -0.046487
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1fb.p3d",
+      "pos": [
+        4189.342773,
+        338.977997,
+        10770.639648
+      ],
+      "ypr": [
+        5.80687,
+        -0.035766,
+        0.05899
+      ],
+      "scale": 0.999994,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_2d.p3d",
+      "pos": [
+        4185.951172,
+        339.067657,
+        10784.589844
+      ],
+      "ypr": [
+        2.005741,
+        -0.068846,
+        0.043023
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_2s.p3d",
+      "pos": [
+        4188.696777,
+        338.870453,
+        10801.942383
+      ],
+      "ypr": [
+        0.683409,
+        -0.061278,
+        0.002968
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1fc.p3d",
+      "pos": [
+        4185.286621,
+        338.950867,
+        10770.949219
+      ],
+      "ypr": [
+        0.580438,
+        -0.035434,
+        0.045742
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_2fb.p3d",
+      "pos": [
+        4203.925293,
+        339.042816,
+        10781.833984
+      ],
+      "ypr": [
+        4.665361,
+        0.00114,
+        0.041834
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1s.p3d",
+      "pos": [
+        4182.299316,
+        339.044006,
+        10793.27832
+      ],
+      "ypr": [
+        5.727675,
+        0.038792,
+        -0.044706
+      ],
+      "scale": 0.999994,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1fd.p3d",
+      "pos": [
+        4186.023438,
+        339.033203,
+        10778.336914
+      ],
+      "ypr": [
+        4.172555,
+        -0.003505,
+        0.051528
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1f.p3d",
+      "pos": [
+        4177.240234,
+        339.068909,
+        10795.673828
+      ],
+      "ypr": [
+        1.468064,
+        0.019135,
+        0.005546
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_2fb.p3d",
+      "pos": [
+        4204.989746,
+        339.120483,
+        10778.551758
+      ],
+      "ypr": [
+        0.659057,
+        0.024227,
+        -0.017567
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1f.p3d",
+      "pos": [
+        4243.204102,
+        339.248169,
+        10872.787109
+      ],
+      "ypr": [
+        2.291454,
+        -0.065748,
+        -0.022915
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_3fb.p3d",
+      "pos": [
+        4236.353027,
+        339.22052,
+        10858.298828
+      ],
+      "ypr": [
+        1.146686,
+        -0.003292,
+        0.026034
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1fc.p3d",
+      "pos": [
+        4255.679688,
+        339.191681,
+        10860.606445
+      ],
+      "ypr": [
+        0.709488,
+        0.007911,
+        -0.020861
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1f.p3d",
+      "pos": [
+        4234.306641,
+        339.129181,
+        10846.760742
+      ],
+      "ypr": [
+        5.46574,
+        0.033708,
+        -0.059493
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_2s.p3d",
+      "pos": [
+        4247.139648,
+        339.196472,
+        10871.889648
+      ],
+      "ypr": [
+        3.095284,
+        0.021121,
+        0.039077
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1fc.p3d",
+      "pos": [
+        4247.174805,
+        339.214569,
+        10871.743164
+      ],
+      "ypr": [
+        2.687425,
+        0.043245,
+        -0.026818
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_2s.p3d",
+      "pos": [
+        4245.025391,
+        339.025574,
+        10844.768555
+      ],
+      "ypr": [
+        4.625093,
+        -0.06672,
+        -0.031122
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_2f.p3d",
+      "pos": [
+        4240.111328,
+        339.284668,
+        10872.464844
+      ],
+      "ypr": [
+        2.671509,
+        -0.016787,
+        -0.059467
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_3f.p3d",
+      "pos": [
+        4254.486328,
+        339.015228,
+        10852.037109
+      ],
+      "ypr": [
+        5.691242,
+        0.054234,
+        0.065147
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1fb.p3d",
+      "pos": [
+        4243.666504,
+        339.369415,
+        10868.011719
+      ],
+      "ypr": [
+        3.607649,
+        0.031062,
+        -0.022143
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1fc.p3d",
+      "pos": [
+        4246.256348,
+        339.291656,
+        10863.835938
+      ],
+      "ypr": [
+        3.261918,
+        -0.055321,
+        -0.060306
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_3f.p3d",
+      "pos": [
+        4252.056641,
+        339.025604,
+        10851.395508
+      ],
+      "ypr": [
+        2.224532,
+        0.042691,
+        0.067989
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1fd.p3d",
+      "pos": [
+        4241.894531,
+        338.890167,
+        10706.849609
+      ],
+      "ypr": [
+        1.066533,
+        -0.001315,
+        -0.045767
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1fb.p3d",
+      "pos": [
+        4232.019043,
+        338.845795,
+        10721.765625
+      ],
+      "ypr": [
+        4.363158,
+        0.030725,
+        -0.02626
+      ],
+      "scale": 0.999992,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_3d.p3d",
+      "pos": [
+        4233.858887,
+        338.705109,
+        10699.731445
+      ],
+      "ypr": [
+        3.022802,
+        -0.005401,
+        -0.049244
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_3f.p3d",
+      "pos": [
+        4219.692871,
+        338.612488,
+        10700.192383
+      ],
+      "ypr": [
+        5.057498,
+        0.013442,
+        0.057477
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1f.p3d",
+      "pos": [
+        4239.730469,
+        339.036804,
+        10720.380859
+      ],
+      "ypr": [
+        0.046404,
+        0.060349,
+        0.026089
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1s.p3d",
+      "pos": [
+        4221.270996,
+        338.667267,
+        10711.223633
+      ],
+      "ypr": [
+        5.79594,
+        0.05928,
+        -0.036913
+      ],
+      "scale": 0.99999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1fc.p3d",
+      "pos": [
+        4217.797852,
+        338.684601,
+        10713.795898
+      ],
+      "ypr": [
+        2.683014,
+        -0.066404,
+        0.064039
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1s.p3d",
+      "pos": [
+        4233.015137,
+        339.108307,
+        10724.68457
+      ],
+      "ypr": [
+        0.734799,
+        0.021125,
+        0.066494
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1fd.p3d",
+      "pos": [
+        4244.546387,
+        338.942627,
+        10698.759766
+      ],
+      "ypr": [
+        0.677081,
+        0.04059,
+        -0.022949
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1f.p3d",
+      "pos": [
+        4236.171875,
+        338.822662,
+        10701.480469
+      ],
+      "ypr": [
+        6.034481,
+        -0.039533,
+        -0.021892
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_2d.p3d",
+      "pos": [
+        4243.504395,
+        338.860535,
+        10695.630859
+      ],
+      "ypr": [
+        4.599207,
+        -0.02228,
+        -0.066886
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1fd.p3d",
+      "pos": [
+        4234.914551,
+        338.688019,
+        10694.801758
+      ],
+      "ypr": [
+        0.952823,
+        0.025267,
+        0.0264
+      ],
+      "scale": 0.999994,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_3fb.p3d",
+      "pos": [
+        4264.203613,
+        340.095337,
+        10786.972656
+      ],
+      "ypr": [
+        0.181591,
+        0.029707,
+        0.007391
+      ],
+      "scale": 0.999992,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_3d.p3d",
+      "pos": [
+        4272.236328,
+        339.617889,
+        10755.807617
+      ],
+      "ypr": [
+        1.194816,
+        0.018598,
+        -0.003654
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_3f.p3d",
+      "pos": [
+        4268.002441,
+        339.534882,
+        10757.34375
+      ],
+      "ypr": [
+        3.349166,
+        -0.013766,
+        0.041634
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_3f.p3d",
+      "pos": [
+        4273.570801,
+        339.57373,
+        10766.304688
+      ],
+      "ypr": [
+        2.43872,
+        -0.050425,
+        0.044949
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1s.p3d",
+      "pos": [
+        4263.389648,
+        339.623657,
+        10754.598633
+      ],
+      "ypr": [
+        6.021442,
+        -0.003432,
+        0.061517
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_3f.p3d",
+      "pos": [
+        4250.664063,
+        340.033356,
+        10771.222656
+      ],
+      "ypr": [
+        5.658644,
+        0.042341,
+        0.054145
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_2sb.p3d",
+      "pos": [
+        4254.80127,
+        339.764709,
+        10762.430664
+      ],
+      "ypr": [
+        0.208819,
+        -0.048068,
+        -0.056075
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_2d.p3d",
+      "pos": [
+        4269.283203,
+        339.825531,
+        10772.209961
+      ],
+      "ypr": [
+        1.054452,
+        0.029536,
+        -0.042311
+      ],
+      "scale": 0.99999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_2s.p3d",
+      "pos": [
+        4269.67334,
+        339.667603,
+        10767.46875
+      ],
+      "ypr": [
+        0.416297,
+        0.059088,
+        0.015462
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1fd.p3d",
+      "pos": [
+        4269.354492,
+        339.971741,
+        10782.797852
+      ],
+      "ypr": [
+        3.284737,
+        -0.031944,
+        -0.026779
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_2s.p3d",
+      "pos": [
+        4256.694336,
+        340.219177,
+        10779.922852
+      ],
+      "ypr": [
+        3.587515,
+        0.019991,
+        0.022659
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_FagusSylvatica_1s.p3d",
+      "pos": [
+        4250.182617,
+        339.866943,
+        10766.43457
+      ],
+      "ypr": [
+        5.12672,
+        -0.02274,
+        -0.008588
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1fb.p3d",
+      "pos": [
+        4211.578613,
+        339.204742,
+        10767.916016
+      ],
+      "ypr": [
+        3.194613,
+        0.045409,
+        -0.059088
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3f.p3d",
+      "pos": [
+        4211.785156,
+        339.00531,
+        10754.913086
+      ],
+      "ypr": [
+        2.97122,
+        0.063767,
+        -0.014946
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2s.p3d",
+      "pos": [
+        4203.476563,
+        339.142731,
+        10770.208008
+      ],
+      "ypr": [
+        4.68818,
+        -0.034586,
+        0.009816
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fc.p3d",
+      "pos": [
+        4227.420898,
+        339.152527,
+        10750.829102
+      ],
+      "ypr": [
+        4.936884,
+        0.030465,
+        -0.006466
+      ],
+      "scale": 0.99999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3s.p3d",
+      "pos": [
+        4203.65918,
+        338.859558,
+        10748.095703
+      ],
+      "ypr": [
+        2.884355,
+        0.035766,
+        0.045529
+      ],
+      "scale": 0.999992,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fc.p3d",
+      "pos": [
+        4215.634277,
+        339.280334,
+        10771.143555
+      ],
+      "ypr": [
+        1.670939,
+        -0.000607,
+        -0.012236
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2w.p3d",
+      "pos": [
+        4217.803711,
+        339.132324,
+        10757.731445
+      ],
+      "ypr": [
+        1.170463,
+        -0.034795,
+        0.001182
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fb.p3d",
+      "pos": [
+        4206.908203,
+        338.843384,
+        10741.22168
+      ],
+      "ypr": [
+        0.96011,
+        -0.055508,
+        -0.036994
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fb.p3d",
+      "pos": [
+        4209.547852,
+        339.001221,
+        10755.112305
+      ],
+      "ypr": [
+        0.933456,
+        0.014695,
+        -0.011648
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2f.p3d",
+      "pos": [
+        4220.019531,
+        339.02301,
+        10747.520508
+      ],
+      "ypr": [
+        5.841961,
+        0.016697,
+        -0.057933
+      ],
+      "scale": 0.999992,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3s.p3d",
+      "pos": [
+        4226.70459,
+        339.189606,
+        10754.244141
+      ],
+      "ypr": [
+        2.345336,
+        -0.032302,
+        0.015257
+      ],
+      "scale": 0.999994,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fb.p3d",
+      "pos": [
+        4220.135742,
+        339.351532,
+        10770.605469
+      ],
+      "ypr": [
+        2.823378,
+        -0.066945,
+        -0.007238
+      ],
+      "scale": 0.99999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3s.p3d",
+      "pos": [
+        4269.946289,
+        339.453613,
+        10823.141602
+      ],
+      "ypr": [
+        3.157796,
+        0.065514,
+        -0.051281
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3f.p3d",
+      "pos": [
+        4273.541992,
+        339.318939,
+        10829.691406
+      ],
+      "ypr": [
+        4.539763,
+        0.011324,
+        -0.067431
+      ],
+      "scale": 0.999994,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1fb.p3d",
+      "pos": [
+        4263.532227,
+        339.375122,
+        10824.186523
+      ],
+      "ypr": [
+        3.896814,
+        -0.009777,
+        -0.069106
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1fb.p3d",
+      "pos": [
+        4256.598633,
+        338.909149,
+        10834.595703
+      ],
+      "ypr": [
+        0.954549,
+        0.038489,
+        0.060119
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fc.p3d",
+      "pos": [
+        4271.150391,
+        339.209412,
+        10832.172852
+      ],
+      "ypr": [
+        4.248106,
+        -0.028348,
+        -0.00068
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2s.p3d",
+      "pos": [
+        4271.544922,
+        339.514923,
+        10820.804688
+      ],
+      "ypr": [
+        5.816074,
+        -0.045524,
+        -0.06672
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fc.p3d",
+      "pos": [
+        4255.038086,
+        338.987305,
+        10832.427734
+      ],
+      "ypr": [
+        3.806881,
+        -0.028659,
+        0.046862
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fc.p3d",
+      "pos": [
+        4264.352539,
+        339.399597,
+        10823.833008
+      ],
+      "ypr": [
+        3.876679,
+        0.012223,
+        -0.032967
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fc.p3d",
+      "pos": [
+        4255.19043,
+        339.695465,
+        10814.103516
+      ],
+      "ypr": [
+        5.666315,
+        -0.003091,
+        -0.032259
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1fb.p3d",
+      "pos": [
+        4263.189941,
+        338.91922,
+        10836.085938
+      ],
+      "ypr": [
+        5.770436,
+        -0.00414,
+        0.027926
+      ],
+      "scale": 0.999992,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fc.p3d",
+      "pos": [
+        4269.563477,
+        339.879364,
+        10805.223633
+      ],
+      "ypr": [
+        4.635065,
+        0.049709,
+        -0.045737
+      ],
+      "scale": 0.999994,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fb.p3d",
+      "pos": [
+        4271.195313,
+        339.308105,
+        10829.027344
+      ],
+      "ypr": [
+        4.815121,
+        0.006147,
+        0.010037
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_1f.p3d",
+      "pos": [
+        4213.622559,
+        339.858337,
+        10828.952148
+      ],
+      "ypr": [
+        4.784248,
+        -0.024798,
+        -0.000313
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fc.p3d",
+      "pos": [
+        4194.784668,
+        339.377197,
+        10837.701172
+      ],
+      "ypr": [
+        0.461167,
+        0.02911,
+        -0.052751
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2w.p3d",
+      "pos": [
+        4183.999023,
+        339.037262,
+        10833.555664
+      ],
+      "ypr": [
+        1.522522,
+        -0.03289,
+        0.042073
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2s.p3d",
+      "pos": [
+        4190.700195,
+        339.132141,
+        10841.256836
+      ],
+      "ypr": [
+        5.124419,
+        0.06144,
+        0.034722
+      ],
+      "scale": 0.999992,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2w.p3d",
+      "pos": [
+        4211.841797,
+        339.839783,
+        10826.988281
+      ],
+      "ypr": [
+        5.654617,
+        0.006121,
+        -0.048639
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3f.p3d",
+      "pos": [
+        4185.990723,
+        339.091003,
+        10834.376953
+      ],
+      "ypr": [
+        3.560286,
+        0.016212,
+        -0.051959
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2w.p3d",
+      "pos": [
+        4212.723633,
+        339.81488,
+        10837.869141
+      ],
+      "ypr": [
+        5.177535,
+        0.001489,
+        -0.0029
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fc.p3d",
+      "pos": [
+        4210.532227,
+        339.816254,
+        10836.026367
+      ],
+      "ypr": [
+        1.352437,
+        0.01423,
+        -0.059953
+      ],
+      "scale": 0.999994,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_3fb.p3d",
+      "pos": [
+        4206.366211,
+        339.77359,
+        10835.533203
+      ],
+      "ypr": [
+        0.257333,
+        0.016335,
+        0.046654
+      ],
+      "scale": 0.999992,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2w.p3d",
+      "pos": [
+        4195.810547,
+        339.574005,
+        10822.558594
+      ],
+      "ypr": [
+        1.299513,
+        -0.056876,
+        -0.014307
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_BetulaPendula_2fb.p3d",
+      "pos": [
+        4206.15918,
+        339.736908,
+        10818.750977
+      ],
+      "ypr": [
+        4.375047,
+        0.063873,
+        -0.022527
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants_sakhal/latefall/t_BetulaPendula_2fc_latefall.p3d",
+      "pos": [
+        4499.65332,
+        337.208893,
+        10285.523438
+      ],
+      "ypr": [
+        1.646395,
+        -0.064167,
+        0.025927
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants_sakhal/latefall/t_BetulaPendula_2fc_latefall.p3d",
+      "pos": [
+        4503.655273,
+        337.471069,
+        10297.091797
+      ],
+      "ypr": [
+        5.748577,
+        0.035148,
+        -0.028458
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants_sakhal/latefall/t_BetulaPendula_3f_latefall.p3d",
+      "pos": [
+        4504.364746,
+        337.572601,
+        10305.886719
+      ],
+      "ypr": [
+        0.930004,
+        0.026605,
+        0.061977
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants_sakhal/latefall/t_BetulaPendula_2fc_latefall.p3d",
+      "pos": [
+        4484.842285,
+        337.130035,
+        10291.686523
+      ],
+      "ypr": [
+        1.36701,
+        0.025995,
+        -0.021223
+      ],
+      "scale": 0.999994,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants_sakhal/latefall/t_BetulaPendula_1f_latefall.p3d",
+      "pos": [
+        4475.905762,
+        337.162384,
+        10307.151367
+      ],
+      "ypr": [
+        0.315434,
+        -0.044506,
+        0.001775
+      ],
+      "scale": 0.999992,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants_sakhal/latefall/t_BetulaPendula_2fc_latefall.p3d",
+      "pos": [
+        4484.41748,
+        337.251404,
+        10300.1875
+      ],
+      "ypr": [
+        5.872066,
+        -0.047808,
+        0.062769
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants_sakhal/latefall/t_BetulaPendulaE_2w_latefall.p3d",
+      "pos": [
+        4499.133789,
+        337.242859,
+        10287.828125
+      ],
+      "ypr": [
+        5.26229,
+        -0.043696,
+        0.003501
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants_sakhal/latefall/t_BetulaPendula_2w_latefall.p3d",
+      "pos": [
+        4495.995605,
+        337.625183,
+        10307.116211
+      ],
+      "ypr": [
+        2.17295,
+        0.014959,
+        0.060566
+      ],
+      "scale": 0.999995,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants_sakhal/latefall/t_BetulaPendula_2w_latefall.p3d",
+      "pos": [
+        4483.988281,
+        337.247223,
+        10310.936523
+      ],
+      "ypr": [
+        1.459819,
+        0.044945,
+        0.04125
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants_sakhal/latefall/t_BetulaPendula_3fb_latefall.p3d",
+      "pos": [
+        4492.083984,
+        337.44339,
+        10300.641602
+      ],
+      "ypr": [
+        4.068433,
+        0.031795,
+        -0.017047
+      ],
+      "scale": 0.999997,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants_sakhal/latefall/t_BetulaPendula_3fb_latefall.p3d",
+      "pos": [
+        4494.229492,
+        337.426422,
+        10298.15918
+      ],
+      "ypr": [
+        5.879353,
+        -0.032941,
+        0.062117
+      ],
+      "scale": 0.999992,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants_sakhal/latefall/t_BetulaPendula_3f_latefall.p3d",
+      "pos": [
+        4502.307617,
+        337.668854,
+        10304.049805
+      ],
+      "ypr": [
+        0.481876,
+        -0.057341,
+        0.031876
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Ruin_HouseBlock_Total",
+      "pos": [
+        4516.262695,
+        341.72171,
+        10341.976563
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Ruin_Wall",
+      "pos": [
+        4571.307129,
+        339.337646,
+        10331.75293
+      ],
+      "ypr": [
+        64.984177,
+        0,
+        0
+      ],
+      "scale": 0.999987,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Ruin_Corner2",
+      "pos": [
+        4568.515625,
+        340.060211,
+        10327.826172
+      ],
+      "ypr": [
+        -29.900696,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Ruin_Corner1",
+      "pos": [
+        4574.854004,
+        340.128906,
+        10331.959961
+      ],
+      "ypr": [
+        -29.900696,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Ruin_Wall",
+      "pos": [
+        4564.418945,
+        339.337646,
+        10342.152344
+      ],
+      "ypr": [
+        -111.512924,
+        0,
+        0
+      ],
+      "scale": 0.999987,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Ruin_Corner2",
+      "pos": [
+        4567.450684,
+        340.060211,
+        10345.892578
+      ],
+      "ypr": [
+        153.602219,
+        0,
+        0
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Ruin_Corner1",
+      "pos": [
+        4560.866699,
+        340.128906,
+        10342.158203
+      ],
+      "ypr": [
+        153.602219,
+        0,
+        0
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Ruin_DoorWall",
+      "pos": [
+        4574.240723,
+        340.582214,
+        10340.74707
+      ],
+      "ypr": [
+        62.328033,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Ruin_Chimney",
+      "pos": [
+        4565.527832,
+        341.994812,
+        10338.150391
+      ],
+      "ypr": [
+        67.501961,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Panel_Concrete_Dam",
+      "pos": [
+        4587.677734,
+        339.016724,
+        10348.508789
+      ],
+      "ypr": [
+        -28.317713,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Panel_Concrete_2",
+      "pos": [
+        4584.943359,
+        339.027863,
+        10347.003906
+      ],
+      "ypr": [
+        -28.184988,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Panel_Concrete_Dam",
+      "pos": [
+        4582.240723,
+        339.047272,
+        10345.510742
+      ],
+      "ypr": [
+        -28.317711,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Panel_Concrete_2",
+      "pos": [
+        4579.506348,
+        339.058411,
+        10344.005859
+      ],
+      "ypr": [
+        -28.184988,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Panel_Concrete_Dam",
+      "pos": [
+        4579.472656,
+        339.047272,
+        10344.026367
+      ],
+      "ypr": [
+        -28.317711,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Panel_Concrete_2",
+      "pos": [
+        4576.738281,
+        339.058411,
+        10342.521484
+      ],
+      "ypr": [
+        -28.184988,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Misc_ConcretePanels",
+      "pos": [
+        4538.299316,
+        339.989288,
+        10266.582031
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Misc_ConcretePanels",
+      "pos": [
+        4541.117188,
+        339.989288,
+        10269.987305
+      ],
+      "ypr": [
+        96.615402,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Panel_Concrete_1",
+      "pos": [
+        4544.01709,
+        339.26709,
+        10264.158203
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Misc_Pipes",
+      "pos": [
+        4543.938965,
+        340.082092,
+        10264.229492
+      ],
+      "ypr": [
+        100.152382,
+        0,
+        0
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Misc_Pipes",
+      "pos": [
+        4535.447266,
+        339.987305,
+        10260.990234
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Ruin_HouseBlock_Half",
+      "pos": [
+        4533.413086,
+        346.71167,
+        10214.323242
+      ],
+      "ypr": [
+        -31.824223,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "Land_wreck_truck01_aban1_green",
+      "pos": [
+        4458.989258,
+        339.51593,
+        10437.506836
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wreck_BMP2",
+      "pos": [
+        4414.882324,
+        339.7435,
+        10511.396484
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wreck_HMMWV_DE",
+      "pos": [
+        4420.982422,
+        339.925201,
+        10524.875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wreck_Decal_Big_NoLC_DE",
+      "pos": [
+        4421.942383,
+        339.010712,
+        10524.365234
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Wreck_Ural",
+      "pos": [
+        4410.268066,
+        340.210236,
+        10534.245117
+      ],
+      "ypr": [
+        58.107727,
+        0,
+        0
+      ],
+      "scale": 0.999994,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Mil_HBarrier_Round",
+      "pos": [
+        4424.258789,
+        339.685944,
+        10534.724609
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Mil_HBarrier_Round",
+      "pos": [
+        4402.818848,
+        339.494141,
+        10523.066406
+      ],
+      "ypr": [
+        -46.50827,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Mil_HBarrier_6m",
+      "pos": [
+        4413.830566,
+        339.64679,
+        10527.833984
+      ],
+      "ypr": [
+        -30.756006,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Mil_ReinforcedTank1",
+      "pos": [
+        4617.335449,
+        339.021606,
+        10223.926758
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_PiceaAbies_1sb.p3d",
+      "pos": [
+        4594.192871,
+        339.326874,
+        10173.608398
+      ],
+      "ypr": [
+        1.985607,
+        0.043194,
+        -0.066979
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_PiceaAbies_3s.p3d",
+      "pos": [
+        4595.921387,
+        339.625488,
+        10154.30957
+      ],
+      "ypr": [
+        1.524823,
+        0.053902,
+        0.007272
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_PiceaAbies_3d.p3d",
+      "pos": [
+        4606.213379,
+        339.447449,
+        10161.387695
+      ],
+      "ypr": [
+        3.539577,
+        0.009782,
+        -0.067099
+      ],
+      "scale": 0.999998,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_PiceaAbies_1s.p3d",
+      "pos": [
+        4606.864746,
+        339.295929,
+        10174.125977
+      ],
+      "ypr": [
+        3.860189,
+        0.05625,
+        -0.049504
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_PiceaAbies_1f.p3d",
+      "pos": [
+        4596.32373,
+        339.289978,
+        10177.24707
+      ],
+      "ypr": [
+        0.888777,
+        0.04512,
+        0.012121
+      ],
+      "scale": 1,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_PiceaAbies_1f.p3d",
+      "pos": [
+        4583.465332,
+        339.274933,
+        10169.198242
+      ],
+      "ypr": [
+        2.005549,
+        -0.054733,
+        -0.054481
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_PiceaAbies_3d.p3d",
+      "pos": [
+        4618.770996,
+        339.255035,
+        10169.998047
+      ],
+      "ypr": [
+        5.626813,
+        0.061372,
+        0.054592
+      ],
+      "scale": 0.999999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_PiceaAbies_2fb.p3d",
+      "pos": [
+        4586.306641,
+        339.353882,
+        10165.517578
+      ],
+      "ypr": [
+        2.897778,
+        -0.056403,
+        0.06184
+      ],
+      "scale": 0.999993,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_PiceaAbies_1f.p3d",
+      "pos": [
+        4588.878906,
+        339.52652,
+        10158.519531
+      ],
+      "ypr": [
+        5.30601,
+        0.037505,
+        0.023038
+      ],
+      "scale": 0.99999,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_PiceaAbies_3s.p3d",
+      "pos": [
+        4596.375488,
+        339.46521,
+        10162.361328
+      ],
+      "ypr": [
+        3.961818,
+        -0.069472,
+        0.002699
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_PiceaAbies_1sb.p3d",
+      "pos": [
+        4603.844727,
+        339.560883,
+        10152.563477
+      ],
+      "ypr": [
+        5.064975,
+        0.036763,
+        0.04627
+      ],
+      "scale": 0.999996,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "DZ/plants/tree/t_PiceaAbies_2d.p3d",
+      "pos": [
+        4610.171387,
+        339.201935,
+        10182.047852
+      ],
+      "ypr": [
+        3.322896,
+        0.01798,
+        0.030129
+      ],
+      "scale": 0.999991,
+      "enableCEPersistency": 0
+    },
+    {
+      "name": "StaticObj_Ruin_House_Total",
+      "pos": [
+        4643.648926,
+        340.904083,
+        10131.839844
+      ],
+      "ypr": [
+        -31.039915,
+        0,
+        0
+      ],
+      "scale": 0.999983,
+      "enableCEPersistency": 0
+    }
+  ]
+}

@@ -1,0 +1,6628 @@
+{
+    "Objects": [
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6883.34619140625,
+                362.71148681640627,
+                14147.2783203125
+            ],
+            "ypr": [
+                24.403230667114259,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999823570251465,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_Corner1",
+            "pos": [
+                6873.8544921875,
+                362.9378356933594,
+                14150.677734375
+            ],
+            "ypr": [
+                24.444499969482423,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0000019073486329,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6869.310546875,
+                363.2127380371094,
+                14142.3935546875
+            ],
+            "ypr": [
+                -66.04540252685547,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999821782112122,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6865.9541015625,
+                363.2127380371094,
+                14134.8427734375
+            ],
+            "ypr": [
+                -66.04539489746094,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999821186065674,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6883.34619140625,
+                349.60272216796877,
+                14147.2783203125
+            ],
+            "ypr": [
+                24.403230667114259,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999821782112122,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6887.44140625,
+                349.60272216796877,
+                14145.5224609375
+            ],
+            "ypr": [
+                24.403230667114259,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999823570251465,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6869.310546875,
+                350.1039733886719,
+                14142.3935546875
+            ],
+            "ypr": [
+                -66.04539489746094,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999821186065674,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6865.9541015625,
+                350.1039733886719,
+                14134.8427734375
+            ],
+            "ypr": [
+                -66.04539489746094,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999821186065674,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6887.16162109375,
+                349.60272216796877,
+                14094.7431640625
+            ],
+            "ypr": [
+                -156.12579345703126,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999981701374054,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_Corner1",
+            "pos": [
+                6873.8544921875,
+                349.8290710449219,
+                14150.677734375
+            ],
+            "ypr": [
+                24.444499969482423,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0000019073486329,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6905.5625,
+                349.60272216796877,
+                14086.5732421875
+            ],
+            "ypr": [
+                -156.1257781982422,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999816417694092,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_Corner1",
+            "pos": [
+                6914.5341796875,
+                349.5336608886719,
+                14083.3984375
+            ],
+            "ypr": [
+                -154.97097778320313,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0000009536743165,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6919.1728515625,
+                349.60272216796877,
+                14092.1328125
+            ],
+            "ypr": [
+                113.8018569946289,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999815821647644,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6927.28369140625,
+                349.60272216796877,
+                14110.380859375
+            ],
+            "ypr": [
+                114.02350616455078,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999821186065674,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6929.70166015625,
+                349.8529357910156,
+                14115.560546875
+            ],
+            "ypr": [
+                114.02351379394531,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999818205833435,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6905.7646484375,
+                349.60272216796877,
+                14137.181640625
+            ],
+            "ypr": [
+                24.403234481811525,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999827742576599,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6868.89306640625,
+                349.60272216796877,
+                14102.8046875
+            ],
+            "ypr": [
+                -156.34742736816407,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999814033508301,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_Corner1",
+            "pos": [
+                6932.66162109375,
+                349.5336608886719,
+                14124.255859375
+            ],
+            "ypr": [
+                115.40876007080078,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0000015497207642,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6923.95556640625,
+                349.60272216796877,
+                14128.9560546875
+            ],
+            "ypr": [
+                24.181591033935548,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999820590019226,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6883.34619140625,
+                337.02581787109377,
+                14147.2783203125
+            ],
+            "ypr": [
+                24.403230667114259,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999821186065674,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6887.44140625,
+                337.02581787109377,
+                14145.5224609375
+            ],
+            "ypr": [
+                24.403230667114259,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999821782112122,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6869.310546875,
+                337.5270690917969,
+                14142.3935546875
+            ],
+            "ypr": [
+                -66.04539489746094,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999821186065674,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6865.9541015625,
+                337.5270690917969,
+                14134.8427734375
+            ],
+            "ypr": [
+                -66.04539489746094,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999820590019226,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6887.16162109375,
+                337.02581787109377,
+                14094.7431640625
+            ],
+            "ypr": [
+                -156.1257781982422,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999816417694092,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_Corner1",
+            "pos": [
+                6873.8544921875,
+                337.2521667480469,
+                14150.677734375
+            ],
+            "ypr": [
+                24.444499969482423,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0000016689300538,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6905.5625,
+                337.02581787109377,
+                14086.5732421875
+            ],
+            "ypr": [
+                -156.12576293945313,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999814629554749,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_Corner1",
+            "pos": [
+                6914.5341796875,
+                336.9567565917969,
+                14083.3984375
+            ],
+            "ypr": [
+                -154.97097778320313,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0000008344650269,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6919.1728515625,
+                337.02581787109377,
+                14092.1328125
+            ],
+            "ypr": [
+                113.80184936523438,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999814033508301,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6927.28369140625,
+                337.02581787109377,
+                14110.380859375
+            ],
+            "ypr": [
+                114.02350616455078,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999821186065674,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6929.70166015625,
+                337.2760314941406,
+                14115.560546875
+            ],
+            "ypr": [
+                114.02350616455078,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999981701374054,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6905.7646484375,
+                337.02581787109377,
+                14137.181640625
+            ],
+            "ypr": [
+                24.40323257446289,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999826550483704,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6868.89306640625,
+                337.02581787109377,
+                14102.8046875
+            ],
+            "ypr": [
+                -156.34742736816407,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999812245368958,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_Corner1",
+            "pos": [
+                6932.66162109375,
+                336.9567565917969,
+                14124.255859375
+            ],
+            "ypr": [
+                115.40876007080078,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0000014305114747,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6923.95556640625,
+                337.02581787109377,
+                14128.9560546875
+            ],
+            "ypr": [
+                24.181591033935548,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999818801879883,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6883.34619140625,
+                325.4797058105469,
+                14147.2783203125
+            ],
+            "ypr": [
+                24.403230667114259,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999820590019226,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6887.44140625,
+                325.4797058105469,
+                14145.5224609375
+            ],
+            "ypr": [
+                24.403230667114259,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999821186065674,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6869.310546875,
+                325.98095703125,
+                14142.3935546875
+            ],
+            "ypr": [
+                -66.04539489746094,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999820590019226,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6865.9541015625,
+                325.98095703125,
+                14134.8427734375
+            ],
+            "ypr": [
+                -66.04539489746094,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999820590019226,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6887.16162109375,
+                325.4797058105469,
+                14094.7431640625
+            ],
+            "ypr": [
+                -156.12576293945313,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999814629554749,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_Corner1",
+            "pos": [
+                6873.8544921875,
+                325.7060546875,
+                14150.677734375
+            ],
+            "ypr": [
+                24.444499969482423,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0000016689300538,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6905.5625,
+                325.4797058105469,
+                14086.5732421875
+            ],
+            "ypr": [
+                -156.12574768066407,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999814033508301,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_Corner1",
+            "pos": [
+                6914.5341796875,
+                325.41064453125,
+                14083.3984375
+            ],
+            "ypr": [
+                -154.97097778320313,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0000008344650269,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6919.1728515625,
+                325.4797058105469,
+                14092.1328125
+            ],
+            "ypr": [
+                113.80184173583985,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999813437461853,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6927.28369140625,
+                325.4797058105469,
+                14110.380859375
+            ],
+            "ypr": [
+                114.02350616455078,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999821186065674,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6929.70166015625,
+                325.72991943359377,
+                14115.560546875
+            ],
+            "ypr": [
+                114.02350616455078,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999981701374054,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6905.7646484375,
+                325.4797058105469,
+                14137.181640625
+            ],
+            "ypr": [
+                24.40323257446289,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999825954437256,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6868.89306640625,
+                325.4797058105469,
+                14102.8046875
+            ],
+            "ypr": [
+                -156.34742736816407,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999811053276062,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_Corner1",
+            "pos": [
+                6932.66162109375,
+                325.41064453125,
+                14124.255859375
+            ],
+            "ypr": [
+                115.40876007080078,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0000014305114747,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6923.95556640625,
+                325.4797058105469,
+                14128.9560546875
+            ],
+            "ypr": [
+                24.181591033935548,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999981701374054,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Underground_Stairs_Exit",
+            "pos": [
+                6904.18701171875,
+                359.10064697265627,
+                14104.8203125
+            ],
+            "ypr": [
+                -155.35906982421876,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999399185180664,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6910.38134765625,
+                358.7070007324219,
+                14095.84765625
+            ],
+            "ypr": [
+                23.949892044067384,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.999998092651367,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Underground_Stairs_Block_Corridor",
+            "pos": [
+                6905.54296875,
+                349.1656494140625,
+                14104.205078125
+            ],
+            "ypr": [
+                -155.6258087158203,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999979138374329,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Underground_Stairs_Block_Corridor",
+            "pos": [
+                6905.54296875,
+                344.1932067871094,
+                14104.205078125
+            ],
+            "ypr": [
+                -155.62579345703126,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999977946281433,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Underground_Stairs_Block_Corridor",
+            "pos": [
+                6905.54296875,
+                339.21429443359377,
+                14104.205078125
+            ],
+            "ypr": [
+                -155.6257781982422,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Underground_Stairs_Block_Corridor",
+            "pos": [
+                6905.54296875,
+                334.2824401855469,
+                14104.205078125
+            ],
+            "ypr": [
+                -155.62576293945313,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6898.32861328125,
+                349.187744140625,
+                14097.26171875
+            ],
+            "ypr": [
+                113.8238296508789,
+                0.0,
+                -0.0
+            ],
+            "scale": 4.000000953674316,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6862.77880859375,
+                349.20220947265627,
+                14116.796875
+            ],
+            "ypr": [
+                23.949893951416017,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.9999992847442629,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6873.46337890625,
+                349.20220947265627,
+                14112.1103515625
+            ],
+            "ypr": [
+                23.949893951416017,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.9999990463256838,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6884.15185546875,
+                349.20220947265627,
+                14107.3583984375
+            ],
+            "ypr": [
+                23.949893951416017,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.9999988079071047,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6893.7236328125,
+                349.20220947265627,
+                14128.94921875
+            ],
+            "ypr": [
+                23.949892044067384,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.999998092651367,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6872.3505859375,
+                349.20220947265627,
+                14138.3876953125
+            ],
+            "ypr": [
+                23.949893951416017,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.9999990463256838,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6883.03515625,
+                349.20220947265627,
+                14133.701171875
+            ],
+            "ypr": [
+                23.949893951416017,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.9999988079071047,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6915.48193359375,
+                349.20220947265627,
+                14093.478515625
+            ],
+            "ypr": [
+                23.949892044067384,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.999998092651367,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6925.0537109375,
+                349.20220947265627,
+                14115.0693359375
+            ],
+            "ypr": [
+                23.949892044067384,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.999998092651367,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6904.43017578125,
+                349.20220947265627,
+                14124.1728515625
+            ],
+            "ypr": [
+                23.949893951416017,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.9999988079071047,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6915.11474609375,
+                349.20220947265627,
+                14119.486328125
+            ],
+            "ypr": [
+                23.949892044067384,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.999998092651367,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6894.8583984375,
+                349.20220947265627,
+                14102.58203125
+            ],
+            "ypr": [
+                23.949893951416017,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.9999990463256838,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6898.32861328125,
+                344.2328796386719,
+                14097.26171875
+            ],
+            "ypr": [
+                113.82382202148438,
+                0.0,
+                -0.0
+            ],
+            "scale": 4.000000476837158,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6862.77880859375,
+                344.2473449707031,
+                14116.796875
+            ],
+            "ypr": [
+                23.949893951416017,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.9999990463256838,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6873.46337890625,
+                344.2473449707031,
+                14112.1103515625
+            ],
+            "ypr": [
+                23.949893951416017,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.9999988079071047,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6884.15185546875,
+                344.2473449707031,
+                14107.3583984375
+            ],
+            "ypr": [
+                23.949892044067384,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.999998092651367,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6893.7236328125,
+                344.2473449707031,
+                14128.94921875
+            ],
+            "ypr": [
+                23.949892044067384,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.999998092651367,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6872.3505859375,
+                344.2473449707031,
+                14138.3876953125
+            ],
+            "ypr": [
+                23.949893951416017,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.9999988079071047,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6883.03515625,
+                344.2473449707031,
+                14133.701171875
+            ],
+            "ypr": [
+                23.949892044067384,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.999998092651367,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6915.48193359375,
+                344.2473449707031,
+                14093.478515625
+            ],
+            "ypr": [
+                23.949892044067384,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.999998092651367,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6925.0537109375,
+                344.2473449707031,
+                14115.0693359375
+            ],
+            "ypr": [
+                23.949892044067384,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.99999737739563,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6904.43017578125,
+                344.2473449707031,
+                14124.1728515625
+            ],
+            "ypr": [
+                23.949892044067384,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.999998092651367,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6915.11474609375,
+                344.2473449707031,
+                14119.486328125
+            ],
+            "ypr": [
+                23.949892044067384,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.999998092651367,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6894.8583984375,
+                344.2473449707031,
+                14102.58203125
+            ],
+            "ypr": [
+                23.949893951416017,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.9999988079071047,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6898.32861328125,
+                339.2286376953125,
+                14097.26171875
+            ],
+            "ypr": [
+                113.82382202148438,
+                0.0,
+                -0.0
+            ],
+            "scale": 4.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6862.77880859375,
+                339.24310302734377,
+                14116.796875
+            ],
+            "ypr": [
+                23.949893951416017,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.9999988079071047,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6873.46337890625,
+                339.24310302734377,
+                14112.1103515625
+            ],
+            "ypr": [
+                23.949892044067384,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.999998092651367,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6884.15185546875,
+                339.24310302734377,
+                14107.3583984375
+            ],
+            "ypr": [
+                23.949892044067384,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.999998092651367,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6893.7236328125,
+                339.24310302734377,
+                14128.94921875
+            ],
+            "ypr": [
+                23.949892044067384,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.99999737739563,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6872.3505859375,
+                339.24310302734377,
+                14138.3876953125
+            ],
+            "ypr": [
+                23.949892044067384,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.999998092651367,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6883.03515625,
+                339.24310302734377,
+                14133.701171875
+            ],
+            "ypr": [
+                23.949892044067384,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.999998092651367,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6915.48193359375,
+                339.24310302734377,
+                14093.478515625
+            ],
+            "ypr": [
+                23.949892044067384,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.99999737739563,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6925.0537109375,
+                339.24310302734377,
+                14115.0693359375
+            ],
+            "ypr": [
+                23.949892044067384,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.999997138977051,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6904.43017578125,
+                339.24310302734377,
+                14124.1728515625
+            ],
+            "ypr": [
+                23.949892044067384,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.999998092651367,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6915.11474609375,
+                339.24310302734377,
+                14119.486328125
+            ],
+            "ypr": [
+                23.949892044067384,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.99999737739563,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6894.8583984375,
+                339.24310302734377,
+                14102.58203125
+            ],
+            "ypr": [
+                23.949892044067384,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.999998092651367,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6862.77880859375,
+                334.28436279296877,
+                14116.796875
+            ],
+            "ypr": [
+                23.949892044067384,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.999998092651367,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6873.46337890625,
+                334.28436279296877,
+                14112.1103515625
+            ],
+            "ypr": [
+                23.949892044067384,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.999998092651367,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6884.15185546875,
+                334.28436279296877,
+                14107.3583984375
+            ],
+            "ypr": [
+                23.949892044067384,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.99999737739563,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6893.7236328125,
+                334.28436279296877,
+                14128.94921875
+            ],
+            "ypr": [
+                23.949892044067384,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.999997138977051,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6872.3505859375,
+                334.28436279296877,
+                14138.3876953125
+            ],
+            "ypr": [
+                23.949892044067384,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.999998092651367,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6883.03515625,
+                334.28436279296877,
+                14133.701171875
+            ],
+            "ypr": [
+                23.949892044067384,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.99999737739563,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6915.48193359375,
+                334.28436279296877,
+                14093.478515625
+            ],
+            "ypr": [
+                23.949892044067384,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.999997138977051,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6925.0537109375,
+                334.28436279296877,
+                14115.0693359375
+            ],
+            "ypr": [
+                23.949892044067384,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.9999969005584719,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6904.43017578125,
+                334.28436279296877,
+                14124.1728515625
+            ],
+            "ypr": [
+                23.949892044067384,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.99999737739563,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6915.11474609375,
+                334.28436279296877,
+                14119.486328125
+            ],
+            "ypr": [
+                23.949892044067384,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.999997138977051,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6894.8583984375,
+                334.28436279296877,
+                14102.58203125
+            ],
+            "ypr": [
+                23.949892044067384,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.999998092651367,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6898.32861328125,
+                334.2698974609375,
+                14097.26171875
+            ],
+            "ypr": [
+                113.82382202148438,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.999999761581421,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Bergfrit2",
+            "pos": [
+                6927.06396484375,
+                362.1776123046875,
+                14119.8359375
+            ],
+            "ypr": [
+                22.031211853027345,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0000001192092896,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Bergfrit2",
+            "pos": [
+                6912.99267578125,
+                362.1776123046875,
+                14089.8017578125
+            ],
+            "ypr": [
+                23.095006942749025,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0000003576278687,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Bergfrit2",
+            "pos": [
+                6875.3232421875,
+                362.1776123046875,
+                14144.2041015625
+            ],
+            "ypr": [
+                -155.18243408203126,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999979138374329,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Garage_Row_Small",
+            "pos": [
+                6871.8125,
+                360.8238525390625,
+                14129.8076171875
+            ],
+            "ypr": [
+                114.23584747314453,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999993443489075,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Garage_Row_Small",
+            "pos": [
+                6871.8125,
+                366.22216796875,
+                14129.8076171875
+            ],
+            "ypr": [
+                114.23583984375,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992251396179,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6873.47802734375,
+                364.0098571777344,
+                14128.9580078125
+            ],
+            "ypr": [
+                23.94989776611328,
+                0.0,
+                -0.0
+            ],
+            "scale": 2.5950000286102297,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Mil_ATC_Small",
+            "pos": [
+                6895.8427734375,
+                369.5110778808594,
+                14097.1279296875
+            ],
+            "ypr": [
+                23.7760009765625,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Tisy_Barracks",
+            "pos": [
+                6900.69921875,
+                363.5636291503906,
+                14131.8681640625
+            ],
+            "ypr": [
+                23.672130584716798,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0000003576278687,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Camp_House_white",
+            "pos": [
+                6920.83154296875,
+                361.5367431640625,
+                14108.7451171875
+            ],
+            "ypr": [
+                113.78889465332031,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999988079071045,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Camp_House_white",
+            "pos": [
+                6918.02392578125,
+                361.5367431640625,
+                14102.263671875
+            ],
+            "ypr": [
+                113.78888702392578,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999987483024597,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen4_4",
+            "pos": [
+                6887.19091796875,
+                360.822509765625,
+                14104.4521484375
+            ],
+            "ypr": [
+                -66.9841537475586,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0000007152557374,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen4_4",
+            "pos": [
+                6888.75048828125,
+                360.822509765625,
+                14108.115234375
+            ],
+            "ypr": [
+                -66.98414611816406,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0000005960464478,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen4_4",
+            "pos": [
+                6890.32080078125,
+                360.822509765625,
+                14111.775390625
+            ],
+            "ypr": [
+                -66.98414611816406,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0000005960464478,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen4_4",
+            "pos": [
+                6891.88037109375,
+                360.822509765625,
+                14115.4384765625
+            ],
+            "ypr": [
+                -66.984130859375,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0000004768371583,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Wall_Gate_IndCnc4",
+            "pos": [
+                6894.69091796875,
+                360.0749206542969,
+                14121.4609375
+            ],
+            "ypr": [
+                -66.33145904541016,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999982714653015,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen4_4",
+            "pos": [
+                6895.38916015625,
+                360.822509765625,
+                14123.6142578125
+            ],
+            "ypr": [
+                -66.37836456298828,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0000004768371583,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen4_4",
+            "pos": [
+                6895.8544921875,
+                360.822509765625,
+                14124.677734375
+            ],
+            "ypr": [
+                -66.37836456298828,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0000003576278687,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen4_Pole",
+            "pos": [
+                6892.67333984375,
+                360.793212890625,
+                14117.26953125
+            ],
+            "ypr": [
+                -66.35428619384766,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0000046491622925,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Mil_Tower_Small",
+            "pos": [
+                6894.140625,
+                362.96533203125,
+                14115.048828125
+            ],
+            "ypr": [
+                -69.1059799194336,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Mil_Tower_Small",
+            "pos": [
+                6897.2177734375,
+                362.96533203125,
+                14122.09765625
+            ],
+            "ypr": [
+                -69.10597229003906,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Mil_Tower_Small",
+            "pos": [
+                6889.7880859375,
+                362.96533203125,
+                14104.6962890625
+            ],
+            "ypr": [
+                -69.10597229003906,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Road_Sidewalk_Stairs",
+            "pos": [
+                6880.66943359375,
+                361.4913024902344,
+                14138.0205078125
+            ],
+            "ypr": [
+                24.08544921875,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.1049995422363282,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Road_Sidewalk_Stairs",
+            "pos": [
+                6869.3984375,
+                368.5550231933594,
+                14121.3388671875
+            ],
+            "ypr": [
+                112.17476654052735,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0000001192092896,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform2_Stairs_20",
+            "pos": [
+                6875.40673828125,
+                364.9049377441406,
+                14123.5556640625
+            ],
+            "ypr": [
+                -157.47311401367188,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Stairs_30_WallL",
+            "pos": [
+                6875.6962890625,
+                365.95458984375,
+                14122.076171875
+            ],
+            "ypr": [
+                -157.41104125976563,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9300000667572022,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Stairs_30_WallL",
+            "pos": [
+                6869.70556640625,
+                368.85565185546877,
+                14120.5185546875
+            ],
+            "ypr": [
+                -68.02983093261719,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Sidewalk1_10m",
+            "pos": [
+                6880.0771484375,
+                368.0401306152344,
+                14134.5126953125
+            ],
+            "ypr": [
+                -74.03486633300781,
+                8.539443969726563,
+                -1.1506555080413819
+            ],
+            "scale": 0.8250012993812561,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Cnc_5",
+            "pos": [
+                6869.4833984375,
+                364.7564697265625,
+                14120.66796875
+            ],
+            "ypr": [
+                21.669445037841798,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.5400000214576721,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Cnc_5",
+            "pos": [
+                6872.24951171875,
+                364.7564697265625,
+                14119.5654296875
+            ],
+            "ypr": [
+                21.66944122314453,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.5350000262260437,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Cnc_5",
+            "pos": [
+                6872.6689453125,
+                366.67779541015627,
+                14119.361328125
+            ],
+            "ypr": [
+                22.36387062072754,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.43000006675720217,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Cnc_5",
+            "pos": [
+                6872.6689453125,
+                367.2991638183594,
+                14119.361328125
+            ],
+            "ypr": [
+                22.363868713378908,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.43000006675720217,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6868.0654296875,
+                363.5296630859375,
+                14122.7099609375
+            ],
+            "ypr": [
+                -66.50751495361328,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997019767761,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6872.17822265625,
+                363.5296630859375,
+                14121.015625
+            ],
+            "ypr": [
+                -66.98031616210938,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6874.87255859375,
+                363.5296630859375,
+                14123.5009765625
+            ],
+            "ypr": [
+                -157.0382080078125,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0000001192092896,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6903.068359375,
+                350.91143798828127,
+                14134.9755859375
+            ],
+            "ypr": [
+                23.685955047607423,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6903.068359375,
+                353.4018249511719,
+                14134.9755859375
+            ],
+            "ypr": [
+                23.685955047607423,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6900.62109375,
+                350.91143798828127,
+                14129.412109375
+            ],
+            "ypr": [
+                23.685955047607423,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6900.62109375,
+                353.4018249511719,
+                14129.412109375
+            ],
+            "ypr": [
+                23.685955047607423,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6896.00732421875,
+                353.4018249511719,
+                14118.728515625
+            ],
+            "ypr": [
+                23.685955047607423,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997019767761,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6893.5322265625,
+                350.91143798828127,
+                14113.14453125
+            ],
+            "ypr": [
+                23.685955047607423,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997019767761,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6893.5322265625,
+                353.4018249511719,
+                14113.14453125
+            ],
+            "ypr": [
+                23.68595314025879,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6891.0849609375,
+                350.91143798828127,
+                14107.5380859375
+            ],
+            "ypr": [
+                23.68595314025879,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6891.0849609375,
+                353.4018249511719,
+                14107.5380859375
+            ],
+            "ypr": [
+                23.68595314025879,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6888.62548828125,
+                350.91143798828127,
+                14101.9541015625
+            ],
+            "ypr": [
+                23.68595314025879,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6888.62548828125,
+                353.4018249511719,
+                14101.9541015625
+            ],
+            "ypr": [
+                23.68595314025879,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999999463558197,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6887.01904296875,
+                350.91143798828127,
+                14098.255859375
+            ],
+            "ypr": [
+                23.68595314025879,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999999463558197,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6887.01904296875,
+                353.4018249511719,
+                14098.255859375
+            ],
+            "ypr": [
+                23.68595314025879,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999999463558197,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6898.33203125,
+                353.4018249511719,
+                14124.0458984375
+            ],
+            "ypr": [
+                23.68595314025879,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6891.87939453125,
+                350.91143798828127,
+                14119.869140625
+            ],
+            "ypr": [
+                -68.15261840820313,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6891.87939453125,
+                353.4018249511719,
+                14119.869140625
+            ],
+            "ypr": [
+                -68.15262603759766,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999993443489075,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6886.20947265625,
+                353.4018249511719,
+                14122.1494140625
+            ],
+            "ypr": [
+                -68.15261840820313,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6880.53759765625,
+                353.4018249511719,
+                14124.4208984375
+            ],
+            "ypr": [
+                -68.15261840820313,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992251396179,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6874.90771484375,
+                353.4018249511719,
+                14126.6943359375
+            ],
+            "ypr": [
+                -68.1526107788086,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999990463256836,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6874.84716796875,
+                350.91143798828127,
+                14131.0947265625
+            ],
+            "ypr": [
+                -156.7342071533203,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999988675117493,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6874.84716796875,
+                353.4018249511719,
+                14131.0947265625
+            ],
+            "ypr": [
+                -156.7342071533203,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999988079071045,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6877.26611328125,
+                350.91143798828127,
+                14136.6953125
+            ],
+            "ypr": [
+                -156.7342071533203,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999989867210388,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6877.26611328125,
+                353.4018249511719,
+                14136.6953125
+            ],
+            "ypr": [
+                -156.7342071533203,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999987483024597,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6879.66845703125,
+                350.91143798828127,
+                14142.2197265625
+            ],
+            "ypr": [
+                -156.7342071533203,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999989867210388,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6879.66845703125,
+                353.4018249511719,
+                14142.2197265625
+            ],
+            "ypr": [
+                -156.7342071533203,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999987483024597,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6880.75732421875,
+                350.91143798828127,
+                14144.671875
+            ],
+            "ypr": [
+                -156.7342071533203,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999989867210388,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6880.75732421875,
+                353.4018249511719,
+                14144.671875
+            ],
+            "ypr": [
+                -156.7342071533203,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999987483024597,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6873.0205078125,
+                350.91143798828127,
+                14116.2490234375
+            ],
+            "ypr": [
+                -159.41661071777345,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991059303284,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6873.0205078125,
+                353.4018249511719,
+                14116.2490234375
+            ],
+            "ypr": [
+                -159.41659545898438,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999990463256836,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6875.18505859375,
+                353.4018249511719,
+                14121.9619140625
+            ],
+            "ypr": [
+                -157.95387268066407,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999988675117493,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6870.921875,
+                350.91143798828127,
+                14110.556640625
+            ],
+            "ypr": [
+                -159.41661071777345,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999989867210388,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6870.921875,
+                353.4018249511719,
+                14110.556640625
+            ],
+            "ypr": [
+                -159.4165802001953,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999988079071045,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6869.0009765625,
+                350.91143798828127,
+                14105.4541015625
+            ],
+            "ypr": [
+                -159.41661071777345,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999988079071045,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6869.0009765625,
+                353.4018249511719,
+                14105.4541015625
+            ],
+            "ypr": [
+                -159.41656494140626,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999987483024597,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6900.63525390625,
+                350.91143798828127,
+                14118.4970703125
+            ],
+            "ypr": [
+                114.9316177368164,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999999463558197,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6900.63525390625,
+                353.4018249511719,
+                14118.4970703125
+            ],
+            "ypr": [
+                114.9316177368164,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6906.14453125,
+                350.91143798828127,
+                14115.8974609375
+            ],
+            "ypr": [
+                114.93162536621094,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6906.14453125,
+                353.4018249511719,
+                14115.8974609375
+            ],
+            "ypr": [
+                114.93162536621094,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6911.65380859375,
+                353.4018249511719,
+                14113.3310546875
+            ],
+            "ypr": [
+                114.93162536621094,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992251396179,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6917.11572265625,
+                350.91143798828127,
+                14110.84375
+            ],
+            "ypr": [
+                114.93162536621094,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992251396179,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6917.11572265625,
+                353.4018249511719,
+                14110.84375
+            ],
+            "ypr": [
+                114.93162536621094,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999990463256836,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6922.6513671875,
+                350.91143798828127,
+                14108.2880859375
+            ],
+            "ypr": [
+                114.93162536621094,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999990463256836,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Mo",
+            "pos": [
+                6922.6513671875,
+                353.4018249511719,
+                14108.2880859375
+            ],
+            "ypr": [
+                114.93162536621094,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999990463256836,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6910.52685546875,
+                349.4192810058594,
+                14103.361328125
+            ],
+            "ypr": [
+                24.31374740600586,
+                0.0,
+                -0.0
+            ],
+            "scale": 2.0849997997283937,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Moh",
+            "pos": [
+                6896.01123046875,
+                350.91143798828127,
+                14118.7275390625
+            ],
+            "ypr": [
+                23.913185119628908,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997019767761,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Moh",
+            "pos": [
+                6886.16064453125,
+                350.9136962890625,
+                14122.2265625
+            ],
+            "ypr": [
+                -67.97724151611328,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Container_1Moh",
+            "pos": [
+                6875.03076171875,
+                350.91015625,
+                14126.5673828125
+            ],
+            "ypr": [
+                111.99929809570313,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999988675117493,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6910.52685546875,
+                344.4915466308594,
+                14103.361328125
+            ],
+            "ypr": [
+                24.313745498657228,
+                0.0,
+                -0.0
+            ],
+            "scale": 2.0849997997283937,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6910.52685546875,
+                339.4681396484375,
+                14103.361328125
+            ],
+            "ypr": [
+                24.313743591308595,
+                0.0,
+                -0.0
+            ],
+            "scale": 2.0849995613098146,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6910.52685546875,
+                334.507080078125,
+                14103.361328125
+            ],
+            "ypr": [
+                24.31374168395996,
+                0.0,
+                -0.0
+            ],
+            "scale": 2.0849993228912355,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Underground_Entrance",
+            "pos": [
+                6903.40380859375,
+                334.8541564941406,
+                14117.8623046875
+            ],
+            "ypr": [
+                -69.30532836914063,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.5749994516372681,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc4_Low_8",
+            "pos": [
+                6911.82080078125,
+                336.2610778808594,
+                14127.548828125
+            ],
+            "ypr": [
+                -67.51693725585938,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.5349998474121094,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc4_Low_8",
+            "pos": [
+                6911.80029296875,
+                337.162109375,
+                14127.548828125
+            ],
+            "ypr": [
+                -67.5169448852539,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.534999966621399,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc4_Low_8",
+            "pos": [
+                6911.93603515625,
+                336.2610778808594,
+                14114.705078125
+            ],
+            "ypr": [
+                113.90352630615235,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.5349969863891602,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc4_Low_8",
+            "pos": [
+                6911.9541015625,
+                337.162109375,
+                14114.69921875
+            ],
+            "ypr": [
+                113.90351867675781,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.5349968671798707,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc4_Low_8",
+            "pos": [
+                6916.87939453125,
+                336.2610778808594,
+                14125.90234375
+            ],
+            "ypr": [
+                113.90351867675781,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.5349966287612916,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc4_Low_8",
+            "pos": [
+                6916.89599609375,
+                337.162109375,
+                14125.90234375
+            ],
+            "ypr": [
+                113.90351867675781,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.5349966287612916,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Underground_Panel_Lever",
+            "pos": [
+                6900.775390625,
+                361.1739501953125,
+                14105.443359375
+            ],
+            "ypr": [
+                -155.4486541748047,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999983906745911,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Underground_Panel_Lever",
+            "pos": [
+                6900.9375,
+                361.1739501953125,
+                14102.7880859375
+            ],
+            "ypr": [
+                -66.5468978881836,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999980926513672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Underground_Panel",
+            "pos": [
+                6906.7607421875,
+                335.7361755371094,
+                14114.986328125
+            ],
+            "ypr": [
+                -69.95870971679688,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.6749997138977051,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Underground_Panel_Lever",
+            "pos": [
+                6906.58447265625,
+                335.8534240722656,
+                14117.943359375
+            ],
+            "ypr": [
+                -161.54953002929688,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999999463558197,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_wreck_truck01_aban2_blue",
+            "pos": [
+                6920.818359375,
+                359.23382568359377,
+                14126.2509765625
+            ],
+            "ypr": [
+                -157.63145446777345,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999943375587463,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Shovel",
+            "pos": [
+                6920.48681640625,
+                360.56768798828127,
+                14122.3681640625
+            ],
+            "ypr": [
+                -67.50772857666016,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999945163726807,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Shovel",
+            "pos": [
+                6920.48681640625,
+                360.56768798828127,
+                14122.3681640625
+            ],
+            "ypr": [
+                -67.50772857666016,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999945163726807,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Shovel",
+            "pos": [
+                6920.48681640625,
+                360.56768798828127,
+                14122.3681640625
+            ],
+            "ypr": [
+                -67.50772857666016,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999945163726807,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Shovel",
+            "pos": [
+                6920.48681640625,
+                360.56768798828127,
+                14122.3681640625
+            ],
+            "ypr": [
+                -67.50772857666016,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999945163726807,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Shovel",
+            "pos": [
+                6920.48681640625,
+                360.56768798828127,
+                14122.3681640625
+            ],
+            "ypr": [
+                -67.50772857666016,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999945163726807,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Pickaxe",
+            "pos": [
+                6920.70654296875,
+                360.69207763671877,
+                14122.91015625
+            ],
+            "ypr": [
+                26.57254981994629,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999945759773254,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Pickaxe",
+            "pos": [
+                6920.70654296875,
+                360.69207763671877,
+                14122.91015625
+            ],
+            "ypr": [
+                26.57254981994629,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999945759773254,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Pickaxe",
+            "pos": [
+                6920.70654296875,
+                360.69207763671877,
+                14122.91015625
+            ],
+            "ypr": [
+                26.572547912597658,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999990463256836,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Pickaxe",
+            "pos": [
+                6920.70654296875,
+                360.69207763671877,
+                14122.91015625
+            ],
+            "ypr": [
+                26.57254981994629,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999945759773254,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "SledgeHammer",
+            "pos": [
+                6921.09765625,
+                360.75335693359377,
+                14123.89453125
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "SledgeHammer",
+            "pos": [
+                6921.09765625,
+                360.75335693359377,
+                14123.89453125
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "SledgeHammer",
+            "pos": [
+                6921.09765625,
+                360.75335693359377,
+                14123.89453125
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "SledgeHammer",
+            "pos": [
+                6921.09765625,
+                360.75335693359377,
+                14123.89453125
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodAxe",
+            "pos": [
+                6921.28662109375,
+                360.69110107421877,
+                14124.32421875
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodAxe",
+            "pos": [
+                6921.28662109375,
+                360.69110107421877,
+                14124.32421875
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodAxe",
+            "pos": [
+                6921.28662109375,
+                360.69110107421877,
+                14124.32421875
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodAxe",
+            "pos": [
+                6921.28662109375,
+                360.69110107421877,
+                14124.32421875
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "AliceBag_Black",
+            "pos": [
+                6920.7890625,
+                360.8811340332031,
+                14124.0673828125
+            ],
+            "ypr": [
+                109.55743408203125,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "AliceBag_Black",
+            "pos": [
+                6920.7890625,
+                360.8811340332031,
+                14124.0673828125
+            ],
+            "ypr": [
+                109.55743408203125,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_metalcrate_02",
+            "pos": [
+                6919.73095703125,
+                360.35858154296877,
+                14125.580078125
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Pliers",
+            "pos": [
+                6919.4921875,
+                360.53851318359377,
+                14125.4716796875
+            ],
+            "ypr": [
+                -90.05689239501953,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999943375587463,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Pliers",
+            "pos": [
+                6919.533203125,
+                360.54180908203127,
+                14125.578125
+            ],
+            "ypr": [
+                -90.05689239501953,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999943375587463,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Pliers",
+            "pos": [
+                6919.63330078125,
+                360.54974365234377,
+                14125.53515625
+            ],
+            "ypr": [
+                -90.05689239501953,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999943375587463,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Pliers",
+            "pos": [
+                6919.6005859375,
+                360.53485107421877,
+                14125.4248046875
+            ],
+            "ypr": [
+                -90.05689239501953,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999943375587463,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "MetalWire",
+            "pos": [
+                6919.58837890625,
+                360.63714599609377,
+                14125.796875
+            ],
+            "ypr": [
+                -5.6312713623046879,
+                -33.49930191040039,
+                -0.00006329293682938442
+            ],
+            "scale": 0.9999935626983643,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "MetalWire",
+            "pos": [
+                6919.58837890625,
+                360.63714599609377,
+                14125.796875
+            ],
+            "ypr": [
+                -5.6312713623046879,
+                -33.49930191040039,
+                -0.00006329293682938442
+            ],
+            "scale": 0.9999935626983643,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "MetalWire",
+            "pos": [
+                6919.58837890625,
+                360.63714599609377,
+                14125.796875
+            ],
+            "ypr": [
+                -5.6312713623046879,
+                -33.49930191040039,
+                -0.00006329293682938442
+            ],
+            "scale": 0.9999935626983643,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "MetalWire",
+            "pos": [
+                6919.58837890625,
+                360.63714599609377,
+                14125.796875
+            ],
+            "ypr": [
+                -5.6312713623046879,
+                -33.49930191040039,
+                -0.00006329293682938442
+            ],
+            "scale": 0.9999935626983643,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "MetalWire",
+            "pos": [
+                6919.58837890625,
+                360.63714599609377,
+                14125.796875
+            ],
+            "ypr": [
+                -5.6312713623046879,
+                -33.49930191040039,
+                -0.00006329293682938442
+            ],
+            "scale": 0.9999935626983643,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "MetalWire",
+            "pos": [
+                6919.58837890625,
+                360.63714599609377,
+                14125.796875
+            ],
+            "ypr": [
+                -5.6312713623046879,
+                -33.49930191040039,
+                -0.00006329293682938442
+            ],
+            "scale": 0.9999935626983643,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "MetalWire",
+            "pos": [
+                6919.58837890625,
+                360.63714599609377,
+                14125.796875
+            ],
+            "ypr": [
+                -5.6312713623046879,
+                -33.49930191040039,
+                -0.00006329293682938442
+            ],
+            "scale": 0.9999935626983643,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "MetalWire",
+            "pos": [
+                6919.58837890625,
+                360.63714599609377,
+                14125.796875
+            ],
+            "ypr": [
+                -5.6312713623046879,
+                -33.49930191040039,
+                -0.00006329293682938442
+            ],
+            "scale": 0.9999935626983643,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "MetalWire",
+            "pos": [
+                6919.58837890625,
+                360.63714599609377,
+                14125.796875
+            ],
+            "ypr": [
+                -5.6312713623046879,
+                -33.49930191040039,
+                -0.00006329293682938442
+            ],
+            "scale": 0.9999935626983643,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "MetalWire",
+            "pos": [
+                6919.58837890625,
+                360.63714599609377,
+                14125.796875
+            ],
+            "ypr": [
+                -5.6312713623046879,
+                -33.49930191040039,
+                -0.00006329293682938442
+            ],
+            "scale": 0.9999935626983643,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "MetalWire",
+            "pos": [
+                6919.58837890625,
+                360.63714599609377,
+                14125.796875
+            ],
+            "ypr": [
+                -5.6312713623046879,
+                -33.49930191040039,
+                -0.00006329293682938442
+            ],
+            "scale": 0.9999935626983643,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BarbedWire",
+            "pos": [
+                6919.89306640625,
+                360.56903076171877,
+                14125.4345703125
+            ],
+            "ypr": [
+                -155.63124084472657,
+                -0.49997979402542117,
+                69.00000762939453
+            ],
+            "scale": 0.9999944567680359,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BarbedWire",
+            "pos": [
+                6919.89306640625,
+                360.56903076171877,
+                14125.4345703125
+            ],
+            "ypr": [
+                -155.63124084472657,
+                -0.49997979402542117,
+                69.00000762939453
+            ],
+            "scale": 0.9999944567680359,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BarbedWire",
+            "pos": [
+                6919.89306640625,
+                360.56903076171877,
+                14125.4345703125
+            ],
+            "ypr": [
+                -155.63124084472657,
+                -0.49997979402542117,
+                69.00000762939453
+            ],
+            "scale": 0.9999944567680359,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BarbedWire",
+            "pos": [
+                6919.89306640625,
+                360.56903076171877,
+                14125.4345703125
+            ],
+            "ypr": [
+                -155.63124084472657,
+                -0.49997979402542117,
+                69.00000762939453
+            ],
+            "scale": 0.9999944567680359,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BarbedWire",
+            "pos": [
+                6919.89306640625,
+                360.56903076171877,
+                14125.4345703125
+            ],
+            "ypr": [
+                -155.63124084472657,
+                -0.49997979402542117,
+                69.00000762939453
+            ],
+            "scale": 0.9999944567680359,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BarbedWire",
+            "pos": [
+                6919.89306640625,
+                360.56903076171877,
+                14125.4345703125
+            ],
+            "ypr": [
+                -155.63124084472657,
+                -0.49997979402542117,
+                69.00000762939453
+            ],
+            "scale": 0.9999944567680359,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BarbedWire",
+            "pos": [
+                6919.89306640625,
+                360.56903076171877,
+                14125.4345703125
+            ],
+            "ypr": [
+                -155.63124084472657,
+                -0.49997979402542117,
+                69.00000762939453
+            ],
+            "scale": 0.9999944567680359,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BarbedWire",
+            "pos": [
+                6919.89306640625,
+                360.56903076171877,
+                14125.4345703125
+            ],
+            "ypr": [
+                -155.63124084472657,
+                -0.49997979402542117,
+                69.00000762939453
+            ],
+            "scale": 0.9999944567680359,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BarbedWire",
+            "pos": [
+                6919.89306640625,
+                360.56903076171877,
+                14125.4345703125
+            ],
+            "ypr": [
+                -155.63124084472657,
+                -0.49997979402542117,
+                69.00000762939453
+            ],
+            "scale": 0.9999944567680359,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BarbedWire",
+            "pos": [
+                6919.89306640625,
+                360.56903076171877,
+                14125.4345703125
+            ],
+            "ypr": [
+                -155.63124084472657,
+                -0.49997979402542117,
+                69.00000762939453
+            ],
+            "scale": 0.9999944567680359,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenLog",
+            "pos": [
+                6920.85302734375,
+                360.43011474609377,
+                14126.0986328125
+            ],
+            "ypr": [
+                -64.59916687011719,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940395355225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenLog",
+            "pos": [
+                6920.85302734375,
+                360.43011474609377,
+                14126.0986328125
+            ],
+            "ypr": [
+                -64.59916687011719,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940395355225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenLog",
+            "pos": [
+                6920.85302734375,
+                360.43011474609377,
+                14126.0986328125
+            ],
+            "ypr": [
+                -64.59916687011719,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940395355225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenLog",
+            "pos": [
+                6920.85302734375,
+                360.43011474609377,
+                14126.0986328125
+            ],
+            "ypr": [
+                -64.59916687011719,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940395355225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenLog",
+            "pos": [
+                6920.85302734375,
+                360.43011474609377,
+                14126.0986328125
+            ],
+            "ypr": [
+                -64.59916687011719,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940395355225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenLog",
+            "pos": [
+                6920.85302734375,
+                360.43011474609377,
+                14126.0986328125
+            ],
+            "ypr": [
+                -64.59916687011719,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940395355225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenLog",
+            "pos": [
+                6920.85302734375,
+                360.43011474609377,
+                14126.0986328125
+            ],
+            "ypr": [
+                -64.59916687011719,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940395355225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenLog",
+            "pos": [
+                6920.85302734375,
+                360.43011474609377,
+                14126.0986328125
+            ],
+            "ypr": [
+                -64.59916687011719,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940395355225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenLog",
+            "pos": [
+                6920.85302734375,
+                360.43011474609377,
+                14126.0986328125
+            ],
+            "ypr": [
+                -64.59916687011719,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940395355225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenLog",
+            "pos": [
+                6920.85302734375,
+                360.43011474609377,
+                14126.0986328125
+            ],
+            "ypr": [
+                -64.59916687011719,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940395355225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenLog",
+            "pos": [
+                6920.85302734375,
+                360.43011474609377,
+                14126.0986328125
+            ],
+            "ypr": [
+                -64.59916687011719,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940395355225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenLog",
+            "pos": [
+                6920.85302734375,
+                360.43011474609377,
+                14126.0986328125
+            ],
+            "ypr": [
+                -64.59916687011719,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940395355225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenLog",
+            "pos": [
+                6920.85302734375,
+                360.43011474609377,
+                14126.0986328125
+            ],
+            "ypr": [
+                -64.59916687011719,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940395355225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenLog",
+            "pos": [
+                6920.85302734375,
+                360.43011474609377,
+                14126.0986328125
+            ],
+            "ypr": [
+                -64.59916687011719,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940395355225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenLog",
+            "pos": [
+                6920.85302734375,
+                360.43011474609377,
+                14126.0986328125
+            ],
+            "ypr": [
+                -64.59916687011719,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940395355225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenLog",
+            "pos": [
+                6920.85302734375,
+                360.43011474609377,
+                14126.0986328125
+            ],
+            "ypr": [
+                -64.59916687011719,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940395355225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenLog",
+            "pos": [
+                6920.85302734375,
+                360.43011474609377,
+                14126.0986328125
+            ],
+            "ypr": [
+                -64.59916687011719,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940395355225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenLog",
+            "pos": [
+                6920.85302734375,
+                360.43011474609377,
+                14126.0986328125
+            ],
+            "ypr": [
+                -64.59916687011719,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940395355225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenLog",
+            "pos": [
+                6920.85302734375,
+                360.43011474609377,
+                14126.0986328125
+            ],
+            "ypr": [
+                -64.5987777709961,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenPlank",
+            "pos": [
+                6920.84375,
+                361.1502380371094,
+                14126.1123046875
+            ],
+            "ypr": [
+                23.4013671875,
+                -87.90790557861328,
+                -0.0
+            ],
+            "scale": 0.9999940395355225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenPlank",
+            "pos": [
+                6920.84375,
+                361.1502380371094,
+                14126.1123046875
+            ],
+            "ypr": [
+                23.4013671875,
+                -87.90790557861328,
+                -0.0
+            ],
+            "scale": 0.9999940395355225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenPlank",
+            "pos": [
+                6920.84375,
+                361.1502380371094,
+                14126.1123046875
+            ],
+            "ypr": [
+                23.4013671875,
+                -87.90790557861328,
+                -0.0
+            ],
+            "scale": 0.9999940395355225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenPlank",
+            "pos": [
+                6920.84375,
+                361.1502380371094,
+                14126.1123046875
+            ],
+            "ypr": [
+                23.4013671875,
+                -87.90790557861328,
+                -0.0
+            ],
+            "scale": 0.9999940395355225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenPlank",
+            "pos": [
+                6920.84375,
+                361.1502380371094,
+                14126.1123046875
+            ],
+            "ypr": [
+                23.4013671875,
+                -87.90790557861328,
+                -0.0
+            ],
+            "scale": 0.9999940395355225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenPlank",
+            "pos": [
+                6920.84375,
+                361.1502380371094,
+                14126.1123046875
+            ],
+            "ypr": [
+                23.4013671875,
+                -87.90790557861328,
+                -0.0
+            ],
+            "scale": 0.9999940395355225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenPlank",
+            "pos": [
+                6920.84375,
+                361.1502380371094,
+                14126.1123046875
+            ],
+            "ypr": [
+                23.4013671875,
+                -87.90790557861328,
+                -0.0
+            ],
+            "scale": 0.9999940395355225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenPlank",
+            "pos": [
+                6920.84375,
+                361.1502380371094,
+                14126.1123046875
+            ],
+            "ypr": [
+                23.4013671875,
+                -87.90790557861328,
+                -0.0
+            ],
+            "scale": 0.9999940395355225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenPlank",
+            "pos": [
+                6920.84375,
+                361.1502380371094,
+                14126.1123046875
+            ],
+            "ypr": [
+                23.4013671875,
+                -87.90790557861328,
+                -0.0
+            ],
+            "scale": 0.9999940395355225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenPlank",
+            "pos": [
+                6920.84375,
+                361.1502380371094,
+                14126.1123046875
+            ],
+            "ypr": [
+                23.4013671875,
+                -87.90790557861328,
+                -0.0
+            ],
+            "scale": 0.9999940395355225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenPlank",
+            "pos": [
+                6920.84375,
+                361.1502380371094,
+                14126.1123046875
+            ],
+            "ypr": [
+                23.4013671875,
+                -87.90790557861328,
+                -0.0
+            ],
+            "scale": 0.9999940395355225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenPlank",
+            "pos": [
+                6920.84375,
+                361.1502380371094,
+                14126.1123046875
+            ],
+            "ypr": [
+                23.4013671875,
+                -87.90790557861328,
+                -0.0
+            ],
+            "scale": 0.9999940395355225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenPlank",
+            "pos": [
+                6920.84375,
+                361.1502380371094,
+                14126.1123046875
+            ],
+            "ypr": [
+                23.4013671875,
+                -87.90790557861328,
+                -0.0
+            ],
+            "scale": 0.9999940395355225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenPlank",
+            "pos": [
+                6920.84375,
+                361.1502380371094,
+                14126.1123046875
+            ],
+            "ypr": [
+                23.4013671875,
+                -87.90790557861328,
+                -0.0
+            ],
+            "scale": 0.9999940395355225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenPlank",
+            "pos": [
+                6920.84375,
+                361.1502380371094,
+                14126.1123046875
+            ],
+            "ypr": [
+                23.4013671875,
+                -87.90790557861328,
+                -0.0
+            ],
+            "scale": 0.9999940395355225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenPlank",
+            "pos": [
+                6920.84375,
+                361.1502380371094,
+                14126.1123046875
+            ],
+            "ypr": [
+                23.4013671875,
+                -87.90790557861328,
+                -0.0
+            ],
+            "scale": 0.9999940395355225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenPlank",
+            "pos": [
+                6920.84375,
+                361.1502380371094,
+                14126.1123046875
+            ],
+            "ypr": [
+                23.4013671875,
+                -87.90790557861328,
+                -0.0
+            ],
+            "scale": 0.9999940395355225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenPlank",
+            "pos": [
+                6920.84375,
+                361.1502380371094,
+                14126.1123046875
+            ],
+            "ypr": [
+                23.4013671875,
+                -87.90790557861328,
+                -0.0
+            ],
+            "scale": 0.9999940395355225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenPlank",
+            "pos": [
+                6920.84375,
+                361.1502380371094,
+                14126.1123046875
+            ],
+            "ypr": [
+                23.4013671875,
+                -87.90790557861328,
+                -0.0
+            ],
+            "scale": 0.9999940395355225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WoodenPlank",
+            "pos": [
+                6920.84375,
+                361.1502380371094,
+                14126.1123046875
+            ],
+            "ypr": [
+                23.4013671875,
+                -87.90790557861328,
+                -0.0
+            ],
+            "scale": 0.9999940395355225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_shelfs_small",
+            "pos": [
+                6919.38623046875,
+                360.12298583984377,
+                14124.6015625
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Hammer",
+            "pos": [
+                6919.34521484375,
+                361.1134948730469,
+                14124.1689453125
+            ],
+            "ypr": [
+                -66.6878890991211,
+                86.9166259765625,
+                179.99989318847657
+            ],
+            "scale": 0.9999942779541016,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Hammer",
+            "pos": [
+                6919.34521484375,
+                361.1134948730469,
+                14124.1689453125
+            ],
+            "ypr": [
+                -66.6878890991211,
+                86.9166259765625,
+                179.99989318847657
+            ],
+            "scale": 0.9999942779541016,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Hammer",
+            "pos": [
+                6919.431640625,
+                361.1134948730469,
+                14124.388671875
+            ],
+            "ypr": [
+                -66.6878662109375,
+                86.97346496582031,
+                179.99989318847657
+            ],
+            "scale": 0.9999945759773254,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Hammer",
+            "pos": [
+                6919.431640625,
+                361.1134948730469,
+                14124.388671875
+            ],
+            "ypr": [
+                -66.6878890991211,
+                86.9166259765625,
+                179.99989318847657
+            ],
+            "scale": 0.9999942779541016,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Hatchet",
+            "pos": [
+                6919.63232421875,
+                361.0922546386719,
+                14124.857421875
+            ],
+            "ypr": [
+                -69.30421447753906,
+                88.3783950805664,
+                179.99989318847657
+            ],
+            "scale": 0.9999947547912598,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Hatchet",
+            "pos": [
+                6919.5478515625,
+                361.0922546386719,
+                14124.6494140625
+            ],
+            "ypr": [
+                -69.30421447753906,
+                88.3783950805664,
+                179.99989318847657
+            ],
+            "scale": 0.9999947547912598,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Hatchet",
+            "pos": [
+                6919.63232421875,
+                361.0922546386719,
+                14124.857421875
+            ],
+            "ypr": [
+                -69.30421447753906,
+                88.3783950805664,
+                179.99989318847657
+            ],
+            "scale": 0.9999947547912598,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Hatchet",
+            "pos": [
+                6919.5478515625,
+                361.0922546386719,
+                14124.6494140625
+            ],
+            "ypr": [
+                -69.30421447753906,
+                88.38129425048828,
+                179.99989318847657
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                6919.15380859375,
+                360.75714111328127,
+                14124.302734375
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                6919.36669921875,
+                360.75714111328127,
+                14124.2197265625
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                6919.2451171875,
+                360.75714111328127,
+                14124.5244140625
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                6919.45361328125,
+                360.75714111328127,
+                14124.4287109375
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                6919.15380859375,
+                360.75714111328127,
+                14124.302734375
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                6919.36669921875,
+                360.75714111328127,
+                14124.2197265625
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                6919.2451171875,
+                360.75714111328127,
+                14124.5244140625
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                6919.45361328125,
+                360.75714111328127,
+                14124.4287109375
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                6919.15380859375,
+                360.75714111328127,
+                14124.302734375
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                6919.36669921875,
+                360.75714111328127,
+                14124.2197265625
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                6919.2451171875,
+                360.75714111328127,
+                14124.5244140625
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                6919.45361328125,
+                360.75714111328127,
+                14124.4287109375
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                6919.15380859375,
+                360.75714111328127,
+                14124.302734375
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                6919.36669921875,
+                360.75714111328127,
+                14124.2197265625
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                6919.2451171875,
+                360.75714111328127,
+                14124.5244140625
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                6919.45361328125,
+                360.75714111328127,
+                14124.4287109375
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                6919.15380859375,
+                360.75714111328127,
+                14124.302734375
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                6919.36669921875,
+                360.75714111328127,
+                14124.2197265625
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                6919.2451171875,
+                360.75714111328127,
+                14124.5244140625
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                6919.45361328125,
+                360.75714111328127,
+                14124.4287109375
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                6919.40283203125,
+                360.75775146484377,
+                14124.73828125
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                6919.50390625,
+                360.75775146484377,
+                14124.6982421875
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                6919.611328125,
+                360.75775146484377,
+                14124.6572265625
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                6919.291015625,
+                360.75775146484377,
+                14124.78515625
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                6919.37353515625,
+                360.75775146484377,
+                14124.9951171875
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                6919.58642578125,
+                360.75775146484377,
+                14124.916015625
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                6919.4873046875,
+                360.75775146484377,
+                14124.9619140625
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                6919.69677734375,
+                360.75775146484377,
+                14124.8681640625
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                6919.69677734375,
+                360.75775146484377,
+                14124.8681640625
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                6919.611328125,
+                360.75775146484377,
+                14124.6572265625
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                6919.291015625,
+                360.75775146484377,
+                14124.78515625
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                6919.37353515625,
+                360.75775146484377,
+                14124.9951171875
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                6919.40283203125,
+                360.75775146484377,
+                14124.73828125
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                6919.50390625,
+                360.75775146484377,
+                14124.6982421875
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                6919.4873046875,
+                360.75775146484377,
+                14124.9619140625
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                6919.58642578125,
+                360.75775146484377,
+                14124.916015625
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                6919.69677734375,
+                360.75775146484377,
+                14124.8681640625
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                6919.611328125,
+                360.75775146484377,
+                14124.6572265625
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                6919.291015625,
+                360.75775146484377,
+                14124.78515625
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                6919.37353515625,
+                360.75775146484377,
+                14124.9951171875
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                6919.40283203125,
+                360.75775146484377,
+                14124.73828125
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                6919.50390625,
+                360.75775146484377,
+                14124.6982421875
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                6919.4873046875,
+                360.75775146484377,
+                14124.9619140625
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Whetstone",
+            "pos": [
+                6919.58642578125,
+                360.75775146484377,
+                14124.916015625
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "CombinationLock4",
+            "pos": [
+                6920.60595703125,
+                360.42022705078127,
+                14123.6162109375
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "CombinationLock4",
+            "pos": [
+                6920.60595703125,
+                360.42022705078127,
+                14123.6162109375
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "CombinationLock4",
+            "pos": [
+                6920.60595703125,
+                360.42022705078127,
+                14123.6162109375
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "CombinationLock4",
+            "pos": [
+                6920.60595703125,
+                360.42022705078127,
+                14123.6162109375
+            ],
+            "ypr": [
+                -157.6313018798828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Pliers",
+            "pos": [
+                6919.4921875,
+                360.53851318359377,
+                14125.4716796875
+            ],
+            "ypr": [
+                -90.05689239501953,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999943375587463,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Pliers",
+            "pos": [
+                6919.533203125,
+                360.54180908203127,
+                14125.578125
+            ],
+            "ypr": [
+                -90.05689239501953,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999943375587463,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Pliers",
+            "pos": [
+                6919.63330078125,
+                360.54974365234377,
+                14125.53515625
+            ],
+            "ypr": [
+                -90.05689239501953,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999943375587463,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Pliers",
+            "pos": [
+                6919.6005859375,
+                360.53485107421877,
+                14125.4248046875
+            ],
+            "ypr": [
+                -90.05689239501953,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999943375587463,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Table_Camp_Small",
+            "pos": [
+                6919.021484375,
+                360.53387451171877,
+                14123.64453125
+            ],
+            "ypr": [
+                -66.43438720703125,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999938607215881,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Hacksaw",
+            "pos": [
+                6919.029296875,
+                360.9601135253906,
+                14123.9326171875
+            ],
+            "ypr": [
+                115.122314453125,
+                78.93665313720703,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "HandSaw",
+            "pos": [
+                6919.0,
+                360.9507141113281,
+                14123.2998046875
+            ],
+            "ypr": [
+                111.02308654785156,
+                85.96705627441406,
+                179.99989318847657
+            ],
+            "scale": 0.9999943375587463,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "HandSaw",
+            "pos": [
+                6919.0,
+                360.9507141113281,
+                14123.2998046875
+            ],
+            "ypr": [
+                111.02308654785156,
+                85.96705627441406,
+                179.99989318847657
+            ],
+            "scale": 0.9999943375587463,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Hacksaw",
+            "pos": [
+                6919.029296875,
+                360.9601135253906,
+                14123.9326171875
+            ],
+            "ypr": [
+                115.12245178222656,
+                78.9300537109375,
+                -0.0
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Rope",
+            "pos": [
+                6918.7763671875,
+                360.9997863769531,
+                14123.4169921875
+            ],
+            "ypr": [
+                51.39243698120117,
+                72.9932861328125,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Rope",
+            "pos": [
+                6918.7763671875,
+                360.9997863769531,
+                14123.4169921875
+            ],
+            "ypr": [
+                51.39243698120117,
+                72.9932861328125,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Rope",
+            "pos": [
+                6918.7763671875,
+                360.9997863769531,
+                14123.4169921875
+            ],
+            "ypr": [
+                51.39243698120117,
+                72.9932861328125,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Rope",
+            "pos": [
+                6918.7763671875,
+                360.9997863769531,
+                14123.4169921875
+            ],
+            "ypr": [
+                51.39243698120117,
+                72.9932861328125,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Rope",
+            "pos": [
+                6918.7763671875,
+                360.9997863769531,
+                14123.4169921875
+            ],
+            "ypr": [
+                51.39243698120117,
+                72.9932861328125,
+                -0.0
+            ],
+            "scale": 0.9999940991401672,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "FenceKit",
+            "pos": [
+                6918.5771484375,
+                361.1138610839844,
+                14123.7470703125
+            ],
+            "ypr": [
+                47.22800064086914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WatchtowerKit",
+            "pos": [
+                6918.74658203125,
+                361.1194763183594,
+                14123.998046875
+            ],
+            "ypr": [
+                47.22800064086914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "TerritoryFlagKit",
+            "pos": [
+                6918.49462890625,
+                361.1133728027344,
+                14123.4599609375
+            ],
+            "ypr": [
+                47.22800064086914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Stone",
+            "pos": [
+                6918.31298828125,
+                359.29010009765627,
+                14124.2822265625
+            ],
+            "ypr": [
+                47.22800064086914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "FenceKit",
+            "pos": [
+                6918.5771484375,
+                361.1138610839844,
+                14123.7470703125
+            ],
+            "ypr": [
+                47.22800064086914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WatchtowerKit",
+            "pos": [
+                6918.74658203125,
+                361.1194763183594,
+                14123.998046875
+            ],
+            "ypr": [
+                47.22800064086914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "TerritoryFlagKit",
+            "pos": [
+                6918.49462890625,
+                361.1133728027344,
+                14123.4599609375
+            ],
+            "ypr": [
+                47.22800064086914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Stone",
+            "pos": [
+                6918.388671875,
+                359.29010009765627,
+                14124.4853515625
+            ],
+            "ypr": [
+                47.22800064086914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Stone",
+            "pos": [
+                6918.31298828125,
+                359.29010009765627,
+                14124.2822265625
+            ],
+            "ypr": [
+                47.22800064086914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Stone",
+            "pos": [
+                6918.388671875,
+                359.29010009765627,
+                14124.4853515625
+            ],
+            "ypr": [
+                47.22800064086914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Stone",
+            "pos": [
+                6918.31298828125,
+                359.29010009765627,
+                14124.2822265625
+            ],
+            "ypr": [
+                47.22800064086914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Stone",
+            "pos": [
+                6918.388671875,
+                359.29010009765627,
+                14124.4853515625
+            ],
+            "ypr": [
+                47.22800064086914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Stone",
+            "pos": [
+                6918.31298828125,
+                359.29010009765627,
+                14124.2822265625
+            ],
+            "ypr": [
+                47.22800064086914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Stone",
+            "pos": [
+                6918.388671875,
+                359.29010009765627,
+                14124.4853515625
+            ],
+            "ypr": [
+                47.22800064086914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Stone",
+            "pos": [
+                6918.31298828125,
+                359.29010009765627,
+                14124.2822265625
+            ],
+            "ypr": [
+                47.22800064086914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Stone",
+            "pos": [
+                6918.388671875,
+                359.29010009765627,
+                14124.4853515625
+            ],
+            "ypr": [
+                47.22800064086914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Stone",
+            "pos": [
+                6918.31298828125,
+                359.29010009765627,
+                14124.2822265625
+            ],
+            "ypr": [
+                47.22800064086914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Stone",
+            "pos": [
+                6918.388671875,
+                359.29010009765627,
+                14124.4853515625
+            ],
+            "ypr": [
+                47.22800064086914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Stone",
+            "pos": [
+                6918.31298828125,
+                359.29010009765627,
+                14124.2822265625
+            ],
+            "ypr": [
+                47.22800064086914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Stone",
+            "pos": [
+                6918.388671875,
+                359.29010009765627,
+                14124.4853515625
+            ],
+            "ypr": [
+                47.22800064086914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Stone",
+            "pos": [
+                6918.31298828125,
+                359.29010009765627,
+                14124.2822265625
+            ],
+            "ypr": [
+                47.22800064086914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Stone",
+            "pos": [
+                6918.388671875,
+                359.29010009765627,
+                14124.4853515625
+            ],
+            "ypr": [
+                47.22800064086914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Stone",
+            "pos": [
+                6918.31298828125,
+                359.29010009765627,
+                14124.2822265625
+            ],
+            "ypr": [
+                47.22800064086914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Stone",
+            "pos": [
+                6918.388671875,
+                359.29010009765627,
+                14124.4853515625
+            ],
+            "ypr": [
+                47.22800064086914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Stone",
+            "pos": [
+                6918.31298828125,
+                359.29010009765627,
+                14124.2822265625
+            ],
+            "ypr": [
+                47.22800064086914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Stone",
+            "pos": [
+                6918.388671875,
+                359.29010009765627,
+                14124.4853515625
+            ],
+            "ypr": [
+                47.22800064086914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Stone",
+            "pos": [
+                6918.31298828125,
+                359.29010009765627,
+                14124.2822265625
+            ],
+            "ypr": [
+                47.22800064086914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Stone",
+            "pos": [
+                6918.388671875,
+                359.29010009765627,
+                14124.4853515625
+            ],
+            "ypr": [
+                47.22800064086914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Stone",
+            "pos": [
+                6918.31298828125,
+                359.29010009765627,
+                14124.2822265625
+            ],
+            "ypr": [
+                47.22800064086914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Stone",
+            "pos": [
+                6918.388671875,
+                359.29010009765627,
+                14124.4853515625
+            ],
+            "ypr": [
+                47.22800064086914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Stone",
+            "pos": [
+                6918.31298828125,
+                359.29010009765627,
+                14124.2822265625
+            ],
+            "ypr": [
+                47.22800064086914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Stone",
+            "pos": [
+                6918.388671875,
+                359.29010009765627,
+                14124.4853515625
+            ],
+            "ypr": [
+                47.22800064086914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Stone",
+            "pos": [
+                6918.31298828125,
+                359.29010009765627,
+                14124.2822265625
+            ],
+            "ypr": [
+                47.22800064086914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Stone",
+            "pos": [
+                6918.388671875,
+                359.29010009765627,
+                14124.4853515625
+            ],
+            "ypr": [
+                47.22800064086914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Stone",
+            "pos": [
+                6918.31298828125,
+                359.29010009765627,
+                14124.2822265625
+            ],
+            "ypr": [
+                47.22800064086914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Stone",
+            "pos": [
+                6918.388671875,
+                359.29010009765627,
+                14124.4853515625
+            ],
+            "ypr": [
+                47.22800064086914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999942183494568,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6862.77880859375,
+                358.7270812988281,
+                14116.796875
+            ],
+            "ypr": [
+                23.949893951416017,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.999999761581421,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6873.46337890625,
+                358.7270812988281,
+                14112.1103515625
+            ],
+            "ypr": [
+                23.949893951416017,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.9999992847442629,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6884.15185546875,
+                358.7270812988281,
+                14107.3583984375
+            ],
+            "ypr": [
+                23.949893951416017,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.9999990463256838,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6893.7236328125,
+                358.7270812988281,
+                14128.94921875
+            ],
+            "ypr": [
+                23.949893951416017,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.9999988079071047,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6872.3505859375,
+                358.7270812988281,
+                14138.3876953125
+            ],
+            "ypr": [
+                23.949893951416017,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.9999992847442629,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6883.03515625,
+                358.7270812988281,
+                14133.701171875
+            ],
+            "ypr": [
+                23.949893951416017,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.9999990463256838,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Gate",
+            "pos": [
+                6858.44873046875,
+                362.70648193359377,
+                14116.2197265625
+            ],
+            "ypr": [
+                -64.44898986816406,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0000001192092896,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6915.48193359375,
+                358.7270812988281,
+                14093.478515625
+            ],
+            "ypr": [
+                23.949893951416017,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.9999988079071047,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6925.0537109375,
+                358.7270812988281,
+                14115.0693359375
+            ],
+            "ypr": [
+                23.949892044067384,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.999998092651367,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6904.43017578125,
+                358.7270812988281,
+                14124.1728515625
+            ],
+            "ypr": [
+                23.949893951416017,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.9999990463256838,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6915.11474609375,
+                358.7270812988281,
+                14119.486328125
+            ],
+            "ypr": [
+                23.949893951416017,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.9999988079071047,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6894.8583984375,
+                358.7270812988281,
+                14102.58203125
+            ],
+            "ypr": [
+                23.949893951416017,
+                0.0,
+                -0.0
+            ],
+            "scale": 3.9999992847442629,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6898.32861328125,
+                358.7126159667969,
+                14097.26171875
+            ],
+            "ypr": [
+                113.82383728027344,
+                0.0,
+                -0.0
+            ],
+            "scale": 4.000001430511475,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6868.89306640625,
+                362.71148681640627,
+                14102.8046875
+            ],
+            "ypr": [
+                -156.34742736816407,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999815821647644,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6887.16162109375,
+                362.71148681640627,
+                14094.7431640625
+            ],
+            "ypr": [
+                -156.1258087158203,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999981701374054,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6905.5625,
+                362.71148681640627,
+                14086.5732421875
+            ],
+            "ypr": [
+                -156.12579345703126,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999981701374054,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_Corner1",
+            "pos": [
+                6914.5341796875,
+                362.6424255371094,
+                14083.3984375
+            ],
+            "ypr": [
+                -154.97097778320313,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.000001072883606,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6919.1728515625,
+                362.71148681640627,
+                14092.1328125
+            ],
+            "ypr": [
+                113.8018569946289,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999816417694092,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6927.28369140625,
+                362.71148681640627,
+                14110.380859375
+            ],
+            "ypr": [
+                114.02350616455078,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999820590019226,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6929.70166015625,
+                362.9617004394531,
+                14115.560546875
+            ],
+            "ypr": [
+                114.02351379394531,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999818801879883,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6905.7646484375,
+                362.71148681640627,
+                14137.181640625
+            ],
+            "ypr": [
+                24.403236389160158,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999828338623047,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6887.44140625,
+                362.71148681640627,
+                14145.5224609375
+            ],
+            "ypr": [
+                24.403230667114259,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999825358390808,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_Corner1",
+            "pos": [
+                6932.66162109375,
+                362.6424255371094,
+                14124.255859375
+            ],
+            "ypr": [
+                115.40874481201172,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0000015497207642,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6923.95556640625,
+                362.71148681640627,
+                14128.9560546875
+            ],
+            "ypr": [
+                24.181591033935548,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999821186065674,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}
