@@ -15,7 +15,158 @@
 				<default name="clusterMatrix" de="TrajectoryStumps" width="12" height="12"/>
 -->
 		</defaults>
-		<group name="Land_Shed_M1" lootmax="2">
+		<group name="Land_ContainerLocked_Blue_DE" lootmax="8">
+  <usage name="Military" />
+  <value name="Tier3" />
+  <value name="Tier4" />
+  <value name="Unique" />
+  <container name="lootFloor" lootmax="8">
+    <category name="tools" />
+    <category name="weapons" />
+    <category name="clothes" />
+    <category name="explosives" />
+    <tag name="floor" />
+    <point pos="0.223633 -0.457459 0.596680" range="0.4500" height="1.5000" />
+    <point pos="0.220703 -0.457459 0.361816" range="0.4500" height="1.5000" />
+    <point pos="1.510742 -0.389038 0.884277" range="0.4500" height="1.5000" />
+    <point pos="1.509766 -0.389038 0.583984" range="0.4500" height="1.5000" />
+    <point pos="1.509766 -0.389038 0.326660" range="0.4500" height="1.5000" />
+    <point pos="2.128906 -0.436310 0.438477" range="0.4500" height="1.5000" />
+    <point pos="2.431641 -0.436310 0.453125" range="0.4500" height="1.5000" />
+    <point pos="-0.095703 -0.355682 0.817871" range="0.4500" height="1.5000" />
+    <point pos="-0.053711 -0.355682 0.817871" range="0.4500" height="1.5000" />
+    <point pos="-0.010742 -0.355682 0.817871" range="0.4500" height="1.5000" />
+    <point pos="-0.053711 -0.355682 0.817871" range="0.4500" height="1.5000" />
+    <point pos="-0.010742 -0.355682 0.817871" range="0.4500" height="1.5000" />
+    <point pos="-0.095703 -0.355682 0.817871" range="0.4500" height="1.5000" />
+    <point pos="-0.086914 -0.260651 0.589844" range="0.4500" height="1.5000" />
+    <point pos="-0.034180 -0.260651 0.589844" range="0.4500" height="1.5000" />
+    <point pos="0.014648 -0.260651 0.589844" range="0.4500" height="1.5000" />
+    <point pos="-0.086914 -0.260651 0.589844" range="0.4500" height="1.5000" />
+    <point pos="-0.034180 -0.260651 0.589844" range="0.4500" height="1.5000" />
+    <point pos="0.014648 -0.260651 0.589844" range="0.4500" height="1.5000" />
+    <point pos="-0.070312 -0.304077 0.532227" range="0.4500" height="1.5000" />
+    <point pos="-0.093750 -0.295685 0.276367" range="0.4500" height="1.5000" />
+    <point pos="-0.091797 -0.295685 0.336426" range="0.4500" height="1.5000" />
+    <point pos="-0.079102 -0.295685 0.398437" range="0.4500" height="1.5000" />
+    <point pos="-0.093750 -0.295685 0.276367" range="0.4500" height="1.5000" />
+    <point pos="-0.091797 -0.295685 0.336426" range="0.4500" height="1.5000" />
+    <point pos="-0.079102 -0.295685 0.398437" range="0.4500" height="1.5000" />
+    <point pos="1.020508 -0.333130 0.844238" range="0.4500" height="1.5000" />
+    <point pos="1.020508 -0.333130 0.729004" range="0.4500" height="1.5000" />
+    <point pos="1.018555 -0.402344 0.572754" range="0.4500" height="1.5000" />
+    <point pos="1.014648 -0.402344 0.465820" range="0.4500" height="1.5000" />
+    <point pos="-2.696289 -1.088013 -0.678223" range="0.4500" height="1.5000" />
+    <point pos="2.630859 -1.088013 -0.684082" range="0.4500" height="1.5000" />
+    <point pos="-0.684570 -1.088013 -0.266602" range="0.4500" height="1.5000" />
+    <point pos="-1.493164 -1.088013 -0.850586" range="0.4500" height="1.5000" />
+    <point pos="1.584961 -1.088013 -0.716309" range="0.4500" height="1.5000" />
+    <point pos="0.422852 -1.088013 -0.865234" range="0.4500" height="1.5000" />
+    <point pos="0.172852 -1.088013 -0.805176" range="0.4500" height="1.5000" />
+    <point pos="-2.175781 -0.741730 0.173828" range="0.4500" height="1.5000" />
+    <point pos="-0.821289 -0.741730 0.173828" range="0.4500" height="1.5000" />
+    <point pos="0.594727 -0.728943 0.134277" range="0.4500" height="1.5000" />
+    <point pos="1.931641 -0.728943 0.133789" range="0.4500" height="1.5000" />
+    <point pos="-1.937500 -1.022522 -0.658203" range="0.4500" height="1.5000" />
+    <point pos="0.898438 -1.048401 -0.687988" range="0.4500" height="1.5000" />
+    <point pos="-0.190430 -1.088013 -0.757813" range="0.4500" height="1.5000" />
+    <point pos="-2.307617 -1.088013 -0.768555" range="0.4500" height="1.5000" />
+    <point pos="-2.714844 -0.434845 0.858398" range="0.4500" height="1.5000" />
+    <point pos="-2.714844 -0.434845 0.437988" range="0.4500" height="1.5000" />
+    <point pos="-2.471680 -0.434845 0.858398" range="0.4500" height="1.5000" />
+    <point pos="-2.471680 -0.434845 0.437988" range="0.4500" height="1.5000" />
+    <point pos="-2.212891 -0.434845 0.858398" range="0.4500" height="1.5000" />
+    <point pos="-2.212891 -0.434845 0.437988" range="0.4500" height="1.5000" />
+    <point pos="-1.931641 -0.434845 0.858398" range="0.4500" height="1.5000" />
+    <point pos="-1.931641 -0.434845 0.437988" range="0.4500" height="1.5000" />
+    <point pos="-1.691406 -0.434845 0.858398" range="0.4500" height="1.5000" />
+    <point pos="-1.691406 -0.434845 0.437988" range="0.4500" height="1.5000" />
+    <point pos="-1.224609 -0.457459 0.395996" range="0.4500" height="1.5000" />
+    <point pos="-1.224609 -0.457459 0.736328" range="0.4500" height="1.5000" />
+    <point pos="-0.740234 -0.457459 0.399414" range="0.4500" height="1.5000" />
+    <point pos="-0.740234 -0.457459 0.739746" range="0.4500" height="1.5000" />
+    <point pos="-0.318359 -0.457459 0.739746" range="0.4500" height="1.5000" />
+    <point pos="-0.318359 -0.457459 0.399414" range="0.4500" height="1.5000" />
+    <point pos="-1.000000 -0.393738 0.747559" range="0.4500" height="1.5000" />
+    <point pos="-1.000000 -0.393738 0.350586" range="0.4500" height="1.5000" />
+    <point pos="-1.000000 -0.393738 0.561035" range="0.4500" height="1.5000" />
+    <point pos="-0.542969 -0.393738 0.747559" range="0.4500" height="1.5000" />
+    <point pos="-0.542969 -0.393738 0.350586" range="0.4500" height="1.5000" />
+    <point pos="-0.542969 -0.393738 0.561035" range="0.4500" height="1.5000" />
+    <point pos="0.223633 -0.457459 0.885254" range="0.4500" height="1.5000" />
+  </container>
+    <dispatch dechance="1.00">
+        <proxy type="FAL" pos="0.223633 -0.457459 0.596680" rpy="0.000000 90.786743 -0.000000" dechance="1.00"/>
+        <proxy type="FAL" pos="0.220703 -0.457459 0.361816" rpy="0.000000 90.786743 -0.000000" dechance="1.00"/>
+        <proxy type="M4A1" pos="1.510742 -0.389038 0.884277" rpy="0.000000 89.989578 -0.000000" dechance="1.00"/>
+        <proxy type="M4A1" pos="1.509766 -0.389038 0.583984" rpy="0.000000 89.989578 -0.000000" dechance="1.00"/>
+        <proxy type="M4A1" pos="1.509766 -0.389038 0.326660" rpy="0.000000 89.989578 -0.000000" dechance="1.00"/>
+        <proxy type="AKM" pos="2.128906 -0.436310 0.438477" rpy="90.000000 -180.000000 -180.000000" dechance="1.00"/>
+        <proxy type="AKM" pos="2.431641 -0.436310 0.453125" rpy="90.000000 -0.000005 -0.000005" dechance="1.00"/>
+        <proxy type="Mag_FAL_20Rnd" pos="-0.095703 -0.355682 0.817871" rpy="0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="Mag_FAL_20Rnd" pos="-0.053711 -0.355682 0.817871" rpy="0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="Mag_FAL_20Rnd" pos="-0.010742 -0.355682 0.817871" rpy="0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="Mag_FAL_20Rnd" pos="-0.053711 -0.355682 0.817871" rpy="0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="Mag_FAL_20Rnd" pos="-0.010742 -0.355682 0.817871" rpy="0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="Mag_FAL_20Rnd" pos="-0.095703 -0.355682 0.817871" rpy="0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="Mag_STANAG_60Rnd" pos="-0.086914 -0.260651 0.589844" rpy="0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="Mag_STANAG_60Rnd" pos="-0.034180 -0.260651 0.589844" rpy="0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="Mag_STANAG_60Rnd" pos="0.014648 -0.260651 0.589844" rpy="0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="Mag_STANAG_60Rnd" pos="-0.086914 -0.260651 0.589844" rpy="0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="Mag_STANAG_60Rnd" pos="-0.034180 -0.260651 0.589844" rpy="0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="Mag_STANAG_60Rnd" pos="0.014648 -0.260651 0.589844" rpy="0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="Mag_AKM_Drum_TEST" pos="-0.070312 -0.304077 0.532227" rpy="0.000000 0.000000 8.000000" dechance="1.00"/>
+        <proxy type="Mag_AKM_Palm30Rnd_Black" pos="-0.093750 -0.295685 0.276367" rpy="0.000000 93.856194 -0.000000" dechance="1.00"/>
+        <proxy type="Mag_AKM_Palm30Rnd_Black" pos="-0.091797 -0.295685 0.336426" rpy="0.000000 93.856186 -0.000000" dechance="1.00"/>
+        <proxy type="Mag_AKM_Palm30Rnd_Black" pos="-0.079102 -0.295685 0.398437" rpy="0.000000 93.856171 -0.000000" dechance="1.00"/>
+        <proxy type="Mag_AKM_Palm30Rnd_Black" pos="-0.093750 -0.295685 0.276367" rpy="0.000000 93.856194 -0.000000" dechance="1.00"/>
+        <proxy type="Mag_AKM_Palm30Rnd_Black" pos="-0.091797 -0.295685 0.336426" rpy="0.000000 93.856186 -0.000000" dechance="1.00"/>
+        <proxy type="Mag_AKM_Palm30Rnd_Black" pos="-0.079102 -0.295685 0.398437" rpy="0.000000 93.856171 -0.000000" dechance="1.00"/>
+        <proxy type="AK_Suppressor" pos="1.020508 -0.333130 0.844238" rpy="0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="AK_Suppressor" pos="1.020508 -0.333130 0.729004" rpy="0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="M4_Suppressor" pos="1.018555 -0.402344 0.572754" rpy="0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="M4_Suppressor" pos="1.014648 -0.402344 0.465820" rpy="0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="PlateCarrierVest_Winter" pos="-2.696289 -1.088013 -0.678223" rpy="-0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="PlateCarrierVest_Camo" pos="2.630859 -1.088013 -0.684082" rpy="-0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="PlateCarrierVest_Green" pos="-0.684570 -1.088013 -0.266602" rpy="-0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="CoyoteBag_Winter" pos="-1.493164 -1.088013 -0.850586" rpy="0.000000 95.750801 -0.000000" dechance="1.00"/>
+        <proxy type="AliceBag_Black" pos="1.584961 -1.088013 -0.716309" rpy="0.000000 88.172363 -0.000000" dechance="1.00"/>
+        <proxy type="CoyoteBag_Green" pos="0.422852 -1.088013 -0.865234" rpy="0.000000 91.961601 -0.000000" dechance="1.00"/>
+        <proxy type="HuntingBag" pos="0.172852 -1.088013 -0.805176" rpy="-0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="GhillieTop_Mossy" pos="-2.175781 -0.741730 0.173828" rpy="90.000000 -180.000000 -180.000000" dechance="1.00"/>
+        <proxy type="GhillieTop_Mossy" pos="-0.821289 -0.741730 0.173828" rpy="90.000000 -0.000005 -0.000005" dechance="1.00"/>
+        <proxy type="GhillieBushrag_Woodland" pos="0.594727 -0.728943 0.134277" rpy="90.000000 180.000000 -180.000000" dechance="1.00"/>
+        <proxy type="GhillieBushrag_Woodland" pos="1.931641 -0.728943 0.133789" rpy="90.000000 0.000005 -0.000005" dechance="1.00"/>
+        <proxy type="GhillieAtt_Mossy" pos="-1.937500 -1.022522 -0.658203" rpy="90.000000 -180.000000 -180.000000" dechance="1.00"/>
+        <proxy type="GhillieAtt_Mossy" pos="0.898438 -1.048401 -0.687988" rpy="90.000000 -180.000000 -180.000000" dechance="1.00"/>
+        <proxy type="GhillieHood_Mossy" pos="-0.190430 -1.088013 -0.757813" rpy="-0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="GhillieHood_Woodland" pos="-2.307617 -1.088013 -0.768555" rpy="-0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="Plastic_Explosive" pos="-2.714844 -0.434845 0.858398" rpy="0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="Plastic_Explosive" pos="-2.714844 -0.434845 0.437988" rpy="0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="Plastic_Explosive" pos="-2.471680 -0.434845 0.858398" rpy="0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="Plastic_Explosive" pos="-2.471680 -0.434845 0.437988" rpy="0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="Plastic_Explosive" pos="-2.212891 -0.434845 0.858398" rpy="0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="Plastic_Explosive" pos="-2.212891 -0.434845 0.437988" rpy="0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="Plastic_Explosive" pos="-1.931641 -0.434845 0.858398" rpy="0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="Plastic_Explosive" pos="-1.931641 -0.434845 0.437988" rpy="0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="Plastic_Explosive" pos="-1.691406 -0.434845 0.858398" rpy="0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="Plastic_Explosive" pos="-1.691406 -0.434845 0.437988" rpy="0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="ImprovisedExplosive" pos="-1.224609 -0.457459 0.395996" rpy="-0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="ImprovisedExplosive" pos="-1.224609 -0.457459 0.736328" rpy="0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="ImprovisedExplosive" pos="-0.740234 -0.457459 0.399414" rpy="0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="ImprovisedExplosive" pos="-0.740234 -0.457459 0.739746" rpy="0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="ImprovisedExplosive" pos="-0.318359 -0.457459 0.739746" rpy="0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="ImprovisedExplosive" pos="-0.318359 -0.457459 0.399414" rpy="0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="RemoteDetonator" pos="-1.000000 -0.393738 0.747559" rpy="0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="RemoteDetonator" pos="-1.000000 -0.393738 0.350586" rpy="0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="RemoteDetonator" pos="-1.000000 -0.393738 0.561035" rpy="0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="RemoteDetonator" pos="-0.542969 -0.393738 0.747559" rpy="0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="RemoteDetonator" pos="-0.542969 -0.393738 0.350586" rpy="0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="RemoteDetonator" pos="-0.542969 -0.393738 0.561035" rpy="0.000000 0.000000 -0.000000" dechance="1.00"/>
+        <proxy type="FAL" pos="0.223633 -0.457459 0.885254" rpy="0.000000 90.786736 -0.000000" dechance="1.00"/>
+    </dispatch>
+</group>
+	<group name="Land_Shed_M1" lootmax="2">
 				<usage name="Industrial" />
 				<usage name="Farm" />
 				<container name="lootFloor" lootmax="2">
