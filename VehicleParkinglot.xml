@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<events>
+	<event name="VehicleParkinglot">
+		<pos x="4127.64" y="294.683" z="8719.61" a="302.6405" group="Injector_StaticObj_Pier_Concrete1_L"/>
+	</event>
+</events>
