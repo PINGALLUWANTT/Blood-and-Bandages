@@ -1,0 +1,844 @@
+{
+    "Areas": [
+		{ 	"AreaName": "Custom - Prison 2", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 2783, 0, 1249 ],
+				"Radius": 120,
+				"PosHeight": 20,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{ 	"AreaName": "Custom - Prison 1", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 2607, 0, 1330 ],
+				"Radius": 120,
+				"PosHeight": 20,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{ 	"AreaName": "Kamensk 2", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 7955, 0, 14634 ],
+				"Radius": 120,
+				"PosHeight": 20,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{ 	"AreaName": "Kamensk 1", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 7817, 0, 14780 ],
+				"Radius": 120,
+				"PosHeight": 20,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{ 	"AreaName": "NWAF - North HQ", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 4009, 0, 11846 ],
+				"Radius": 120,
+				"PosHeight": 20,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{ 	"AreaName": "NWAF - Custom - South HQ", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 4035, 0, 11666 ],
+				"Radius": 120,
+				"PosHeight": 20,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{ 	"AreaName": "NWAF - Runway Camp", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 4186, 0, 11041 ],
+				"Radius": 120,
+				"PosHeight": 20,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{ 	"AreaName": "NWAF - Jail", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 4124, 0, 10551 ],
+				"Radius": 120,
+				"PosHeight": 20,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{ 	"AreaName": "NWAF - Radar/ATC Station", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 4625, 0, 10467 ],
+				"Radius": 120,
+				"PosHeight": 20,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{ 	"AreaName": "NWAF - West Barracks", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 4319, 0, 10174 ],
+				"Radius": 120,
+				"PosHeight": 20,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{ 	"AreaName": "NWAF - Obstacle Course", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 5336, 0, 9908 ],
+				"Radius": 120,
+				"PosHeight": 20,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{ 	"AreaName": "NWAF - East Crane", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 5238, 0, 9816 ],
+				"Radius": 120,
+				"PosHeight": 20,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{ 	"AreaName": "NWAF - East Storage", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 5045, 0, 9840 ],
+				"Radius": 120,
+				"PosHeight": 20,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{ 	"AreaName": "NWAF - South West Barracks 2", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 4624, 0, 9603 ],
+				"Radius": 120,
+				"PosHeight": 20,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{ 	"AreaName": "NWAF - South West Barracks 1", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 4496, 0, 9625 ],
+				"Radius": 120,
+				"PosHeight": 20,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{ 	"AreaName": "Sosnovka Pass", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 2712, 0, 6758 ],
+				"Radius": 120,
+				"PosHeight": 20,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{ 	"AreaName": "Zelno Trainyard", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 2509, 0, 5079 ],
+				"Radius": 120,
+				"PosHeight": 20,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{ 	"AreaName": "Pavlovo Guard Shack", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 1819, 0, 3452 ],
+				"Radius": 120,
+				"PosHeight": 20,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{ 	"AreaName": "Tisy Firing Range", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 1427, 0, 14459 ],
+				"Radius": 120,
+				"PosHeight": 20,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{ 	"AreaName": "Tisy Barracks", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 1661, 0, 14346 ],
+				"Radius": 120,
+				"PosHeight": 20,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{ 	"AreaName": "Tisy Jail", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 1686, 0, 14171 ],
+				"Radius": 120,
+				"PosHeight": 20,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{ 	"AreaName": "Tisy Custom Container Shipping Area", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 1564, 0, 14110 ],
+				"Radius": 120,
+				"PosHeight": 20,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{ 	"AreaName": "Tisy Custom Artillery Platforms", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 1815, 0, 13799 ],
+				"Radius": 120,
+				"PosHeight": 20,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{ 	"AreaName": "Tisy Main Camp 2", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 1554, 0, 13585 ],
+				"Radius": 120,
+				"PosHeight": 20,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{ 	"AreaName": "Tisy Main Camp 1", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 1457, 0, 13681 ],
+				"Radius": 120,
+				"PosHeight": 20,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{ 	"AreaName": "Tisy Radar Military", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 598, 0, 13669 ],
+				"Radius": 120,
+				"PosHeight": 20,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{ 	"AreaName": "Tri Kresta Military", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 341, 0, 9401 ],
+				"Radius": 120,
+				"PosHeight": 20,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{ 	"AreaName": "Myshkino Military", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 1157, 0, 7239 ],
+				"Radius": 120,
+				"PosHeight": 20,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{ 	"AreaName": "Tikhi Military", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 748, 0, 1876 ],
+				"Radius": 120,
+				"PosHeight": 20,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{ 	"AreaName": "Ship-SW", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 13684, 0, 11073 ],
+				"Radius": 100,
+				"PosHeight": 22,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+        { 	"AreaName": "Ship-NE", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 13881, 0, 11172 ],
+				"Radius": 100,
+				"PosHeight": 26,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+        { 	"AreaName": "Ship-Central", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 13752, 0, 11164 ],
+				"Radius": 100,
+				"PosHeight": 22,
+				"NegHeight": 2,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 60, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+        { 	"AreaName": "Pavlovo-North", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 2043, 0, 3485 ],
+				"Radius": 150,
+				"PosHeight": 25,
+				"NegHeight": 20,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+        { 	"AreaName": "Pavlovo-South", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 2164, 0, 3335 ],
+				"Radius": 150,
+				"PosHeight": 11,
+				"NegHeight": 10,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		}
+    ],
+
+	"SafePositions":[
+		[434, 13624],
+		[360, 10986],
+		[1412, 13505],
+		[1290, 11773],
+		[5742, 8568],
+		[4191, 4620],
+		[4949, 6569],
+		[1018, 7138],
+		[5041, 2640],
+		[6895, 7915],
+		[6128, 8120],
+		[4422, 8117],
+		[2811, 10209],
+		[1954, 2417],
+		[3633, 8708],
+		[5222, 5737],
+		[3546, 2630],
+		[2373, 5516],
+		[2462, 6879],
+		[1653, 3600],
+		[11774, 14570],
+		[8228, 9345],
+		[11100, 13400],
+		[9333, 8697],
+		[11513, 12203],
+		[4955, 10603],
+		[5090, 15054],
+		[6513, 14579],
+		[3483, 14941],
+		[4016, 11194],
+		[7607, 12384],
+		[4307, 9528],
+		[3266, 12352],
+		[4432, 13285],
+		[5473, 12455],
+		[9731, 13685],
+		[2745, 7784],
+		[8492, 14128],
+		[3501, 13292],
+		[7912, 10943],
+		[4165, 10134],
+		[10536, 7871],
+		[1467, 14288],
+		[5479, 9709],
+		[9453, 11963],
+		[319, 9212],
+		[8009, 14843],
+		[7206, 7158],
+		[12303, 13598],
+		[3435, 5959],
+		[4060, 12050],
+		[6633, 2988],
+		[870, 2095],
+		[10286, 9071],
+		[10371, 5690]
+	]
+}
