@@ -1,0 +1,42 @@
+<!-- cfgeventspawns.xml Add entry-->
+<event name="VehicleParkinglot">
+		<pos x="4628.60986328125" z="10120.599609375" a="0" y="317.614990234375" group="Injector_StaticObj_Pier_Concrete1_L"/>
+	</event>
+
+	<!--events.xml Add entry-->
+	<!-- This event will spawn all 6 cars at one time, They will respawn every hour.-->
+
+	<event name="VehicleParkinglot">
+        <nominal>1</nominal>
+        <min>1</min>
+        <max>1</max>
+        <lifetime>3600</lifetime>
+        <restock>60</restock>
+        <saferadius>1</saferadius>
+        <distanceradius>1</distanceradius>
+        <cleanupradius>1</cleanupradius>
+        <flags deletable="1" init_random="0" remove_damaged="0"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>
+        <children/>
+    </event>
+
+	<!-- cfgeventgroups.xml Add entry-->
+	<!-- You can change the names to any car. I have not test on trucks so be aware. -->
+	<group name="Injector_StaticObj_Pier_Concrete1_L">
+        <child type="CivilianSedan" spawnsecondary="false" x="-34.52001953125" z="55.7001953125" a="154.16998291015625" y="33.97201538085937"/> <!--Third level Left-->
+        <child type="CivilianSedan" spawnsecondary="false" x="-25.81982421875" z="60.5" a="153.25294494628906" y="33.97201538085937"/> <!--Third level Right-->
+        <child type="OffroadHatchback_Blue" spawnsecondary="false" x="-34.52001953125" z="55.7001953125" a="154.16998291015625" y="28.972015380859375"/> <!--Second level Left-->
+        <child type="Sedan_02_Red" spawnsecondary="false" x="-25.81982421875" z="60.5" a="153.25294494628906" y="29.394012451171875"/> <!--Second level Right-->
+        <child type="Hatchback_02_Black" spawnsecondary="false" x="-34.52001953125" z="55.7001953125" a="154.16998291015625" y="24.26801538085937"/> <!--First level Left-->
+        <child type="Sedan_02" spawnsecondary="false" x="-25.81982421875" z="60.5" a="153.25294494628906" y="24.69001245117187"/> <!--First level Right-->
+    </group>
+	
+	<!-- cfggameplay.json Add entry as so.-->
+
+		"objectSpawnersArr": [
+			"./custom/ParkingLot.json"
+	],
+
+	

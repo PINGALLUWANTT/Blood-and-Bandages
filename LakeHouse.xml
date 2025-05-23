@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<map>
+	<group name="StaticObj_Misc_WoodTable_Indoor" pos="1872.617310 437.077118 14753.343750" rpy="-0.000000 -0.000000 107.237984" a="-17.238"/>
+	<group name="Land_Shed_M1" pos="1873.227783 437.742828 14730.837891" rpy="-0.000000 0.000000 106.899399" a="-16.8994"/>
+	<group name="Land_House_2W02" pos="1874.019165 441.131134 14743.666016" rpy="-0.000000 0.000000 107.999962" a="-18"/>
+	<group name="StaticObj_Misc_WoodTable_Indoor" pos="1875.143311 437.074615 14752.531250" rpy="-0.000000 -0.000000 107.237984" a="-17.238"/>
+</map>
