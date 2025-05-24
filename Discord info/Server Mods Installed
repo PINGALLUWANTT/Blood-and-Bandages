@@ -32,6 +32,7 @@ FORTKNOXHOME.json
 JJMODS-MULTISTORYBASE.json
 BlackLakehouse.json
 CultCamp1.json
+LakeHouse.json
 
 
 		Starting File Loadout;
@@ -57,6 +58,7 @@ CultCamp1.json
 "custom/GhostsBuilderShed.json"
 BlackLakehouse.json
 CultCamp1.json
+LakeHouse.json
 ],
 
 
