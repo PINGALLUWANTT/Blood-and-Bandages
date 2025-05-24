@@ -24,3 +24,26 @@ BASES
 "custom/AMENS-TRI-KRESTA-BASE.json",
 PillarBase.json
 SkiResortBase.json
+
+
+		"objectSpawnersArr": [
+"custom/CHERNARUS_BUNKER_by_McSpliffin_v2.json",
+"custom/JJMODS-MULTISTORYBASE.json",
+"custom/ParkingLot_Moved.json",
+"custom/AMENS-OFFSHORE-INSTALLATION-2024.json",
+"custom/SkiResortBase.json",
+"custom/cherno-plane-fast-travel-objects.json",
+"custom/AMENS-TRI-KRESTA-BASE.json",
+"custom/ntdn.PillarBase.json",
+"custom/CarKits.json",
+"custom/FortKnox.json",
+"custom/converted-NEWTRADER.json",
+"custom/buildsuptrains.json",
+"custom/ntdn.H2S_ZenitBase.json",
+"custom/CHERNO-AIR-DROP-NWAF-JJMODS.json",
+"custom/CHERNO-AIR-DROP-KRASNOSTAV-JJMODS.json",
+"custom/CHERNO-AIR-DROP-BELOTA-JJMODS.json",
+"custom/BRIDGE-BASE-JJMODS.json",
+"custom/Bunker_Trader_Radio_Zenit.json"
+],
+
