@@ -27,6 +27,7 @@ PillarBase.json
 SkiResortBase.json
 Ac130Base.json
 FoBShamus.json
+FORTKNOXHOME.json
 
 
 		"objectSpawnersArr": [
@@ -50,5 +51,6 @@ FoBShamus.json
 "custom/Bunker_Trader_Radio_Zenit.json"
 Ac130Base.json
 FoBShamus.json
+FORTKNOXHOME.json
 ],
 
