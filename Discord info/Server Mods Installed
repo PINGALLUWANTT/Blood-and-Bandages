@@ -51,8 +51,8 @@ JJMODS-MULTISTORYBASE.json
 "custom/CHERNO-AIR-DROP-BELOTA-JJMODS.json",
 "custom/BRIDGE-BASE-JJMODS.json",
 "custom/Bunker_Trader_Radio_Zenit.json,"
-"Ac130Base.json",
-"FoBShamus.json",
-"FORTKNOXHOME.json",
-"GhostsBuilderShed.json"
+"custom/Ac130Base.json",
+"custom/FoBShamus.json",
+"custom/FORTKNOXHOME.json",
+"custom/GhostsBuilderShed.json"
 ],
