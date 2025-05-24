@@ -18,8 +18,8 @@
                 "spawnGearPresetFiles": ["./custom/shadowpayday1.json","./custom/shadowpayday2.json","./custom/shadowpayday3.json","./custom/shadowpayday4.json"],
 		"StaminaData":
 		{
-			"sprintStaminaModifierErc": 1.0,
-			"sprintStaminaModifierCro": 1.0,
+			"sprintStaminaModifierErc": 0,
+			"sprintStaminaModifierCro": 0,
 			"staminaWeightLimitThreshold": 6000.0,
 			"staminaMax": 100.0,
 			"staminaKgToStaminaPercentPenalty": 1.75,
