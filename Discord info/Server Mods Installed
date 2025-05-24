@@ -30,6 +30,7 @@ Ac130Base.json
 FoBShamus.json
 FORTKNOXHOME.json
 JJMODS-MULTISTORYBASE.json
+BlackLakehouse.json
 
 
 		Starting File Loadout;
@@ -53,6 +54,7 @@ JJMODS-MULTISTORYBASE.json
 "custom/FoBShamus.json",
 "custom/FORTKNOXHOME.json",
 "custom/GhostsBuilderShed.json"
+BlackLakehouse.json
 ],
 
 
