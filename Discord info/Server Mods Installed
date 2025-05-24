@@ -64,28 +64,51 @@ YAIBC.json
 "custom/LakeHouse.json",
 "custom/YAIBC.json",
 "custom/MATERIAL_TRUCKS.json"
- AKD_NEW_CONTAINER_BASE.json
- BerezFort.json
- Compound-1.json
-CultCamp1.json
-CultCamp2.json
-LargeBase.json
-Official-DreamZ-Survivor-Cherno.json
-MediumBase-1.json
-QuanticoPVP.json
-PUSTOSHKABASE.json
-RumpMoatFort.json
- S-W_end_of_map_base.json
-Solnichniy_Base.json
-StarySaborBase.json
-TreeHouse.json
- VIKING_buildsupply&storage.json
-Water_Base.json
-ZFGoceanbase2.json
-Zaprudnoe_Base.json
-converted-Zebiks_Base.json
-customtreehouse.json
-nuketown.json
+ 
+"custom/AKD_NEW_CONTAINER_BASE.json"
+ 
+"custom/BerezFort.json"
+
+"custom/Compound-1.json"
+
+"custom/CultCamp1.json"
+
+"custom/CultCamp2.json"
+
+"custom/LargeBase.json"
+
+"custom/Official-DreamZ-Survivor-Cherno.json"
+
+"custom/MediumBase-1.json"
+
+"custom/QuanticoPVP.json"
+
+"custom/PUSTOSHKABASE.json"
+
+"custom/RumpMoatFort.json"
+
+"custom/S-W_end_of_map_base.json"
+
+"custom/Solnichniy_Base.json"
+
+"custom/StarySaborBase.json"
+
+"custom/TreeHouse.json"
+
+"custom/VIKING_buildsupply&storage.json"
+
+"custom/Water_Base.json"
+
+"custom/ZFGoceanbase2.json"
+
+"custom/Zaprudnoe_Base.json"
+
+"custom/converted-Zebiks_Base.json"
+
+"custom/customtreehouse.json"
+
+"custom/nuketown.json"
+
 
 ],
 
