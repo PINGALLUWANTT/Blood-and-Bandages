@@ -15,6 +15,7 @@
     "PlayerData":
 	{
 		"disablePersonalLight": false,
+                "spawnGearPresetFiles": ["./custom/shadowpayday1.json","./custom/shadowpayday2.json","./custom/shadowpayday3.json","./custom/shadowpayday4.json"],
 		"StaminaData":
 		{
 			"sprintStaminaModifierErc": 1.0,
