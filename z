@@ -2,10 +2,9 @@
 
 <spawnabletypes>
 	<type name="SurvivorM_Mirek">
-    <attachments><?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-
-<spawnabletypes>
-	<type name="SurvivorM_Mirek">
+    <attachments>
+</type>
+<type name="SurvivorM_Mirek">
     <attachments>
         <item name="ZSh3PilotHelmet" />
     </attachments>
