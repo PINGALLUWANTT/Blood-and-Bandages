@@ -10,7 +10,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="PunchedCard">
-<nominal>5</nominal>
+<nominal>2</nominal>
 <lifetime>14400</lifetime>
 <restock>0</restock>
 <min>1</min>
@@ -31,7 +31,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>  
     </type>
     <type name="AK74">
         <nominal>36</nominal>
@@ -43,9 +48,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="AKM">
         <nominal>9</nominal>
@@ -57,8 +65,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="AKS74U">
         <nominal>51</nominal>
@@ -70,8 +82,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="AK_Suppressor">
         <nominal>6</nominal>
@@ -96,8 +112,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="AirborneMask">
         <nominal>30</nominal>
@@ -111,6 +131,10 @@
         <category name="clothes"/>
         <usage name="Medic"/>
         <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>    
     </type>
     <type name="AliceBag_Black">
         <nominal>9</nominal>
@@ -122,7 +146,12 @@
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
         <category name="containers"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="AliceBag_Camo">
         <nominal>9</nominal>
@@ -134,7 +163,12 @@
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
         <category name="containers"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="AliceBag_Green">
         <nominal>9</nominal>
@@ -146,7 +180,12 @@
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
         <category name="containers"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="AmmoBox">
         <nominal>30</nominal>
@@ -158,7 +197,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="containers"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="AmmoBox_00buck_10rnd">
         <nominal>60</nominal>
@@ -170,11 +214,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
         <usage name="Police"/>
-        <usage name="Hunting"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="AmmoBox_12gaRubberSlug_10Rnd">
         <nominal>48</nominal>
@@ -186,7 +231,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
         <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="AmmoBox_12gaSlug_10Rnd">
         <nominal>60</nominal>
@@ -198,11 +248,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
         <usage name="Police"/>
-        <usage name="Hunting"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="AmmoBox_22_50Rnd">
         <nominal>165</nominal>
@@ -214,6 +265,11 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Town"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
         <usage name="Town"/>
         <usage name="Village"/>
     </type>
@@ -227,9 +283,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="AmmoBox_308Win_20Rnd">
         <nominal>60</nominal>
@@ -241,10 +300,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Hunting"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="AmmoBox_357_20Rnd">
         <nominal>90</nominal>
@@ -256,7 +317,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
         <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="AmmoBox_380_35rnd">
         <nominal>60</nominal>
@@ -268,7 +334,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
         <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="AmmoBox_45ACP_25rnd">
         <nominal>60</nominal>
@@ -280,7 +351,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="AmmoBox_545x39Tracer_20Rnd">
         <nominal>27</nominal>
@@ -292,9 +368,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="AmmoBox_545x39_20Rnd">
         <nominal>51</nominal>
@@ -306,9 +385,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="AmmoBox_556x45Tracer_20Rnd">
         <nominal>21</nominal>
@@ -320,9 +402,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="AmmoBox_556x45_20Rnd">
         <nominal>60</nominal>
@@ -334,9 +419,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="AmmoBox_762x39Tracer_20Rnd">
         <nominal>21</nominal>
@@ -348,9 +436,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="AmmoBox_762x39_20Rnd">
         <nominal>54</nominal>
@@ -362,10 +453,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <usage name="Hunting"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="AmmoBox_762x54Tracer_20Rnd">
         <nominal>21</nominal>
@@ -377,9 +470,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="AmmoBox_762x54_20Rnd">
         <nominal>45</nominal>
@@ -391,11 +487,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <usage name="Hunting"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="AmmoBox_9x19_25rnd">
         <nominal>90</nominal>
@@ -407,8 +504,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
         <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="AmmoBox_9x39AP_20Rnd">
         <nominal>15</nominal>
@@ -420,8 +521,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="AmmoBox_9x39_20Rnd">
         <nominal>21</nominal>
@@ -433,7 +538,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="Ammo_40mm_Chemgas">
         <nominal>15</nominal>
@@ -458,9 +568,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
-        <value name="Unique"/>
     </type>
     <type name="AntiChemInjector">
         <nominal>3</nominal>
@@ -497,7 +604,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="AviatorGlasses">
         <nominal>21</nominal>
@@ -510,9 +622,12 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <tag name="shelves"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
         <usage name="Police"/>
         <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="BDUJacket">
         <nominal>15</nominal>
@@ -524,7 +639,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="BDUPants">
         <nominal>15</nominal>
@@ -536,7 +656,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="Balaclava3Holes_Black">
         <nominal>9</nominal>
@@ -548,13 +673,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
         <usage name="Police"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="Balaclava3Holes_Green">
         <nominal>15</nominal>
@@ -566,10 +690,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="BalaclavaMask_BDU">
         <nominal>15</nominal>
@@ -581,9 +707,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="BalaclavaMask_Black">
         <nominal>15</nominal>
@@ -596,12 +725,12 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <tag name="shelves"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
         <usage name="Police"/>
-        <usage name="Industrial"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="BalaclavaMask_Blackskull">
         <nominal>9</nominal>
@@ -614,9 +743,12 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <tag name="shelves"/>
+       <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="BalaclavaMask_Green">
         <nominal>21</nominal>
@@ -629,13 +761,12 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <tag name="shelves"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <usage name="Industrial"/>
+        <usage name="Police"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="BalaclavaMask_Pig">
         <nominal>6</nominal>
@@ -658,7 +789,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="BallisticHelmet_Black">
         <nominal>9</nominal>
@@ -670,7 +806,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="BallisticHelmet_Desert">
         <nominal>9</nominal>
@@ -682,7 +823,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="BallisticHelmet_Green">
         <nominal>9</nominal>
@@ -694,7 +840,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="BallisticHelmet_Woodland">
         <nominal>9</nominal>
@@ -706,7 +857,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="BandageDressing">
         <nominal>120</nominal>
@@ -720,6 +876,11 @@
         <category name="tools"/>
         <tag name="shelves"/>
         <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="Battery9V">
         <nominal>50</nominal>
@@ -732,7 +893,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-        <usage name="Industrial"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
         <usage name="Village"/>
     </type>
     <type name="BearTrap">
@@ -758,6 +923,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
         <tag name="shelves"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
         <usage name="Town"/>
         <usage name="Village"/>
     </type>
@@ -771,7 +940,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <usage name="Industrial"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="BomberJacket_Black">
         <nominal>12</nominal>
@@ -783,10 +957,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="BomberJacket_Maroon">
         <nominal>36</nominal>
@@ -798,10 +974,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
     </type>
     <type name="CZ527">
         <nominal>135</nominal>
@@ -813,12 +991,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Farm"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
         <usage name="Village"/>
-        <usage name="Hunting"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
     </type>
     <type name="CZ550">
         <nominal>15</nominal>
@@ -830,9 +1008,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Hunting"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="CZ61">
         <nominal>60</nominal>
@@ -844,10 +1025,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
         <usage name="Police"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="CZ75">
         <nominal>180</nominal>
@@ -859,11 +1042,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
         <usage name="Police"/>
+        <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
     </type>
     <type name="CanOpener">
         <nominal>20</nominal>
@@ -901,10 +1085,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="CargoPants_Green">
         <nominal>60</nominal>
@@ -916,10 +1102,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="Chainmail">
         <nominal>6</nominal>
@@ -968,8 +1156,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="explosives"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
         <value name="Unique"/>
     </type>
     <type name="CombatBoots_Beige">
@@ -983,7 +1169,12 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <tag name="floor"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="CombatBoots_Black">
         <nominal>15</nominal>
@@ -996,7 +1187,12 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <tag name="floor"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="CombatBoots_Brown">
         <nominal>15</nominal>
@@ -1009,7 +1205,12 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <tag name="floor"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="CombatBoots_Green">
         <nominal>15</nominal>
@@ -1022,7 +1223,12 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <tag name="floor"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="CombatBoots_Grey">
         <nominal>15</nominal>
@@ -1035,7 +1241,12 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <tag name="floor"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="CombatKnife">
         <nominal>60</nominal>
@@ -1048,7 +1259,12 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="CoyoteBag_Brown">
         <nominal>12</nominal>
@@ -1060,9 +1276,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="containers"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="CoyoteBag_Green">
         <nominal>12</nominal>
@@ -1074,9 +1293,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="containers"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="CraterellusMushroom">
         <nominal>0</nominal>
@@ -1098,7 +1320,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Hunting"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="Crossbow_Black">
         <nominal>15</nominal>
@@ -1110,7 +1337,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
         <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="Crossbow_Wood">
         <nominal>9</nominal>
@@ -1122,7 +1354,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Farm"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="Deagle_Gold">
         <nominal>10</nominal>
@@ -1134,7 +1371,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
         <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="DisinfectantAlcohol">
         <nominal>240</nominal>
@@ -1147,6 +1389,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
         <usage name="Town"/>
         <usage name="Village"/>
     </type>
@@ -1160,10 +1406,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
-        <usage name="Coast"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/>   
     </type>
     <type name="DryBag_Green">
         <nominal>12</nominal>
@@ -1175,10 +1424,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
-        <usage name="Coast"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="DuffelBagSmall_Camo">
         <nominal>24</nominal>
@@ -1190,9 +1442,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="ElectronicRepairKit">
         <nominal>150</nominal>
@@ -1205,7 +1461,13 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-        <usage name="Industrial"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="EpoxyPutty">
         <nominal>100</nominal>
@@ -1218,7 +1480,13 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-        <usage name="Industrial"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="FAL">
         <nominal>9</nominal>
@@ -1242,7 +1510,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="FNX45">
         <nominal>75</nominal>
@@ -1254,10 +1528,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="FirefighterJacket_Black">
         <nominal>9</nominal>
@@ -1269,7 +1546,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Medic"/>
         <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="FirefightersPants_Black">
         <nominal>9</nominal>
@@ -1281,7 +1564,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Medic"/>
         <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="FireworksLauncher">
         <nominal>12</nominal>
@@ -1293,7 +1582,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <usage name="Lunapark"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="FlashGrenade">
         <nominal>30</nominal>
@@ -1305,7 +1600,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="explosives"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="GP5GasMask">
         <nominal>30</nominal>
@@ -1317,9 +1618,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="GasMask">
         <nominal>30</nominal>
@@ -1331,10 +1636,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="GasMask_Filter">
         <nominal>60</nominal>
@@ -1349,6 +1657,11 @@
         <tag name="shelves"/>
         <usage name="Medic"/>
         <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="GlassBottle">
         <nominal>70</nominal>
@@ -1371,7 +1684,13 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <tag name="shelves"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
         <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="GorkaEJacket_Autumn">
         <nominal>12</nominal>
@@ -1383,7 +1702,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="GorkaEJacket_Flat">
         <nominal>12</nominal>
@@ -1395,7 +1720,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="GorkaEJacket_PautRev">
         <nominal>12</nominal>
@@ -1407,7 +1738,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="GorkaEJacket_Summer">
         <nominal>15</nominal>
@@ -1419,7 +1756,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="GorkaHelmet">
         <nominal>9</nominal>
@@ -1432,10 +1775,13 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <tag name="shelves"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="GorkaHelmetVisor">
         <nominal>24</nominal>
@@ -1448,10 +1794,13 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <tag name="shelves"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="GorkaPants_Autumn">
         <nominal>12</nominal>
@@ -1463,7 +1812,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="GorkaPants_Flat">
         <nominal>12</nominal>
@@ -1475,7 +1830,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="GorkaPants_PautRev">
         <nominal>12</nominal>
@@ -1487,7 +1848,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="GorkaPants_Summer">
         <nominal>18</nominal>
@@ -1499,7 +1866,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="HandcuffKeys">
         <nominal>30</nominal>
@@ -1512,8 +1885,13 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
         <usage name="Police"/>
-        <usage name="Prison"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="Handcuffs">
         <nominal>60</nominal>
@@ -1526,8 +1904,13 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
         <usage name="Police"/>
-        <usage name="Prison"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="HikingBoots_Black">
         <nominal>90</nominal>
@@ -1540,8 +1923,13 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <tag name="floor"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
         <usage name="Town"/>
         <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="HipPack_Black">
         <nominal>45</nominal>
@@ -1553,7 +1941,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
         <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="HunterPants_Autumn">
         <nominal>63</nominal>
@@ -1565,9 +1959,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Hunting"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="HunterPants_Brown">
         <nominal>42</nominal>
@@ -1579,9 +1977,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Hunting"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="HunterPants_Spring">
         <nominal>20</nominal>
@@ -1593,9 +1995,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Hunting"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="HunterPants_Summer">
         <nominal>45</nominal>
@@ -1607,10 +2013,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Hunting"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="HunterPants_Winter">
         <nominal>12</nominal>
@@ -1622,9 +2031,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Hunting"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="HuntingBag">
         <nominal>36</nominal>
@@ -1636,10 +2049,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
-        <usage name="Hunting"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="HuntingJacket_Autumn">
         <nominal>54</nominal>
@@ -1651,9 +2067,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Hunting"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="HuntingJacket_Brown">
         <nominal>42</nominal>
@@ -1665,9 +2085,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Hunting"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="HuntingJacket_Summer">
         <nominal>42</nominal>
@@ -1679,10 +2103,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Hunting"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="HuntingJacket_Winter">
         <nominal>12</nominal>
@@ -1694,9 +2121,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Hunting"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="JungleBoots_Black">
         <nominal>12</nominal>
@@ -1709,7 +2140,13 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <tag name="floor"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="JungleBoots_Green">
         <nominal>12</nominal>
@@ -1722,7 +2159,13 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <tag name="floor"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="LandMineTrap">
         <nominal>30</nominal>
@@ -1734,8 +2177,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="explosives"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="LargeTent">
         <nominal>24</nominal>
@@ -1747,7 +2195,13 @@
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="containers"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="Lockpick">
         <nominal>50</nominal>
@@ -1770,8 +2224,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="M16A2">
         <nominal>6</nominal>
@@ -1783,7 +2242,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="M4A1">
         <nominal>30</nominal>
@@ -1821,9 +2286,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="M65Jacket_Khaki">
         <nominal>9</nominal>
@@ -1835,9 +2304,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="M67Grenade">
         <nominal>45</nominal>
@@ -1849,9 +2322,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="explosives"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="M79">
         <nominal>9</nominal>
@@ -1877,11 +2354,13 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <tag name="shelves"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
+        <usage name="Coast"/> 
     </type>
     <type name="MP5K">
         <nominal>48</nominal>
@@ -1893,9 +2372,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Village"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="Mag_1911_7Rnd">
         <nominal>84</nominal>
@@ -1908,9 +2391,13 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="Mag_AK101_30Rnd">
         <nominal>18</nominal>
@@ -1922,7 +2409,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="Mag_AK74_30Rnd">
         <nominal>75</nominal>
@@ -1934,9 +2427,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="Mag_AK74_45Rnd">
         <nominal>12</nominal>
@@ -1948,8 +2445,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="Mag_AKM_30Rnd">
         <nominal>12</nominal>
@@ -1986,9 +2488,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="Mag_Aug_30Rnd">
         <nominal>15</nominal>
@@ -2000,7 +2506,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="Mag_CMAG_10Rnd">
         <nominal>36</nominal>
@@ -2012,7 +2524,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="Mag_CMAG_20Rnd">
         <nominal>24</nominal>
@@ -2024,7 +2542,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="weapons"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="Mag_CMAG_30Rnd">
         <nominal>15</nominal>
@@ -2036,7 +2560,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="ContaminatedArea"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="Mag_CMAG_40Rnd">
         <nominal>12</nominal>
@@ -2048,7 +2578,13 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="ContaminatedArea"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="Mag_CZ527_5rnd">
         <nominal>60</nominal>
@@ -2061,11 +2597,13 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Farm"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
         <usage name="Village"/>
-        <usage name="Hunting"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
+        <usage name="Coast"/> 
     </type>
     <type name="Mag_CZ550_10Rnd">
         <nominal>24</nominal>
@@ -2077,9 +2615,14 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Hunting"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Farm"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="Mag_CZ61_20Rnd">
         <nominal>60</nominal>
@@ -2091,10 +2634,14 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
         <usage name="Police"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="Mag_CZ75_15Rnd">
         <nominal>180</nominal>
@@ -2106,11 +2653,14 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
         <usage name="Police"/>
+        <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
+        <usage name="Coast"/> 
     </type>
     <type name="Mag_Deagle_9rnd">
         <nominal>90</nominal>
@@ -2122,7 +2672,14 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
         <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="Mag_FAL_20Rnd">
         <nominal>27</nominal>
@@ -2134,7 +2691,14 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="ContaminatedArea"/>
+        <usage name="Farm"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="Mag_FAMAS_25Rnd">
         <nominal>15</nominal>
@@ -2146,7 +2710,14 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="Mag_FNX45_15Rnd">
         <nominal>90</nominal>
@@ -2158,10 +2729,14 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="Mag_Glock_15Rnd">
         <nominal>60</nominal>
@@ -2173,7 +2748,14 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
         <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="Mag_IJ70_8Rnd">
         <nominal>210</nominal>
@@ -2185,10 +2767,14 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
+        <usage name="Coast"/> 
     </type>
     <type name="Mag_M14_10Rnd">
         <nominal>18</nominal>
@@ -2200,8 +2786,14 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="Mag_M14_20Rnd">
         <nominal>12</nominal>
@@ -2213,8 +2805,14 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="Mag_MKII_10Rnd">
         <nominal>90</nominal>
@@ -2226,11 +2824,14 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
+        <usage name="Coast"/> 
     </type>
     <type name="Mag_MP5_15Rnd">
         <nominal>48</nominal>
@@ -2242,9 +2843,14 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="Mag_MP5_30Rnd">
         <nominal>30</nominal>
@@ -2256,9 +2862,14 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="Mag_P1_8Rnd">
         <nominal>105</nominal>
@@ -2270,10 +2881,14 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
+        <usage name="Coast"/> 
     </type>
     <type name="Mag_PP19_64Rnd">
         <nominal>36</nominal>
@@ -2285,9 +2900,14 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="Mag_Ruger1022_15Rnd">
         <nominal>105</nominal>
@@ -2299,10 +2919,14 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <<usage name="Farm"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
+        <usage name="Coast"/> 
     </type>
     <type name="Mag_Ruger1022_30Rnd">
         <nominal>90</nominal>
@@ -2314,10 +2938,14 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
+        <usage name="Coast"/> 
     </type>
     <type name="Mag_SSG82_5rnd">
         <nominal>54</nominal>
@@ -2329,9 +2957,14 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
         <usage name="Police"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/> 
     </type>
     <type name="Mag_STANAG_30Rnd">
         <nominal>15</nominal>
@@ -2343,10 +2976,15 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
-    </type>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/>
+    </type>       
     <type name="Mag_STANAG_60Rnd">
         <nominal>9</nominal>
         <lifetime>28800</lifetime>
@@ -2369,9 +3007,14 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/>
     </type>
     <type name="Mag_SVD_10Rnd">
         <nominal>12</nominal>
@@ -2383,7 +3026,14 @@
         <cost>1000</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="ContaminatedArea"/>
+        <usage name="Farm"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/>
     </type>
     <type name="Mag_Saiga_5Rnd">
         <nominal>54</nominal>
@@ -2396,8 +3046,14 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
+        <usage name="Farm"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/>
     </type>
     <type name="Mag_Saiga_8Rnd">
         <nominal>27</nominal>
@@ -2409,9 +3065,14 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/>
     </type>
     <type name="Mag_Saiga_Drum20Rnd">
         <nominal>9</nominal>
@@ -2423,8 +3084,14 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/>
     </type>
     <type name="Mag_Scout_5Rnd">
         <nominal>24</nominal>
@@ -2436,7 +3103,14 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
         <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/>
     </type>
     <type name="Mag_UMP_25Rnd">
         <nominal>42</nominal>
@@ -2448,9 +3122,14 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/>
     </type>
     <type name="Mag_VAL_20Rnd">
         <nominal>18</nominal>
@@ -2462,9 +3141,14 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/>
     </type>
     <type name="Mag_VSS_10Rnd">
         <nominal>24</nominal>
@@ -2476,9 +3160,14 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/>
     </type>
     <type name="Mag_Vikhr_30Rnd">
         <nominal>12</nominal>
@@ -2490,8 +3179,14 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/>
     </type>
     <type name="MedievalBoots">
         <nominal>6</nominal>
@@ -2503,7 +3198,14 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Historical"/>
+        <usage name="Farm"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/>
     </type>
     <type name="Mich2001Helmet">
         <nominal>12</nominal>
@@ -2515,8 +3217,14 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Farm"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/>
     </type>
     <type name="MilitaryBoots_Black">
         <nominal>15</nominal>
@@ -2529,7 +3237,14 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <tag name="floor"/>
+        <usage name="Farm"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
         <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Coast"/>
     </type>
     <type name="Mosin9130">
         <nominal>120</nominal>
