@@ -73,7 +73,7 @@
         <!-- centers for grids of spawn points -->
     <!-- Chernarus Random Spawns Across Entire Map-->
 <generator_posbubbles>
-    <pos x="3864" z="13747" />
+    <pos x="6719.09" z="14150.40" />
     <pos x="10143" z="13542" />
     <pos x="7758" z="9247" />   
 </generator_posbubbles>
