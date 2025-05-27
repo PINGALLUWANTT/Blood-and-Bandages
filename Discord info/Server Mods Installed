@@ -5,7 +5,7 @@
   "custom/MininfyedZebiks_Base.json",
   "custom/minyCultCamp1.json",
   "custom/minyCultCamp2.json",
-  "custom/minyDreamZ-Survivor-Cherno.json",
+  "custom/minyDreamZSurvivor-Cherno.json",
   "custom/minyFoBShamus.json",
   "custom/minyFORTKNOXHOME.json",
   "custom/minyfyedBlackLakehouse.json",
@@ -27,19 +27,31 @@
   "custom/minyYAIBC.json",
   "custom/minyZaprudnoe_Base.json",
   "custom/minyZFGoceanbase2.json",
- 
-"custom/WeedBank.json",
+  "custom/WeedBank.json",
   "custom/NWAFWalled.json",
   "custom/VyborClub.json",
   "custom/Island_Airport.json"
- 
-
   "custom/OilRigContainers.json",
-  "custom/"
-  "custom/",
-  "custom/"   
-  "custom/",
-  "custom/"
-  "custom/",
-  "custom/"
-  
+  "custom/4-OILRIGS-JJMODS.json",
+  "custom/b_BlackLake_v2_Area.json",
+  "custom/BlackLake_v2_Loot.json",   
+  "custom/BennettsOilRig2.json",
+  "custom/blackmbase.json",
+  "custom/ButcherBase_By_DonMatraca.json",
+  "custom/C_BUNKER_01.json",
+  "custom/CarKits.json",
+  "custom/CarParks.json",
+  "custom/customnwafbase.json",
+  "custom/MaxSecurityPrisonIsland.json",
+  "custom/NWAFWalled.json",
+  "custom/OilRig.json",
+  "custom/SailnsBoatBase.json",
+  "custom/SailnsCheckers.json",
+  "custom/Shipment.json",
+  "custom/shipmentloot.json",
+  "custom/SmallBaseCliffside.json",
+  "custom/StaryAuto_TrueSeaweed.json",
+  "custom/StaryAutoBlowtorches.json",
+  "custom/TerminusTwdChernarevamp.json",
+  "custom/ToolShed.json"
+  "custom/Villa.json"
