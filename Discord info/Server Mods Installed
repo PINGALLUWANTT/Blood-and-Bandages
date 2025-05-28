@@ -1,4 +1,4 @@
-  "custom/MinifiedAc130.json",
+
   "custom/minifiedAKDcontainer.json",
   "custom/MinifiedConvertedTrader.json",
   "custom/minifiedOfshoreinstal.json",
@@ -6,11 +6,9 @@
   "custom/minyCultCamp1.json",
   "custom/minyCultCamp2.json",
   "custom/minyDreamZSurvivor-Cherno.json",
-  "custom/minyFoBShamus.json",
   "custom/minyFORTKNOXHOME.json",
   "custom/minyfyedBlackLakehouse.json",
   "custom/MinyfyedBridgeBase.json",
-  "custom/MinyfyedCompound1.json",
   "custom/MinyfyedFortKnox.json",
   "custom/minyfyedPillarBase.json",
   "custom/minyfyedRadioZB.json",
@@ -44,7 +42,6 @@
   "custom/NWAFWalled.json",
   "custom/OilRig.json",
   "custom/SailnsBoatBase.json",
-  "custom/SailnsCheckers.json",
   "custom/SmallBaseCliffside.json",
   "custom/StaryAuto_TrueSeaweed.json",
   "custom/StaryAutoBlowtorches.json",
@@ -62,3 +59,9 @@ EVENTS;
   "custom/shipmentloot.json"
   "custom/VyborClub.json",
   "custom/minyQuanticoPVP.json",
+  "custom/SailnsCheckers.json",
+
+Subscriber Bases
+"custom/minyFoBShamus.json",
+"custom/MinyfyedCompound1.json",
+"custom/MinifiedAc130.json",
