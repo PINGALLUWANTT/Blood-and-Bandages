@@ -20,7 +20,6 @@
   "custom/minyMATERIAL_TRUCKS.json",
   "custom/minyMediumBase-1.json",
   "custom/minyPUSTOSHKABASE.json",
-  "custom/minyQuanticoPVP.json",
   "custom/minySolnichniy_Base.json",
   "custom/minyStarySaborBase.json",
   "custom/minyWater_Base.json",
@@ -29,7 +28,6 @@
   "custom/minyZFGoceanbase2.json",
   "custom/WeedBank.json",
   "custom/NWAFWalled.json",
-  "custom/VyborClub.json",
   "custom/Island_Airport.json"
   "custom/OilRigContainers.json",
   "custom/4-OILRIGS-JJMODS.json",
@@ -60,64 +58,6 @@
 
 
   "custom/Shipment.json",
-  "custom/shipmentloot.json",
-
-locations
-
-  "custom/MinifiedAc130.json",  - Coast of Belota
-  "custom/minifiedAKDcontainer.json", - My Base
-  "custom/MinifiedConvertedTrader.json", - Vybor
-  "custom/minifiedOfshoreinstal.json",
-  "custom/MininfyedZebiks_Base.json",
-  "custom/minyCultCamp1.json",
-  "custom/minyCultCamp2.json",
-  "custom/minyDreamZSurvivor-Cherno.json",
-  "custom/minyFoBShamus.json", on way to belota on the soccer field
-  "custom/minyFORTKNOXHOME.json",
-  "custom/minyfyedBlackLakehouse.json", - black lake
-  "custom/MinyfyedBridgeBase.json", - hidden króna Bridge base
-  "custom/MinyfyedCompound1.json",
-  "custom/MinyfyedFortKnox.json", - weed Bunker 
-  "custom/minyfyedPillarBase.json", - 
-  "custom/minyfyedRadioZB.json", - Radio Z Bunker
-  "custom/MinyfyedTrikestrabase.json", - Trikestra 
-  "custom/minyJJMODS-MULTISTORYBASE.json", - Jacks base
-  "custom/minyLakeHouse.json", - tisy
-  "custom/minyMATERIAL_TRUCKS.json", - all over
-  "custom/minyMediumBase-1.json",
-  "custom/minyPUSTOSHKABASE.json",
-  "custom/minyQuanticoPVP.json", - ski resort
-  "custom/minySolnichniy_Base.json", -solnichy
-  "custom/minyStarySaborBase.json",
-  "custom/minyWater_Base.json",
-  "custom/minyYAIBC.json",
-  "custom/minyZaprudnoe_Base.json",
-  "custom/minyZFGoceanbase2.json",
-  "custom/WeedBank.json", - plotina 
-  "custom/NWAFWalled.json",
+  "custom/shipmentloot.json"
   "custom/VyborClub.json",
-  "custom/Island_Airport.json"
-  "custom/OilRigContainers.json",
-  "custom/4-OILRIGS-JJMODS.json",
-  "custom/b_BlackLake_v2_Area.json",
-  "custom/BlackLake_v2_Loot.json",   
-  "custom/BennettsOilRig2.json",
-  "custom/blackmbase.json",
-  "custom/ButcherBase_By_DonMatraca.json",
-  "custom/C_BUNKER_01.json",
-  "custom/CarKits.json",
-  "custom/CarParks.json",
-  "custom/customnwafbase.json",
-  "custom/MaxSecurityPrisonIsland.json",
-  "custom/NWAFWalled.json",
-  "custom/OilRig.json",
-  "custom/SailnsBoatBase.json",
-  "custom/SailnsCheckers.json",
-  "custom/Shipment.json",
-  "custom/shipmentloot.json",
-  "custom/SmallBaseCliffside.json",
-  "custom/StaryAuto_TrueSeaweed.json",
-  "custom/StaryAutoBlowtorches.json",
-  "custom/TerminusTwdChernarevamp.json",
-  "custom/ToolShed.json"
-  "custom/Villa.json"
+  "custom/minyQuanticoPVP.json",
