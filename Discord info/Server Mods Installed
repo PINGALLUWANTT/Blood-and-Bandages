@@ -1,14 +1,10 @@
-[
   "custom/MinifiedConvertedTrader.json",
   "custom/KamenskHiddenBase.json",
   "custom/BASEKOMETA.json",
-  "custom/H2S_NEAFBase.json",
   "custom/minifiedAKDcontainer.json",
   "custom/BennettsSpawnSelector.json",
   "custom/minyCultCamp1.json",
-  "custom/KabininoRPTown_AbbieBritt.json",
   "custom/minyCultCamp2.json",
-  "custom/CourtHouse_AbbieBritt.json",
   "custom/minyDreamZSurvivor-Cherno.json",
   "custom/minyFORTKNOXHOME.json",
   "custom/minyfyedBlackLakehouse.json",
@@ -41,4 +37,3 @@
   "custom/TerminusTwdChernarevamp.json",
   "custom/ToolShed.json",
   "custom/Villa.json"
-],
