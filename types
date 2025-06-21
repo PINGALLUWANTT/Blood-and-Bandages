@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <types><type name="R12">
-      <nominal>6</nominal>
+      <nominal>30</nominal>
         <lifetime>14400</lifetime>
       <restock>0</restock>
-       <min>4</min>
+       <min>20</min>
       <quantmin>10</quantmin>
      <quantmax>80</quantmax>
       <cost>100</cost>
@@ -57,10 +57,10 @@
         <usage name="Village"/>
     </type>
     <type name="AKM">
-        <nominal>9</nominal>
+        <nominal>30</nominal>
         <lifetime>7200</lifetime>
         <restock>3600</restock>
-        <min>6</min>
+        <min>20</min>
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -87,10 +87,10 @@
         <usage name="Village"/>
     </type>
     <type name="AK_Suppressor">
-        <nominal>6</nominal>
+        <nominal>30</nominal>
         <lifetime>9800</lifetime>
         <restock>1800</restock>
-        <min>3</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
